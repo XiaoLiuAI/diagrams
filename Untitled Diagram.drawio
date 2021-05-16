@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T03:06:34.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.10" etag="9k957WHwJ1lLPXUGWJB2" type="github"><diagram id="g7nmf-FaKMw0j1lxo3OD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-16T04:47:13.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="SNKuzO2XnZs2BkIOEt-q" version="14.6.10" type="github">
+  <diagram id="g7nmf-FaKMw0j1lxo3OD" name="Page-1">
+    <mxGraphModel dx="1106" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I269blWbNcy9UO4Hvc6d-3" value="保单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-4" value="明细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="282" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-5" value="病历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="282" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-7" value="Level 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-8" value="保单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-9" value="明细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="172" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-10" value="病历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="172" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-11" value="身份证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="172" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-12" value="银行卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="172" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
