@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T05:33:12.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="hVlG7aAw4vjggc0xHq84" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-16T05:40:47.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4FtSkaJ3BZvLhZRJ9r8k" version="14.6.10" type="github">
   <diagram id="g7nmf-FaKMw0j1lxo3OD" name="Page-1">
     <mxGraphModel dx="1106" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -150,6 +150,51 @@
             <Array as="points">
               <mxPoint x="260" y="710" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1040" y="720" width="350" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-65" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="I269blWbNcy9UO4Hvc6d-64">
+          <mxGeometry x="1" width="350" height="250.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-66" value="Risk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I269blWbNcy9UO4Hvc6d-64">
+          <mxGeometry x="120" y="10.42" width="110" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-68" value="赔案层" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="I269blWbNcy9UO4Hvc6d-64">
+          <mxGeometry x="70" y="41.670000000000016" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-70" value="明细层" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="I269blWbNcy9UO4Hvc6d-64">
+          <mxGeometry x="30" y="101.67000000000002" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-71" value="机构" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="I269blWbNcy9UO4Hvc6d-64">
+          <mxGeometry x="110" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-75" value="投保人" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="I269blWbNcy9UO4Hvc6d-64">
+          <mxGeometry x="150" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-76" value="销售" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="I269blWbNcy9UO4Hvc6d-64">
+          <mxGeometry x="190" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-72" value="风控" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#0000FF;strokeColor=#FF3333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="900" y="690" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-73" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I269blWbNcy9UO4Hvc6d-35" target="I269blWbNcy9UO4Hvc6d-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="660" as="sourcePoint" />
+            <mxPoint x="1020" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-77" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I269blWbNcy9UO4Hvc6d-16" target="I269blWbNcy9UO4Hvc6d-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="620" as="sourcePoint" />
+            <mxPoint x="770" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I269blWbNcy9UO4Hvc6d-78" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;" edge="1" parent="1" source="I269blWbNcy9UO4Hvc6d-72" target="I269blWbNcy9UO4Hvc6d-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="640" as="sourcePoint" />
+            <mxPoint x="890" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
