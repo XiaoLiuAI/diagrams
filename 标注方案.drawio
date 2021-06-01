@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T07:55:51.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="uO-UXNXQI_j2AboDMFH_" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T07:58:42.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="BswuV79aR3634hYUrDUk" version="14.6.13" type="github">
   <diagram id="nuQsLSKCX1yVviRM6mYH" name="Page-1">
     <mxGraphModel dx="800" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,30 @@
         </mxCell>
         <mxCell id="ITm9v_sGWqswMa6FpneH-14" value="标注target data point" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="770" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-15" value="方案2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-16" value="选定目标任务: 异常住院" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-18" value="任务对应数据列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-19" value="Target+Context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-21" value="Target View" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-22" value="Context View" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-23" value="" style="shape=cross;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=#000000;labelBorderColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="366" y="415" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
