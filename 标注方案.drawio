@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T08:07:18.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="6MrAKo-L_VhN5a5Opnaj" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T08:08:04.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="28QcSDbWSu4wvDNRSiAv" version="14.6.13" type="github">
   <diagram id="nuQsLSKCX1yVviRM6mYH" name="Page-1">
     <mxGraphModel dx="800" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,8 +82,8 @@
         <mxCell id="ITm9v_sGWqswMa6FpneH-32" value="&lt;ol&gt;&lt;li&gt;Pros&lt;/li&gt;&lt;ol&gt;&lt;li&gt;数据结构相对简单，不做数据融合的情况下，对应操作简单&lt;/li&gt;&lt;li&gt;数据粒度清晰，方便做sampling&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Cons&lt;/li&gt;&lt;ol&gt;&lt;li&gt;冗余上下文，一个person可能在低层级的task上重复出现多次&lt;/li&gt;&lt;li&gt;数据融合的时候会比较复杂&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="710" width="420" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ITm9v_sGWqswMa6FpneH-33" value="&lt;ol&gt;&lt;li&gt;Pros&lt;/li&gt;&lt;ol&gt;&lt;li&gt;统一的数据结构，全明细操作一览无余&lt;/li&gt;&lt;li&gt;可以同时进行不同粒度，不同任务的标注&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Cons&lt;/li&gt;&lt;ol&gt;&lt;li&gt;数据结构上限定死在person层级，不能支持类似graph的任务&lt;/li&gt;&lt;li&gt;不方便做sampling&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="300" width="420" height="200" as="geometry" />
+        <mxCell id="ITm9v_sGWqswMa6FpneH-33" value="&lt;ol&gt;&lt;li&gt;Pros&lt;/li&gt;&lt;ol&gt;&lt;li&gt;统一的数据结构，全明细操作一览无余&lt;/li&gt;&lt;li&gt;可以同时进行不同粒度，不同任务的标注&lt;/li&gt;&lt;li&gt;标注的交互设计，数据视图(不用视图过滤，冗余信息太多)设计比较复杂&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Cons&lt;/li&gt;&lt;ol&gt;&lt;li&gt;数据结构上限定死在person层级，不能支持类似graph的任务&lt;/li&gt;&lt;li&gt;不方便做sampling&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="490" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
