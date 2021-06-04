@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T04:08:29.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="OMq1-CR0gYBR8KnKVBwa" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T04:09:58.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0a96XqJF_CTz-jlBiMvj" version="14.6.13" type="github">
   <diagram id="nuQsLSKCX1yVviRM6mYH" name="Page-1">
     <mxGraphModel dx="1005" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,8 +178,8 @@
             <mxPoint x="288" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITm9v_sGWqswMa6FpneH-71" value="&lt;ol&gt;&lt;li&gt;批量预标注&lt;/li&gt;&lt;li&gt;增量训练/全量训练，通过timestamp由AI部分自行决定&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1372.5" width="280" height="65" as="geometry" />
+        <mxCell id="ITm9v_sGWqswMa6FpneH-71" value="&lt;ol&gt;&lt;li&gt;批量预标注&lt;/li&gt;&lt;li&gt;增量训练/全量训练，通过timestamp由AI部分自行决定或者在标注里面配置&lt;/li&gt;&lt;li&gt;数据字段，参考label-studio，用confidence+filter来实现active learning的选择&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1372.5" width="280" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="ITm9v_sGWqswMa6FpneH-72" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ITm9v_sGWqswMa6FpneH-45" target="ITm9v_sGWqswMa6FpneH-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
