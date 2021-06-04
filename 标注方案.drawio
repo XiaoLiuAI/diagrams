@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T04:10:10.433Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="zwD4ac2npvz4OEvt12gY" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T04:16:29.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="udlxTavI69SGD1swZLW0" version="14.6.13" type="github">
   <diagram id="nuQsLSKCX1yVviRM6mYH" name="Page-1">
     <mxGraphModel dx="1005" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -151,15 +151,6 @@
             <mxPoint x="490" y="1063" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITm9v_sGWqswMa6FpneH-59" value="参考label-studio的协议设计" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="530" y="873" width="250" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="ITm9v_sGWqswMa6FpneH-60" value="auto label" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ITm9v_sGWqswMa6FpneH-59">
-          <mxGeometry y="26" width="250" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ITm9v_sGWqswMa6FpneH-61" value="additional info for filter (score, confidence)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ITm9v_sGWqswMa6FpneH-59">
-          <mxGeometry y="52" width="250" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="ITm9v_sGWqswMa6FpneH-66" value="单体风险" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="1390" width="120" height="30" as="geometry" />
         </mxCell>
@@ -192,6 +183,12 @@
         </mxCell>
         <mxCell id="ITm9v_sGWqswMa6FpneH-74" value="&lt;ol&gt;&lt;li&gt;存储形式 ?group label into every nodes?&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1532.5" width="280" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-76" value="脑暴" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-77" value="&lt;ol&gt;&lt;li&gt;标注界面的部分视图标准化，和BI共用&lt;/li&gt;&lt;li&gt;视图可配置&lt;br&gt;&lt;/li&gt;&lt;li&gt;BI对数据层进行修改，打标签&lt;/li&gt;&lt;li&gt;AI部分通过视图透视实现不同层级数据质量的适配(有明细 vs 无明细)&lt;/li&gt;&lt;li&gt;融入对码体系&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1700" width="450" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
