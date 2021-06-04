@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T08:08:04.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="28QcSDbWSu4wvDNRSiAv" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T03:30:48.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="OX_7-DFDS9PgMzUi2zP3" version="14.6.13" type="github">
   <diagram id="nuQsLSKCX1yVviRM6mYH" name="Page-1">
-    <mxGraphModel dx="800" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1005" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,30 @@
         </mxCell>
         <mxCell id="ITm9v_sGWqswMa6FpneH-33" value="&lt;ol&gt;&lt;li&gt;Pros&lt;/li&gt;&lt;ol&gt;&lt;li&gt;统一的数据结构，全明细操作一览无余&lt;/li&gt;&lt;li&gt;可以同时进行不同粒度，不同任务的标注&lt;/li&gt;&lt;li&gt;标注的交互设计，数据视图(不用视图过滤，冗余信息太多)设计比较复杂&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Cons&lt;/li&gt;&lt;ol&gt;&lt;li&gt;数据结构上限定死在person层级，不能支持类似graph的任务&lt;/li&gt;&lt;li&gt;不方便做sampling&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="300" width="490" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-34" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-35" value="标注" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-36" value="AL" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-37" value="Classifier" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-38" value="Graph" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1070" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-39" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1070" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-40" value="Data" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1010" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-41" value="Label" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1010" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
