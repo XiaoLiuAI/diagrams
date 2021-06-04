@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T04:16:50.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="EUd-fvCBiTiL8T74vUMH" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T04:17:17.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PcqH57pqy0lpvadnPOUA" version="14.6.13" type="github">
   <diagram id="nuQsLSKCX1yVviRM6mYH" name="Page-1">
     <mxGraphModel dx="1005" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="ITm9v_sGWqswMa6FpneH-36" value="AI" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="550" y="973" width="45" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ITm9v_sGWqswMa6FpneH-37" value="Classifier Pool" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="ITm9v_sGWqswMa6FpneH-37" value="Classifier Pool/Storage" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="700" y="973" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ITm9v_sGWqswMa6FpneH-38" value="Graph" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
