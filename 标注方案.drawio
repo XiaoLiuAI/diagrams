@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T04:29:43.360Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="OyPplyDZWYUeOC-f-HSa" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T04:31:37.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="H0-2Cy40_-5BBI6_oUQ8" version="14.6.13" type="github">
   <diagram id="nuQsLSKCX1yVviRM6mYH" name="Page-1">
     <mxGraphModel dx="1005" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="ITm9v_sGWqswMa6FpneH-77" value="&lt;ol&gt;&lt;li&gt;标注界面的部分视图标准化，和BI共用&lt;/li&gt;&lt;li&gt;视图可配置&lt;br&gt;&lt;/li&gt;&lt;li&gt;BI对数据层进行修改，打标签&lt;/li&gt;&lt;li&gt;AI部分通过视图透视实现不同层级数据质量的适配(有明细 vs 无明细)&lt;/li&gt;&lt;li&gt;融入对码体系&lt;/li&gt;&lt;li&gt;融入其它原始数据，多模态&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1700" width="450" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ITm9v_sGWqswMa6FpneH-78" value="1. 本地文件+时间戳&lt;br&gt;2. &lt;strike&gt;wandb&lt;/strike&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1043" width="120" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
