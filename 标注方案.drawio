@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T05:41:22.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="c-Ix326kewG2TDHCjojj" version="14.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T05:45:19.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="22j_qRRcOQ1bhi7vso6J" version="14.7.5" type="github">
   <diagram id="nuQsLSKCX1yVviRM6mYH" name="Page-1">
     <mxGraphModel dx="1901" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -214,13 +214,13 @@
         <mxCell id="VJiu-uASlvxJ1oCcI06f-7" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="973" width="460" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="VJiu-uASlvxJ1oCcI06f-8" value="方案1: dash/plotly + streamlit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJiu-uASlvxJ1oCcI06f-7">
+        <mxCell id="VJiu-uASlvxJ1oCcI06f-8" value="方案1: dash/plotly + streamlit, 复用性，多用户，任务分配" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJiu-uASlvxJ1oCcI06f-7">
           <mxGeometry y="26" width="460" height="26" as="geometry" />
         </mxCell>
         <mxCell id="VJiu-uASlvxJ1oCcI06f-9" value="方案2: 标准前端，tree view + echart + 标注系统(Java后端) +ML(python后端)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJiu-uASlvxJ1oCcI06f-7">
           <mxGeometry y="52" width="460" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="VJiu-uASlvxJ1oCcI06f-10" value="方案3: neo4j+graphql" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJiu-uASlvxJ1oCcI06f-7">
+        <mxCell id="VJiu-uASlvxJ1oCcI06f-10" value="方案3: 定制label-studio，tree view + echart +ML(python后端)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJiu-uASlvxJ1oCcI06f-7">
           <mxGeometry y="78" width="460" height="26" as="geometry" />
         </mxCell>
       </root>
