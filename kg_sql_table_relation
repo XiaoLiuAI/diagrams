@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T06:21:08.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ysB3ia5AU-LYW-g44SQl" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T06:24:02.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6sfxC63J2c77PC3m8-Ev" version="14.8.0" type="github">
   <diagram id="UxRSISEP6AwqFOPrb5KL" name="Page-1">
     <mxGraphModel dx="932" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="145" y="340" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cDmhpJFEqED5jexLG_RS-4" value="base_social_insurance_detail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="430" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cDmhpJFEqED5jexLG_RS-5" value="base_social_insurance_detail_self_ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="610" width="120" height="60" as="geometry" />
