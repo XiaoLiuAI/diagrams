@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T02:04:10.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6qvJuGrtAXEhZBkOz7p3" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T02:07:14.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="93oK1HiMxZxa9PO8PKPi" version="14.8.1" type="github">
   <diagram id="28fD1lPHp2nBN_FIaljo" name="Page-1">
     <mxGraphModel dx="1065" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="HfuYKC1O9PEtmWfFIwPA-5" value="思派" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HfuYKC1O9PEtmWfFIwPA-6" value="友邦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HfuYKC1O9PEtmWfFIwPA-6" value="友邦(格式已转化)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HfuYKC1O9PEtmWfFIwPA-7" value="商保&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
