@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T11:57:09.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="8R6Yy-maa2a9vvsm5twl" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T11:57:58.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="kLtf2Y-lFe8LFd4wUEwd" version="14.8.2" type="github">
   <diagram id="r0nAXbB4oqDa0CCIyw1b" name="Page-1">
     <mxGraphModel dx="1809" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,6 +285,9 @@
             <mxPoint x="280" y="340" as="sourcePoint" />
             <mxPoint x="380" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-71" value="团险投保人等价为公司？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="450" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
