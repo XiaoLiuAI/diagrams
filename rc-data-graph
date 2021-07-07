@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T12:02:02.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Bdi7LH57B0PWRCBkuybk" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T07:04:07.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="7hbPHYkVeTeVKbyKYaw8" version="14.8.2" type="github">
   <diagram id="r0nAXbB4oqDa0CCIyw1b" name="Page-1">
     <mxGraphModel dx="1809" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -308,6 +308,34 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="52.42640687119274" y="661.7157287525383" as="sourcePoint" />
             <mxPoint x="140" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-78" value="金额如何在图算法中体现?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0D2D;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="800" y="170" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-79" value="时间关系怎么体现？record graph?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0D2D;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="570" y="-70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-80" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;dashed=1;dashPattern=1 1;fontColor=#FF0D2D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="x2hLTwOyUqX6r6jF1QFQ-20">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="510" y="250" as="sourcePoint" />
+            <mxPoint x="410" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-81" value="这个关系有冗余，但是对于传播有意义" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0D2D;" vertex="1" connectable="0" parent="x2hLTwOyUqX6r6jF1QFQ-80">
+          <mxGeometry x="-0.0538" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-82" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;dashed=1;dashPattern=1 1;fontColor=#FF0D2D;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x2hLTwOyUqX6r6jF1QFQ-5" target="x2hLTwOyUqX6r6jF1QFQ-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="560" y="270" as="sourcePoint" />
+            <mxPoint x="540" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-83" value="这个关系有冗余，但是对于传播有意义" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0D2D;" vertex="1" connectable="0" parent="x2hLTwOyUqX6r6jF1QFQ-82">
+          <mxGeometry x="-0.0538" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
