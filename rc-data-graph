@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T10:42:01.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="hIr229I8_m_0TI4gJ9jY" version="14.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-09T10:43:13.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="PF9vHnctFYu_qd2j-mFg" version="14.8.2" type="github" pages="2">
   <diagram id="r0nAXbB4oqDa0CCIyw1b" name="Page-1">
     <mxGraphModel dx="1628" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -398,7 +398,7 @@
         <mxCell id="wkuGj0oFW8g6EcXuO2_e-6" value="就诊/事件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
           <mxGeometry x="80" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wkuGj0oFW8g6EcXuO2_e-7" value="就诊/事件机构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
+        <mxCell id="wkuGj0oFW8g6EcXuO2_e-7" value="浙江大学第二附属医院" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
           <mxGeometry x="320" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wkuGj0oFW8g6EcXuO2_e-8" value="发票" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
@@ -408,18 +408,7 @@
           <mxGeometry x="150" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wkuGj0oFW8g6EcXuO2_e-10" value="明细/大项" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
-          <mxGeometry x="880" y="80" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="wkuGj0oFW8g6EcXuO2_e-17" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wkuGj0oFW8g6EcXuO2_e-1" source="wkuGj0oFW8g6EcXuO2_e-8" target="wkuGj0oFW8g6EcXuO2_e-10">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="620" y="220" as="sourcePoint" />
-            <mxPoint x="707.5735931288073" y="191.7157287525381" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wkuGj0oFW8g6EcXuO2_e-18" value="HAS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkuGj0oFW8g6EcXuO2_e-17">
-          <mxGeometry x="-0.1281" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="570" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wkuGj0oFW8g6EcXuO2_e-21" value="保险产品" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
           <mxGeometry x="-140" y="635" width="120" height="80" as="geometry" />
@@ -492,7 +481,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wkuGj0oFW8g6EcXuO2_e-47" value="标准明细目录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
-          <mxGeometry x="930" y="-90" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="-50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wkuGj0oFW8g6EcXuO2_e-48" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wkuGj0oFW8g6EcXuO2_e-1" source="wkuGj0oFW8g6EcXuO2_e-47" target="wkuGj0oFW8g6EcXuO2_e-7">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -559,9 +548,9 @@
           <mxGeometry x="800" y="170" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wkuGj0oFW8g6EcXuO2_e-68" value="时间关系怎么体现？record graph?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0D2D;fontStyle=3" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
-          <mxGeometry x="570" y="-70" width="140" height="50" as="geometry" />
+          <mxGeometry x="190" y="-20" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wkuGj0oFW8g6EcXuO2_e-73" value="日期" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
+        <mxCell id="wkuGj0oFW8g6EcXuO2_e-73" value="2019-05-21" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
           <mxGeometry x="80" y="10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wkuGj0oFW8g6EcXuO2_e-76" value="保险责任" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
@@ -726,6 +715,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="200" as="sourcePoint" />
             <mxPoint x="430" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U6-NGbcH3sJgqPUMrYaz-22" value="HAS" style="endArrow=classic;html=1;dashed=1;dashPattern=1 1;fontColor=#FF0D2D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wkuGj0oFW8g6EcXuO2_e-1" source="wkuGj0oFW8g6EcXuO2_e-8" target="wkuGj0oFW8g6EcXuO2_e-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="200" as="sourcePoint" />
+            <mxPoint x="580" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
