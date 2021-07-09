@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T09:50:38.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AqfvIuWKnC5txHTMLBQE" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T09:57:39.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="i0s41MnWe8b0_d1hPE2c" version="14.8.2" type="github">
   <diagram id="r0nAXbB4oqDa0CCIyw1b" name="Page-1">
     <mxGraphModel dx="1665" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,14 +89,8 @@
         <mxCell id="x2hLTwOyUqX6r6jF1QFQ-20" value="保险产品" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="470" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-21" value="保险责任" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="680" y="500" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-22" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2hLTwOyUqX6r6jF1QFQ-20" target="x2hLTwOyUqX6r6jF1QFQ-21">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="620" y="220" as="sourcePoint" />
-            <mxPoint x="707.5735931288073" y="191.7157287525381" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-21" value="产品-保险责任" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x2hLTwOyUqX6r6jF1QFQ-23" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2hLTwOyUqX6r6jF1QFQ-4" target="x2hLTwOyUqX6r6jF1QFQ-20">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -350,6 +344,21 @@
         <mxCell id="x2hLTwOyUqX6r6jF1QFQ-86" value="入院时间/就诊时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0D2D;" vertex="1" connectable="0" parent="x2hLTwOyUqX6r6jF1QFQ-85">
           <mxGeometry x="0.1563" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-88" value="保险责任" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="840" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-89" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;dashed=1;dashPattern=1 1;fontColor=#FF0D2D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2hLTwOyUqX6r6jF1QFQ-20" target="x2hLTwOyUqX6r6jF1QFQ-21">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="610" y="390" as="sourcePoint" />
+            <mxPoint x="710" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2hLTwOyUqX6r6jF1QFQ-90" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;dashed=1;dashPattern=1 1;fontColor=#FF0D2D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2hLTwOyUqX6r6jF1QFQ-21" target="x2hLTwOyUqX6r6jF1QFQ-88">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="600" y="470" as="sourcePoint" />
+            <mxPoint x="660" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
