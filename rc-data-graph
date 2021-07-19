@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T02:29:21.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="IjA3fPAZ2j4_urkh0_t9" version="14.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-19T02:30:30.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="aRzdHUxFJW1obwWjJwfm" version="14.8.5" type="github" pages="2">
   <diagram id="r0nAXbB4oqDa0CCIyw1b" name="Page-1">
     <mxGraphModel dx="1868" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -504,7 +504,7 @@
           <mxGeometry x="-1050" y="110" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wkuGj0oFW8g6EcXuO2_e-73" value="PersonDate&lt;br&gt;2019-05-21" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="wkuGj0oFW8g6EcXuO2_e-1" vertex="1">
-          <mxGeometry x="-180" width="120" height="80" as="geometry" />
+          <mxGeometry x="-170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wkuGj0oFW8g6EcXuO2_e-76" value="保险责任" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="wkuGj0oFW8g6EcXuO2_e-1" vertex="1">
           <mxGeometry x="-70" y="910" width="120" height="80" as="geometry" />
@@ -994,7 +994,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ui1FPHJ7eyurGUHQS6-i-53" value="AT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0D2D;" vertex="1" connectable="0" parent="wkuGj0oFW8g6EcXuO2_e-1">
+        <mxCell id="ui1FPHJ7eyurGUHQS6-i-53" value="&lt;font color=&quot;#171fff&quot;&gt;AT&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0D2D;" vertex="1" connectable="0" parent="wkuGj0oFW8g6EcXuO2_e-1">
           <mxGeometry x="15.841308011686124" y="124.91596077374925" as="geometry">
             <mxPoint x="43" y="-85" as="offset" />
           </mxGeometry>
@@ -1006,6 +1006,11 @@
             <Array as="points">
               <mxPoint x="-320" y="100" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ui1FPHJ7eyurGUHQS6-i-55" value="&lt;font color=&quot;#171fff&quot;&gt;HAS_DAY&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ui1FPHJ7eyurGUHQS6-i-54">
+          <mxGeometry x="-0.3487" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
