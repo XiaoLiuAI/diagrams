@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T02:39:23.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3ujxRcyAYcEbhLpQsp_0" version="14.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-19T02:41:57.319Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="B0_yiePuKBb5zq06GPro" version="14.8.5" type="github" pages="2">
   <diagram id="r0nAXbB4oqDa0CCIyw1b" name="Page-1">
     <mxGraphModel dx="1868" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1065,6 +1065,12 @@
           <mxGeometry x="-0.2256" y="-1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ui1FPHJ7eyurGUHQS6-i-78" value="疾病-年龄性别不符" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F895EE;strokeColor=#9C0683;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
+          <mxGeometry x="-790" y="-450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ui1FPHJ7eyurGUHQS6-i-79" value="疾病-年龄不符" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F895EE;strokeColor=#9C0683;" vertex="1" parent="wkuGj0oFW8g6EcXuO2_e-1">
+          <mxGeometry x="-650" y="-450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
