@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-21T14:48:23.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="fvejTJKp07PfwaWF3bTZ" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-21T17:00:01.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="QOfVInVBGMgO1pnhvUPK" version="14.9.8" type="github">
   <diagram id="xsozCrFMCUInGNj29Tw-" name="Page-1">
     <mxGraphModel dx="1897" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,15 +48,6 @@
         </mxCell>
         <mxCell id="lfAO867idKvEuOiU2Tfm-12" value="特殊林克时间(Y+拉弓)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lfAO867idKvEuOiU2Tfm-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfAO867idKvEuOiU2Tfm-1" target="lfAO867idKvEuOiU2Tfm-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="420" as="sourcePoint" />
-            <mxPoint x="370" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="130" y="220" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="lfAO867idKvEuOiU2Tfm-14" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lfAO867idKvEuOiU2Tfm-1" target="lfAO867idKvEuOiU2Tfm-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -175,7 +166,7 @@
         <mxCell id="lfAO867idKvEuOiU2Tfm-42" value="盾档重置闪袭 &lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;SB&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#0000cc&quot;&gt;&lt;b&gt;R&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-40" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lfAO867idKvEuOiU2Tfm-43" value="完美盾档重置闪袭 &lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;SXXB&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#0000cc&quot;&gt;&lt;b&gt;R&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="lfAO867idKvEuOiU2Tfm-43" value="完美盾档重置闪袭 &lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;D&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;SB&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#0000cc&quot;&gt;&lt;b&gt;R&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-40" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lfAO867idKvEuOiU2Tfm-45" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfAO867idKvEuOiU2Tfm-40" target="lfAO867idKvEuOiU2Tfm-15">
@@ -264,6 +255,72 @@
         </mxCell>
         <mxCell id="lfAO867idKvEuOiU2Tfm-57" value="落地达尔克突袭 &lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;LD&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#0000cc&quot;&gt;&lt;b&gt;R&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAO867idKvEuOiU2Tfm-60" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="lfAO867idKvEuOiU2Tfm-39" target="lfAO867idKvEuOiU2Tfm-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="610" as="sourcePoint" />
+            <mxPoint x="490" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAO867idKvEuOiU2Tfm-61" value="进入之后被攻击到达尔克护盾上" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAO867idKvEuOiU2Tfm-62" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfAO867idKvEuOiU2Tfm-40" target="lfAO867idKvEuOiU2Tfm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="610" as="sourcePoint" />
+            <mxPoint x="420" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAO867idKvEuOiU2Tfm-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="lfAO867idKvEuOiU2Tfm-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="545" as="sourcePoint" />
+            <mxPoint x="250" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAO867idKvEuOiU2Tfm-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfAO867idKvEuOiU2Tfm-43" target="lfAO867idKvEuOiU2Tfm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="625" as="sourcePoint" />
+            <mxPoint x="260" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAO867idKvEuOiU2Tfm-65" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lfAO867idKvEuOiU2Tfm-2" target="lfAO867idKvEuOiU2Tfm-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="610" as="sourcePoint" />
+            <mxPoint x="420" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAO867idKvEuOiU2Tfm-66" value="被动&lt;br&gt;&lt;font color=&quot;#ff0d2d&quot;&gt;激光，人马冲击波&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAO867idKvEuOiU2Tfm-67" value="主动&lt;br&gt;&lt;font color=&quot;#ff0d2d&quot;&gt;炸弹箭&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAO867idKvEuOiU2Tfm-69" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=0.692;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfAO867idKvEuOiU2Tfm-61" target="lfAO867idKvEuOiU2Tfm-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="620" as="sourcePoint" />
+            <mxPoint x="420" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAO867idKvEuOiU2Tfm-70" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfAO867idKvEuOiU2Tfm-61" target="lfAO867idKvEuOiU2Tfm-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="343.03999999999996" y="520" as="sourcePoint" />
+            <mxPoint x="410" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
