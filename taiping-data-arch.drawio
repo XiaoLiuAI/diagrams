@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T03:11:52.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="zqcP3A5UlnGS7rtbD1Aw" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T03:13:12.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="h9kCoUN8z3ri1668rTJe" version="15.0.3" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="1995" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OfORN7NUINiMixhZLZNA-44" value="T_CLAIM_SICK_CAUSE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="120" width="185" height="60" as="geometry" />
+          <mxGeometry x="-440" y="180" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OfORN7NUINiMixhZLZNA-45" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="OfORN7NUINiMixhZLZNA-44" target="OfORN7NUINiMixhZLZNA-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OfORN7NUINiMixhZLZNA-47" value="T_CLAIM_CLINIC_OPERATION" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="230" width="185" height="60" as="geometry" />
+          <mxGeometry x="-440" y="255" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OfORN7NUINiMixhZLZNA-48" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="OfORN7NUINiMixhZLZNA-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -193,7 +193,7 @@
             <mxPoint x="-160" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OfORN7NUINiMixhZLZNA-49" value="" style="endArrow=classic;html=1;exitX=0.968;exitY=0.017;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="OfORN7NUINiMixhZLZNA-47" target="OfORN7NUINiMixhZLZNA-40">
+        <mxCell id="OfORN7NUINiMixhZLZNA-49" value="" style="endArrow=classic;html=1;exitX=0.968;exitY=0.017;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="OfORN7NUINiMixhZLZNA-47" target="OfORN7NUINiMixhZLZNA-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-245" y="330" as="sourcePoint" />
             <mxPoint x="-150" y="330" as="targetPoint" />
@@ -329,7 +329,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OfORN7NUINiMixhZLZNA-81" value="T_HOSPITAL&lt;br&gt;hospital_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-440" y="100" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OfORN7NUINiMixhZLZNA-82" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontColor=#FF0D2D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.906;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OfORN7NUINiMixhZLZNA-37" target="OfORN7NUINiMixhZLZNA-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -342,6 +342,18 @@
         </mxCell>
         <mxCell id="OfORN7NUINiMixhZLZNA-83" value="TODO company/orga" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FF0D2D;" vertex="1" parent="1">
           <mxGeometry x="1100" y="495" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfORN7NUINiMixhZLZNA-84" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OfORN7NUINiMixhZLZNA-81" target="OfORN7NUINiMixhZLZNA-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-245" y="170" as="sourcePoint" />
+            <mxPoint x="-160" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfORN7NUINiMixhZLZNA-85" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.008;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OfORN7NUINiMixhZLZNA-81" target="OfORN7NUINiMixhZLZNA-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="50" as="sourcePoint" />
+            <mxPoint x="-150" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
