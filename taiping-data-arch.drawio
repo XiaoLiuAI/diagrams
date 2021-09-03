@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T02:53:44.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="pG-YAL5K3ij7rf6fwkaH" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T02:54:15.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="DSteoJ5Id8ezQ9nfvMln" version="15.0.3" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="1995" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -321,6 +321,9 @@
             <mxPoint x="100" y="160" as="sourcePoint" />
             <mxPoint x="100" y="-120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OfORN7NUINiMixhZLZNA-78" value="T_POLICY_FEE&lt;br&gt;fee_id&lt;br&gt;&lt;br&gt;bank" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="430" y="850" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
