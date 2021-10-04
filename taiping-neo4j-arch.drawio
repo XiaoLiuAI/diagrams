@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T09:24:17.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="DDcGj9lTbg743Qv1qxxB" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T09:24:52.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="nW_rJN9tZbcFiKv-Pkdk" version="15.4.1" type="github">
   <diagram id="NcejznuSpz1hfUzmKxQE" name="Page-1">
     <mxGraphModel dx="1191" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="JPDMa77N0OKO5Pyy8LSN-9" value="HAS_LABEL" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="JPDMa77N0OKO5Pyy8LSN-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-10" value="风险场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
