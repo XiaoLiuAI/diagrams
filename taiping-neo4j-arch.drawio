@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T09:33:54.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="CEXhDtPsl2xd-JA9ljUz" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T12:06:22.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="85Fen-h7YwVxqTOaI23f" version="15.4.1" type="github">
   <diagram id="NcejznuSpz1hfUzmKxQE" name="Page-1">
     <mxGraphModel dx="1191" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -132,6 +132,42 @@
         </mxCell>
         <mxCell id="JPDMa77N0OKO5Pyy8LSN-31" value="索引管理会相对复杂一些" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-32" value="LabelRecord&lt;br&gt;value: float&lt;br&gt;source: str&lt;br&gt;update_time" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1075" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-33" value="Claim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1285" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-34" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JPDMa77N0OKO5Pyy8LSN-33" target="JPDMa77N0OKO5Pyy8LSN-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1255" as="sourcePoint" />
+            <mxPoint x="470" y="1255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-35" value="HAS_LABEL_RECORD" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="JPDMa77N0OKO5Pyy8LSN-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-41" value="风险场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="920" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-42" value="Scenario&lt;br&gt;name: str" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="880" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-43" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JPDMa77N0OKO5Pyy8LSN-42" target="JPDMa77N0OKO5Pyy8LSN-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="790" as="sourcePoint" />
+            <mxPoint x="375" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-44" value="HAS_RECORD" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="JPDMa77N0OKO5Pyy8LSN-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-45" value="[Scenario]" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="880" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JPDMa77N0OKO5Pyy8LSN-46" value="Risk&lt;br&gt;scenario: str&lt;br&gt;is_group: bool&lt;br&gt;value: float&lt;br&gt;source: str&lt;br&gt;update_time" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1075" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
