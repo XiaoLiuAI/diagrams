@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T05:30:05.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="DO987g4MAeMp-VIYRaJl" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T05:41:29.673Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="CQU152BddN42XNs9cIHK" version="15.8.3" type="github">
   <diagram id="qCNmuvq2oUS5_JZRFMjo" name="Page-1">
     <mxGraphModel dx="1024" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9h0NpTVUpyYjZBi9tOr3-1" value="IFRS17" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="9h0NpTVUpyYjZBi9tOr3-1" value="IFRS17&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/International_Financial_Reporting_Standard&quot; class=&quot;mw-redirect&quot; title=&quot;&quot; style=&quot;color: rgb(6 , 69 , 173) ; background: none rgb(255 , 255 , 255) ; font-family: sans-serif ; font-size: 14px&quot;&gt;International Financial Reporting Standard&lt;/a&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="70" width="205" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9h0NpTVUpyYjZBi9tOr3-2" value="PWC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9h0NpTVUpyYjZBi9tOr3-2" value="PWC&lt;br&gt;普华永道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9h0NpTVUpyYjZBi9tOr3-3" value="会计/审计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
