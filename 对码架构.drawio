@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T03:03:49.334Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="u-LTfbHm3LblBbKDpDuH" version="15.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-29T03:08:43.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="jAonEUCam8yc1xn9tutk" version="15.8.3" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="778" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -319,7 +319,7 @@
       <root>
         <mxCell id="P978uTRW4JUPQFnKGBFV-0" />
         <mxCell id="P978uTRW4JUPQFnKGBFV-1" parent="P978uTRW4JUPQFnKGBFV-0" />
-        <mxCell id="P978uTRW4JUPQFnKGBFV-3" value="核心api&lt;br&gt;Uvicorn&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
+        <mxCell id="P978uTRW4JUPQFnKGBFV-3" value="核心api服务&lt;br&gt;Uvicorn&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
           <mxGeometry x="280" y="280" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="P978uTRW4JUPQFnKGBFV-2" value="业务适配服务&lt;br&gt;Java，Spring-boot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
@@ -345,6 +345,23 @@
         </mxCell>
         <mxCell id="kz56Imib3DbT3IDjf6qS-4" value="PyTorch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
           <mxGeometry x="290" y="412" width="60" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2zRuPujFlLqXXuLkNAjf" name="开发架构">
+    <mxGraphModel dx="1298" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="jYBwWgwxwo4DamyuRgY8-0" />
+        <mxCell id="jYBwWgwxwo4DamyuRgY8-1" parent="jYBwWgwxwo4DamyuRgY8-0" />
+        <mxCell id="jYBwWgwxwo4DamyuRgY8-2" value="业务适配层&lt;br&gt;&lt;br&gt;&lt;br&gt;Java, Spring-boot 2.0，NGinx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jYBwWgwxwo4DamyuRgY8-1">
+          <mxGeometry x="150" y="150" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYBwWgwxwo4DamyuRgY8-3" value="核心算法层&lt;br&gt;&lt;br&gt;Python， Uvicorn，FastApi，Pytorch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jYBwWgwxwo4DamyuRgY8-1">
+          <mxGeometry x="150" y="250" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYBwWgwxwo4DamyuRgY8-4" value="数据层&lt;br&gt;&lt;br&gt;PolarDB， HBase，本地文件存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jYBwWgwxwo4DamyuRgY8-1">
+          <mxGeometry x="150" y="350" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
