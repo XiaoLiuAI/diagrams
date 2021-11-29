@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T02:59:48.188Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="D8_I9GcoolJyYTkIbmhF" version="15.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-29T03:02:59.815Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="adL-BWSTmjDyUrUguIrt" version="15.8.3" type="github" pages="4">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="778" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -319,7 +319,7 @@
       <root>
         <mxCell id="P978uTRW4JUPQFnKGBFV-0" />
         <mxCell id="P978uTRW4JUPQFnKGBFV-1" parent="P978uTRW4JUPQFnKGBFV-0" />
-        <mxCell id="P978uTRW4JUPQFnKGBFV-2" value="Java适配服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
+        <mxCell id="P978uTRW4JUPQFnKGBFV-2" value="业务适配服务&lt;br&gt;Java，Spring-boot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
           <mxGeometry x="280" y="190" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P978uTRW4JUPQFnKGBFV-3" value="核心api&lt;br&gt;Uvicorn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
@@ -332,10 +332,19 @@
           <mxGeometry x="360" y="360" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P978uTRW4JUPQFnKGBFV-6" value="FastApi&lt;br&gt;进程k" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
-          <mxGeometry x="500" y="360" width="60" height="60" as="geometry" />
+          <mxGeometry x="460" y="360" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P978uTRW4JUPQFnKGBFV-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-solid-vol-2/512/ellipsis-h-128.png" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
-          <mxGeometry x="460" y="381" width="18" height="18" as="geometry" />
+          <mxGeometry x="434" y="381" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="kz56Imib3DbT3IDjf6qS-0" value="PyTorch&lt;br&gt;模型，Tensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
+          <mxGeometry x="460" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kz56Imib3DbT3IDjf6qS-3" value="PyTorch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
+          <mxGeometry x="360" y="430" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kz56Imib3DbT3IDjf6qS-4" value="PyTorch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
+          <mxGeometry x="280" y="430" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
