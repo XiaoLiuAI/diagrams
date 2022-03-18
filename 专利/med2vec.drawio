@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T05:06:52.238Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="i6Ig45njc3Y6VwDJeMV7" version="16.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-18T05:11:51.361Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="DrPMIZ1HkyuxFtV6DP_L" version="16.6.2" type="github" pages="3">
   <diagram id="oRuPAayAJAsklKvA7n5v" name="lm">
     <mxGraphModel dx="652" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -646,6 +646,12 @@
         </mxCell>
         <mxCell id="L68-wxIkkEhUnl4osXCe-51" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L68-wxIkkEhUnl4osXCe-44">
           <mxGeometry x="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L68-wxIkkEhUnl4osXCe-52" value="池化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="sVDgmbjhsbCIhgk9ygy3-1">
+          <mxGeometry x="375" y="890" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L68-wxIkkEhUnl4osXCe-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#33FF33;" edge="1" parent="sVDgmbjhsbCIhgk9ygy3-1" source="L68-wxIkkEhUnl4osXCe-45" target="L68-wxIkkEhUnl4osXCe-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
