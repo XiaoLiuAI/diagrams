@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T04:45:22.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="q8yuMit4We_EJIFK5maX" version="16.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-18T05:03:33.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="6VyK80SWzyeESoHuTEXP" version="16.6.2" type="github" pages="3">
   <diagram id="oRuPAayAJAsklKvA7n5v" name="lm">
     <mxGraphModel dx="652" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -614,7 +614,7 @@
         <mxCell id="L68-wxIkkEhUnl4osXCe-32" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sVDgmbjhsbCIhgk9ygy3-1">
           <mxGeometry x="460" y="826" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L68-wxIkkEhUnl4osXCe-34" value="明细语义向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="sVDgmbjhsbCIhgk9ygy3-1">
+        <mxCell id="L68-wxIkkEhUnl4osXCe-34" value="明细语义向量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="sVDgmbjhsbCIhgk9ygy3-1">
           <mxGeometry x="250" y="836" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
