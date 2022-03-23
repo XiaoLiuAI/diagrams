@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T07:41:53.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="DAbuWDi6wg9-pj9imemc" version="17.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-23T07:43:28.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Kwez25jnHObBdtfYi375" version="17.1.3" type="github" pages="3">
   <diagram id="6RgydICrqF_Up7Ot6GvI" name="技术架构图">
-    <mxGraphModel dx="1325" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1325" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YqAz-h-w6HjdcNSitB7i-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="170" width="160" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="YqAz-h-w6HjdcNSitB7i-1" value="前端应用(Node.js+react.js)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YqAz-h-w6HjdcNSitB7i-1" value="前端应用(react.js)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YqAz-h-w6HjdcNSitB7i-2" value="后端API(Spring-boot)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -97,49 +97,43 @@
           <mxGeometry x="350" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-8" value="" style="group" parent="J6lK3gyfPiSJ5bxAy8dW-1" vertex="1" connectable="0">
-          <mxGeometry x="150" y="230" width="250" height="250" as="geometry" />
+          <mxGeometry x="150" y="230" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="aVLW0IZ21ZddwJ_39W-8-8" vertex="1">
-          <mxGeometry width="250" height="250" as="geometry" />
+          <mxGeometry width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-2" value="风险图谱服务器1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aVLW0IZ21ZddwJ_39W-8-8" vertex="1">
-          <mxGeometry x="78.75" y="220" width="92.5" height="20" as="geometry" />
+          <mxGeometry x="78.75" y="117.64000000000001" width="92.5" height="13.600000000000001" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-3" value="前端(React.js)" style="rounded=0;whiteSpace=wrap;html=1;" parent="aVLW0IZ21ZddwJ_39W-8-8" vertex="1">
-          <mxGeometry x="65" y="20" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aVLW0IZ21ZddwJ_39W-8-4" value="前端服务器(node.js)" style="rounded=0;whiteSpace=wrap;html=1;" parent="aVLW0IZ21ZddwJ_39W-8-8" vertex="1">
-          <mxGeometry x="65" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="13.600000000000001" width="120" height="27.200000000000003" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-5" value="后端API(Spring-boot)" style="rounded=0;whiteSpace=wrap;html=1;" parent="aVLW0IZ21ZddwJ_39W-8-8" vertex="1">
-          <mxGeometry x="65" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="49.64" width="120" height="27.200000000000003" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-6" value="图数据库(Neo4j)" style="rounded=0;whiteSpace=wrap;html=1;" parent="aVLW0IZ21ZddwJ_39W-8-8" vertex="1">
-          <mxGeometry x="65" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="83.64" width="120" height="27.200000000000003" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-9" value="" style="group" parent="J6lK3gyfPiSJ5bxAy8dW-1" vertex="1" connectable="0">
-          <mxGeometry x="425" y="230" width="315" height="250" as="geometry" />
+          <mxGeometry x="425" y="230" width="315" height="170" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="aVLW0IZ21ZddwJ_39W-8-9" vertex="1">
-          <mxGeometry width="250" height="250" as="geometry" />
+          <mxGeometry width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-11" value="风险图谱服务器2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aVLW0IZ21ZddwJ_39W-8-9" vertex="1">
-          <mxGeometry x="78.75" y="220" width="92.5" height="20" as="geometry" />
+          <mxGeometry x="78.75" y="117.64000000000001" width="92.5" height="13.600000000000001" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-12" value="前端(React.js)" style="rounded=0;whiteSpace=wrap;html=1;" parent="aVLW0IZ21ZddwJ_39W-8-9" vertex="1">
-          <mxGeometry x="65" y="20" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aVLW0IZ21ZddwJ_39W-8-13" value="前端服务器(node.js)" style="rounded=0;whiteSpace=wrap;html=1;" parent="aVLW0IZ21ZddwJ_39W-8-9" vertex="1">
-          <mxGeometry x="65" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="13.600000000000001" width="120" height="27.200000000000003" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-14" value="后端API(Spring-boot)" style="rounded=0;whiteSpace=wrap;html=1;" parent="aVLW0IZ21ZddwJ_39W-8-9" vertex="1">
-          <mxGeometry x="65" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="49.64" width="120" height="27.200000000000003" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-15" value="图数据库(Neo4j)" style="rounded=0;whiteSpace=wrap;html=1;" parent="aVLW0IZ21ZddwJ_39W-8-9" vertex="1">
-          <mxGeometry x="65" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="83.64" width="120" height="27.200000000000003" as="geometry" />
         </mxCell>
         <mxCell id="8Hg2ruLWPWHMfm1rcw9i-4" value="" style="group" parent="J6lK3gyfPiSJ5bxAy8dW-1" vertex="1" connectable="0">
-          <mxGeometry x="150" y="500" width="530" height="170" as="geometry" />
+          <mxGeometry x="150" y="453" width="530" height="170" as="geometry" />
         </mxCell>
         <mxCell id="aVLW0IZ21ZddwJ_39W-8-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="8Hg2ruLWPWHMfm1rcw9i-4" vertex="1">
           <mxGeometry width="530" height="170" as="geometry" />
@@ -203,19 +197,19 @@
         </mxCell>
         <mxCell id="iB21ljo4fx0id0gEnMYG-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="J6lK3gyfPiSJ5bxAy8dW-1" source="aVLW0IZ21ZddwJ_39W-8-29" target="aVLW0IZ21ZddwJ_39W-8-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="460" as="sourcePoint" />
-            <mxPoint x="450" y="410" as="targetPoint" />
+            <mxPoint x="400" y="413" as="sourcePoint" />
+            <mxPoint x="450" y="363" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="490" />
+              <mxPoint x="510" y="443" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iB21ljo4fx0id0gEnMYG-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="J6lK3gyfPiSJ5bxAy8dW-1" source="aVLW0IZ21ZddwJ_39W-8-29" target="aVLW0IZ21ZddwJ_39W-8-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="465" y="530" as="sourcePoint" />
-            <mxPoint x="560" y="450" as="targetPoint" />
+            <mxPoint x="465" y="483" as="sourcePoint" />
+            <mxPoint x="560" y="403" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="490" />
+              <mxPoint x="370" y="443" />
             </Array>
           </mxGeometry>
         </mxCell>
