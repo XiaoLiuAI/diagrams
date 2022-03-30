@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T00:55:14.515Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="uD3O34oQnmFDcY8PLBiu" version="17.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-30T00:56:39.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="Tlp2Lpw6WpSlCAfnsH77" version="17.1.5" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="1325" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -162,13 +162,13 @@
           <mxGeometry x="280" y="520" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wAW4e6pMc2nmBNzra0rO-1" value="retrieve" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="680" width="50" height="390" as="geometry" />
+          <mxGeometry x="100" y="630" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wAW4e6pMc2nmBNzra0rO-2" value="rank" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="680" width="50" height="390" as="geometry" />
+          <mxGeometry x="500" y="630" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wAW4e6pMc2nmBNzra0rO-3" value="rerank" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="680" width="50" height="390" as="geometry" />
+          <mxGeometry x="890" y="630" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wAW4e6pMc2nmBNzra0rO-4" value="in memory,&lt;br&gt;bi-coder&lt;br&gt;semantic-search" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="680" width="190" height="70" as="geometry" />
@@ -180,13 +180,13 @@
           <mxGeometry x="100" y="860" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wAW4e6pMc2nmBNzra0rO-7" value="in memory,&lt;br&gt;bi-coder&lt;br&gt;semantic-search" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="770" width="190" height="70" as="geometry" />
+          <mxGeometry x="500" y="680" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wAW4e6pMc2nmBNzra0rO-8" value="cross encoder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="960" width="190" height="70" as="geometry" />
+          <mxGeometry x="500" y="940" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wAW4e6pMc2nmBNzra0rO-9" value="business" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="860" width="190" height="70" as="geometry" />
+          <mxGeometry x="890" y="680" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wAW4e6pMc2nmBNzra0rO-10" value="storage&lt;br&gt;Neo4j&lt;br&gt;Oracle" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="680" width="70" height="250" as="geometry" />
