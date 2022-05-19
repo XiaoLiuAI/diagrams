@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T09:59:46.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="xtxr9lpufigWPmUK8UP8" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T10:02:26.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="EovoEk-psg2ODtt1uwNc" version="18.0.2" type="github">
   <diagram id="wF572Wm0Wm0B_0m2SiIz" name="Page-1">
     <mxGraphModel dx="2858" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cvu3p9xgEHNrfDI-l18D-1" value="bank_meta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="630" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-2" value="bank_code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="810" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-4" value="claim_data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-56" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cvu3p9xgEHNrfDI-l18D-1" target="cvu3p9xgEHNrfDI-l18D-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="240" as="sourcePoint" />
-            <mxPoint x="210" y="190" as="targetPoint" />
+            <mxPoint x="570" y="240" as="sourcePoint" />
+            <mxPoint x="620" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-7" value="claim_payment_record" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -142,6 +142,9 @@
             <mxPoint x="210" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cvu3p9xgEHNrfDI-l18D-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;strokeColor=#000000;" edge="1" parent="1" source="cvu3p9xgEHNrfDI-l18D-41" target="cvu3p9xgEHNrfDI-l18D-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-41" value="event_data" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-490" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -237,6 +240,18 @@
             <mxPoint x="-180" y="510" as="sourcePoint" />
             <mxPoint x="-410" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cvu3p9xgEHNrfDI-l18D-62" value="person_info" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu3p9xgEHNrfDI-l18D-63" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cvu3p9xgEHNrfDI-l18D-62" target="cvu3p9xgEHNrfDI-l18D-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="230" as="sourcePoint" />
+            <mxPoint x="410" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvu3p9xgEHNrfDI-l18D-64" value="icd10_data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
