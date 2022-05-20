@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T03:10:09.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="_u6GjqBqR7ObARllA4qb" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T03:12:36.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="CKDSF3akG28rqv31SxmD" version="18.0.8" type="github">
   <diagram id="wF572Wm0Wm0B_0m2SiIz" name="Page-1">
     <mxGraphModel dx="2689" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,9 +196,6 @@
         <mxCell id="ajCOfBEJE4QMOuxgTfMa-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;event_data&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ event_data_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ event_no: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ill_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ sub_ill_code: varchar&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="-515" y="640" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ajCOfBEJE4QMOuxgTfMa-20" value="&lt;table style=&quot;border-collapse: collapse; width: 141.75pt;&quot; height=&quot;19&quot; width=&quot;189&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;189&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;19&quot;&gt;&lt;td style=&quot;font-size: 11pt; font-family: Calibri; vertical-align: bottom; height: 14.25pt; width: 141.75pt;&quot; width=&quot;189&quot; height=&quot;19&quot; class=&quot;et1&quot;&gt;policy_data&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-705" y="-500" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ajCOfBEJE4QMOuxgTfMa-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;policy_info&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ policy_info_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ company_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ org_claim_id: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ policy_id: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ subordinate_policy_id: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ insurance_person_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ major_insurance_person_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ policy_holder_id: bigint&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="-705" y="-270" width="205" height="150" as="geometry" />
         </mxCell>
@@ -262,6 +259,18 @@
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
             <mxPoint x="-540" y="-40" as="sourcePoint" />
             <mxPoint x="-380" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCOfBEJE4QMOuxgTfMa-41" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajCOfBEJE4QMOuxgTfMa-29" target="ajCOfBEJE4QMOuxgTfMa-1">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="542.5" y="40" as="sourcePoint" />
+            <mxPoint x="542.5" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCOfBEJE4QMOuxgTfMa-42" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0.429;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajCOfBEJE4QMOuxgTfMa-28" target="ajCOfBEJE4QMOuxgTfMa-30">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="542.5" y="40" as="sourcePoint" />
+            <mxPoint x="542.5" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
