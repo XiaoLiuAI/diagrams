@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T02:46:03.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="fHXEjtgKBzUxA9hfbOZ1" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T02:48:52.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="kND7cw0OfaEhQbD6pdhm" version="18.0.8" type="github">
   <diagram id="wF572Wm0Wm0B_0m2SiIz" name="Page-1">
     <mxGraphModel dx="1868" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -260,6 +260,12 @@
         </mxCell>
         <mxCell id="ajCOfBEJE4QMOuxgTfMa-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;event_data&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ event_data_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ event_no: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ill_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ sub_ill_code: varchar&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="-515" y="640" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCOfBEJE4QMOuxgTfMa-20" value="&lt;table style=&quot;border-collapse: collapse; width: 141.75pt;&quot; height=&quot;19&quot; width=&quot;189&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;189&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;19&quot;&gt;&lt;td style=&quot;font-size: 11pt; font-family: Calibri; vertical-align: bottom; height: 14.25pt; width: 141.75pt;&quot; width=&quot;189&quot; height=&quot;19&quot; class=&quot;et1&quot;&gt;policy_data&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCOfBEJE4QMOuxgTfMa-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;policy_info&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ policy_info_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ company_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ org_claim_id: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ policy_id: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ subordinate_policy_id: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ insurance_person_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ major_insurance_person_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ policy_holder_id: bigitn&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-705" y="-140" width="205" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
