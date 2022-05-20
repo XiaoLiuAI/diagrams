@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T02:55:31.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="13G7Lbf0RHQQlNG2yKSM" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T03:01:46.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="bTNo4H45qmP2biFRUYwo" version="18.0.8" type="github">
   <diagram id="wF572Wm0Wm0B_0m2SiIz" name="Page-1">
-    <mxGraphModel dx="1868" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2057" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cvu3p9xgEHNrfDI-l18D-1" value="bank_meta" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="1010" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-2" value="bank_code" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="1190" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cvu3p9xgEHNrfDI-l18D-1" target="cvu3p9xgEHNrfDI-l18D-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="240" as="sourcePoint" />
-            <mxPoint x="620" y="190" as="targetPoint" />
+            <mxPoint x="950" y="340" as="sourcePoint" />
+            <mxPoint x="1000" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-7" value="claim_payment_record" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -28,42 +28,15 @@
         <mxCell id="cvu3p9xgEHNrfDI-l18D-14" value="policy_insurance_info" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-270" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cvu3p9xgEHNrfDI-l18D-15" value="duty_data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="-210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cvu3p9xgEHNrfDI-l18D-16" value="duty_info" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="-130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cvu3p9xgEHNrfDI-l18D-19" value="&lt;table style=&quot;border-collapse: collapse; width: 141.75pt;&quot; height=&quot;19&quot; width=&quot;189&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;189&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;19&quot;&gt;&lt;td style=&quot;font-size: 11pt; font-family: Calibri; vertical-align: bottom; height: 14.25pt; width: 141.75pt;&quot; width=&quot;189&quot; height=&quot;19&quot; class=&quot;et1&quot;&gt;product_duty_config&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7DFF81;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-130" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cvu3p9xgEHNrfDI-l18D-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0D0D;" parent="1" source="cvu3p9xgEHNrfDI-l18D-19" target="cvu3p9xgEHNrfDI-l18D-15" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="100" as="sourcePoint" />
-            <mxPoint x="150" y="50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cvu3p9xgEHNrfDI-l18D-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cvu3p9xgEHNrfDI-l18D-19" target="cvu3p9xgEHNrfDI-l18D-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="-120" as="sourcePoint" />
-            <mxPoint x="440" y="-170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-22" value="&lt;table style=&quot;border-collapse: collapse; width: 141.75pt;&quot; height=&quot;19&quot; width=&quot;189&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;189&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;19&quot;&gt;&lt;td style=&quot;font-size: 11pt; font-family: Calibri; vertical-align: bottom; height: 14.25pt; width: 141.75pt;&quot; width=&quot;189&quot; height=&quot;19&quot; class=&quot;et1&quot;&gt;group_duty_data&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="-50" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cvu3p9xgEHNrfDI-l18D-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cvu3p9xgEHNrfDI-l18D-19" target="cvu3p9xgEHNrfDI-l18D-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="-120" as="sourcePoint" />
-            <mxPoint x="440" y="-90" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="810" y="50" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-25" value="&lt;table style=&quot;border-collapse: collapse; width: 141.75pt;&quot; height=&quot;19&quot; width=&quot;189&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;189&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;19&quot;&gt;&lt;td style=&quot;font-size: 11pt; font-family: Calibri; vertical-align: bottom; height: 14.25pt; width: 141.75pt;&quot; width=&quot;189&quot; height=&quot;19&quot; class=&quot;et1&quot;&gt;insurance_plan_data&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="-130" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cvu3p9xgEHNrfDI-l18D-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cvu3p9xgEHNrfDI-l18D-19" target="cvu3p9xgEHNrfDI-l18D-25" edge="1">
+        <mxCell id="cvu3p9xgEHNrfDI-l18D-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="cvu3p9xgEHNrfDI-l18D-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="90" as="sourcePoint" />
+            <mxPoint x="160" y="-100" as="sourcePoint" />
             <mxPoint x="100" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -74,15 +47,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-140" y="-100" as="sourcePoint" />
             <mxPoint x="150" y="30" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cvu3p9xgEHNrfDI-l18D-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ajCOfBEJE4QMOuxgTfMa-7" target="cvu3p9xgEHNrfDI-l18D-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="47.5" as="sourcePoint" />
-            <mxPoint x="330" y="20" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="80" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cvu3p9xgEHNrfDI-l18D-14" edge="1">
@@ -100,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-44" value="&lt;table style=&quot;border-collapse: collapse; width: 141.75pt;&quot; height=&quot;19&quot; width=&quot;189&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;189&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;19&quot;&gt;&lt;td style=&quot;font-size: 11pt; font-family: Calibri; vertical-align: bottom; height: 14.25pt; width: 141.75pt;&quot; width=&quot;189&quot; height=&quot;19&quot; class=&quot;et1&quot;&gt;group_data&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="40" width="130" height="60" as="geometry" />
+          <mxGeometry x="810" y="140" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-48" value="event_complication" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-570" y="880" width="120" height="60" as="geometry" />
@@ -166,12 +130,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-62" value="person_info" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="430" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="810" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-63" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cvu3p9xgEHNrfDI-l18D-62" target="cvu3p9xgEHNrfDI-l18D-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="230" as="sourcePoint" />
-            <mxPoint x="410" y="180" as="targetPoint" />
+            <mxPoint x="740" y="330" as="sourcePoint" />
+            <mxPoint x="790" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-64" value="icd10_data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#000000;" parent="1" vertex="1">
@@ -286,7 +250,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ajCOfBEJE4QMOuxgTfMa-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;insurance_plan_data&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ insurance_plan_data_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ product_plan_name: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ product_plan_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ insurance_plan_name: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ insurance_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ duty_name&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ duty_code&lt;br&gt;+ duty_type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-330" width="205" height="160" as="geometry" />
+          <mxGeometry y="-380" width="205" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCOfBEJE4QMOuxgTfMa-28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;product_duty_config&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ product_duty_config_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ company_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ product_plan_name: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ product_plan_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ insurance_name: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ insurance_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ duty_name: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ duty_code: varchar&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-380" width="205" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCOfBEJE4QMOuxgTfMa-29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;duty_data&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ duty_data_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ claim_id: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ policy_id: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ product_name: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ product_code: varcahr&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ insurance_name: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ insurance_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ duty_name: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ duty_code: varchar&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="30" width="205" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCOfBEJE4QMOuxgTfMa-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;duty_info&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ duty_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ policy_insurance_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;duty_name: varchar&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ duty_code: varchar&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-170" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCOfBEJE4QMOuxgTfMa-31" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ajCOfBEJE4QMOuxgTfMa-29" target="ajCOfBEJE4QMOuxgTfMa-30">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="14" as="sourcePoint" />
+            <mxPoint x="15" y="-60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
