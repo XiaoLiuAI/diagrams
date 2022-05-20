@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T04:43:46.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="wie0ghTOAc_-f-eVMomD" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T04:45:56.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="UbERn_2JtfYe0HCXRTeo" version="18.0.8" type="github">
   <diagram id="wF572Wm0Wm0B_0m2SiIz" name="Page-1">
     <mxGraphModel dx="3346" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cvu3p9xgEHNrfDI-l18D-1" value="bank_meta" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="935" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-2" value="bank_code" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="1115" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cvu3p9xgEHNrfDI-l18D-1" target="cvu3p9xgEHNrfDI-l18D-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="340" as="sourcePoint" />
-            <mxPoint x="1000" y="290" as="targetPoint" />
+            <mxPoint x="875" y="360" as="sourcePoint" />
+            <mxPoint x="925" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-7" value="claim_payment_record" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -97,12 +97,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-62" value="person_info" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="810" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="735" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-63" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cvu3p9xgEHNrfDI-l18D-62" target="cvu3p9xgEHNrfDI-l18D-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="330" as="sourcePoint" />
-            <mxPoint x="790" y="280" as="targetPoint" />
+            <mxPoint x="665" y="350" as="sourcePoint" />
+            <mxPoint x="715" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-64" value="icd10_data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#000000;" parent="1" vertex="1">
