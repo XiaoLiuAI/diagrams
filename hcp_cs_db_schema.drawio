@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T04:55:54.739Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="AVMTnLCFDtbSUAsVw9f5" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T05:08:17.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="I68bT_H6WBiNB40_56Ap" version="18.0.8" type="github">
   <diagram id="wF572Wm0Wm0B_0m2SiIz" name="Page-1">
-    <mxGraphModel dx="3064" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2608" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-7" value="claim_payment_record" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-345" y="280" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cvu3p9xgEHNrfDI-l18D-27" value="&lt;table style=&quot;border-collapse: collapse; width: 141.75pt;&quot; height=&quot;19&quot; width=&quot;189&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;189&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;19&quot;&gt;&lt;td style=&quot;font-size: 11pt; font-family: Calibri; vertical-align: bottom; height: 14.25pt; width: 141.75pt;&quot; width=&quot;189&quot; height=&quot;19&quot; class=&quot;et1&quot;&gt;underwriting_data&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-550" y="-500" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cvu3p9xgEHNrfDI-l18D-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;strokeColor=#000000;" parent="1" target="cvu3p9xgEHNrfDI-l18D-64" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -421,6 +418,9 @@
             <mxPoint x="-220" y="80" as="sourcePoint" />
             <mxPoint x="-60" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCOfBEJE4QMOuxgTfMa-87" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;underwriting_data&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ underwriting_data_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ company_code: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ policy_id: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ insurance_person_id: bigint&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ product_plan_name: varchar&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ product_plan_code: varchar&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="-500" width="205" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
