@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T05:27:28.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="vDUhlbIzCO1vi-5cVisn" version="18.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-31T05:28:24.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="4fixkvLaVUP-MHv_8iuK" version="18.1.1" type="github" pages="2">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2272" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -379,6 +379,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="510" as="sourcePoint" />
             <mxPoint x="720" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="440" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fN2IPZuYBG6KQM6beQOC-13" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontFamily=Georgia;fontSize=10;fontColor=#2B32FF;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fN2IPZuYBG6KQM6beQOC-10" target="z3SCZQm9MV1HzYlg22tj-9">
