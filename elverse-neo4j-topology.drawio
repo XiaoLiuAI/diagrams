@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T02:24:43.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="g4ZA4zceamIEdTwLHh0D" version="18.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-31T03:17:02.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="IXR9KUPpogCwdYVuxbg3" version="18.1.1" type="github" pages="2">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2272" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -369,6 +369,20 @@
         </mxCell>
         <mxCell id="fN2IPZuYBG6KQM6beQOC-6" value="&lt;font color=&quot;#2b32ff&quot;&gt;HAS_ENTITY&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Georgia;fontColor=#FF00FF;" vertex="1" connectable="0" parent="fN2IPZuYBG6KQM6beQOC-5">
           <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fN2IPZuYBG6KQM6beQOC-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z3SCZQm9MV1HzYlg22tj-2" target="fN2IPZuYBG6KQM6beQOC-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="340" as="sourcePoint" />
+            <mxPoint x="300" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fN2IPZuYBG6KQM6beQOC-9" value="HAS_ENTITY" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fN2IPZuYBG6KQM6beQOC-8">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
