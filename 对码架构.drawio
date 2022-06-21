@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T03:08:45.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="oUVFvU3u_JkSMBYYDR-w" version="20.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-21T03:10:44.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_sp4HZVrg0Ex2cUYnRH3" version="20.0.1" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="1509" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -515,9 +515,6 @@
         <mxCell id="G1225oaHn3dqDbI4vec8-89" value="获取三目录业务字段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="685" y="1856.51" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G1225oaHn3dqDbI4vec8-90" value="存储服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
-          <mxGeometry x="60" y="2700" width="690" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="G1225oaHn3dqDbI4vec8-92" value="数据拉取服务(Java)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="122.5" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -533,13 +530,7 @@
         <mxCell id="G1225oaHn3dqDbI4vec8-95" value="索引服务(Python)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="122.5" y="2600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G1225oaHn3dqDbI4vec8-98" value="DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
-          <mxGeometry x="70" y="2722" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G1225oaHn3dqDbI4vec8-99" value="SE(search engine)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
-          <mxGeometry x="520" y="2722" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G1225oaHn3dqDbI4vec8-100" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="KFysgAJmc4aY4rkyI50r-1" source="G1225oaHn3dqDbI4vec8-95">
+        <mxCell id="G1225oaHn3dqDbI4vec8-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KFysgAJmc4aY4rkyI50r-1" source="G1225oaHn3dqDbI4vec8-95" target="G1225oaHn3dqDbI4vec8-124">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="2520" as="sourcePoint" />
             <mxPoint x="120" y="2700" as="targetPoint" />
@@ -567,7 +558,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G1225oaHn3dqDbI4vec8-122" value="发送文件进行索引" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
-          <mxGeometry x="420" y="2550" width="150" height="30" as="geometry" />
+          <mxGeometry x="195" y="2550" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1225oaHn3dqDbI4vec8-124" value="存储服务(Java)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
+          <mxGeometry x="122.5" y="2710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1225oaHn3dqDbI4vec8-125" value="更新索引，编码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
+          <mxGeometry x="185" y="2670" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1225oaHn3dqDbI4vec8-126" value="DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
+          <mxGeometry x="122.5" y="2810" width="117.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1225oaHn3dqDbI4vec8-128" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KFysgAJmc4aY4rkyI50r-1" source="G1225oaHn3dqDbI4vec8-124" target="G1225oaHn3dqDbI4vec8-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="181" y="2770" as="sourcePoint" />
+            <mxPoint x="192.5" y="2610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
