@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T01:58:18.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZxMb-9wRdxOlO-SLHBUl" version="20.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-21T02:00:39.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YbCq12z2P8gPhxB4Es_e" version="20.0.1" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="1509" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -384,16 +384,16 @@
           <mxGeometry x="130" y="180" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YabcocFds-uc78QF-dLO-0" value="" style="group" vertex="1" connectable="0" parent="P978uTRW4JUPQFnKGBFV-1">
-          <mxGeometry x="130" y="370" width="120" height="200" as="geometry" />
+          <mxGeometry x="130" y="340" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="P978uTRW4JUPQFnKGBFV-3" value="搜索服务&lt;br&gt;Uvicorn&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="YabcocFds-uc78QF-dLO-0" vertex="1">
-          <mxGeometry width="120" height="200" as="geometry" />
+        <mxCell id="P978uTRW4JUPQFnKGBFV-3" value="搜索服务&lt;br&gt;Uvicorn&lt;br&gt;横向扩展&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="YabcocFds-uc78QF-dLO-0" vertex="1">
+          <mxGeometry width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="P978uTRW4JUPQFnKGBFV-6" value="FastApi&lt;br&gt;进程k" style="rounded=1;whiteSpace=wrap;html=1;" parent="YabcocFds-uc78QF-dLO-0" vertex="1">
-          <mxGeometry x="4.29" y="62" width="105.71" height="60" as="geometry" />
+        <mxCell id="P978uTRW4JUPQFnKGBFV-6" value="FastApi&lt;br&gt;进程" style="rounded=1;whiteSpace=wrap;html=1;" parent="YabcocFds-uc78QF-dLO-0" vertex="1">
+          <mxGeometry x="17.810714285714287" y="62" width="113.26071428571427" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kz56Imib3DbT3IDjf6qS-0" value="PyTorch&lt;br&gt;模型，Tensor" style="rounded=1;whiteSpace=wrap;html=1;" parent="YabcocFds-uc78QF-dLO-0" vertex="1">
-          <mxGeometry x="4.29" y="132" width="105.71" height="40" as="geometry" />
+          <mxGeometry x="17.810714285714287" y="132" width="113.26071428571427" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YabcocFds-uc78QF-dLO-1" value="搜索适配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P978uTRW4JUPQFnKGBFV-1">
           <mxGeometry x="140" y="250" width="90" height="60" as="geometry" />
@@ -405,16 +405,16 @@
           <mxGeometry x="340" y="250" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YabcocFds-uc78QF-dLO-4" value="" style="group" vertex="1" connectable="0" parent="P978uTRW4JUPQFnKGBFV-1">
-          <mxGeometry x="330" y="370" width="120" height="200" as="geometry" />
+          <mxGeometry x="330" y="340" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YabcocFds-uc78QF-dLO-5" value="索引服务&lt;br&gt;Uvicorn&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YabcocFds-uc78QF-dLO-4">
-          <mxGeometry width="120" height="200" as="geometry" />
+        <mxCell id="YabcocFds-uc78QF-dLO-5" value="索引服务&lt;br&gt;Uvicorn&lt;br&gt;单例&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YabcocFds-uc78QF-dLO-4">
+          <mxGeometry x="-30" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YabcocFds-uc78QF-dLO-6" value="FastApi&lt;br&gt;进程k" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YabcocFds-uc78QF-dLO-4">
-          <mxGeometry x="4.29" y="62" width="105.71" height="60" as="geometry" />
+        <mxCell id="YabcocFds-uc78QF-dLO-6" value="FastApi&lt;br&gt;进程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YabcocFds-uc78QF-dLO-4">
+          <mxGeometry x="-8.71" y="62" width="105.71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YabcocFds-uc78QF-dLO-7" value="PyTorch&lt;br&gt;模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YabcocFds-uc78QF-dLO-4">
-          <mxGeometry x="4.29" y="132" width="105.71" height="40" as="geometry" />
+          <mxGeometry x="-8.71" y="132" width="105.71" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
