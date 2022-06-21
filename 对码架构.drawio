@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T04:17:52.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YdEmI0vuhiTneDmPNsz8" version="20.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-21T04:23:47.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UuFlrkjXgfsYE8JH5AOb" version="20.0.1" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="1509" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -275,13 +275,13 @@
         <mxCell id="IC3jRxpbpEEloX7daQOE-0" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;" parent="KFysgAJmc4aY4rkyI50r-1" vertex="1">
           <mxGeometry x="50" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G1225oaHn3dqDbI4vec8-5" value="存储服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
+        <mxCell id="G1225oaHn3dqDbI4vec8-5" value="存储服务&lt;br&gt;(Java)&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="50" y="1275" width="690" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G1225oaHn3dqDbI4vec8-6" value="核心搜索服务&lt;br&gt;(Python)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="50" y="940" width="690" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="G1225oaHn3dqDbI4vec8-12" value="业务适配搜索服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
+        <mxCell id="G1225oaHn3dqDbI4vec8-12" value="业务适配搜索服务&lt;br&gt;(Java)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="340" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G1225oaHn3dqDbI4vec8-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KFysgAJmc4aY4rkyI50r-1" source="G1225oaHn3dqDbI4vec8-18" target="G1225oaHn3dqDbI4vec8-23">
@@ -418,7 +418,7 @@
             <mxPoint x="510" y="1118.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1225oaHn3dqDbI4vec8-58" value="存储服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
+        <mxCell id="G1225oaHn3dqDbI4vec8-58" value="存储服务&lt;br&gt;(Java)&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="55" y="2045" width="690" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G1225oaHn3dqDbI4vec8-59" value="核心搜索服务&lt;br&gt;(Python)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
@@ -660,7 +660,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TDuNvA_wICZ7phmaH_F8" name="逻辑架构">
-    <mxGraphModel dx="1509" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rTJtqYJ_sqqkXF0PJ5Pr-0" />
         <mxCell id="rTJtqYJ_sqqkXF0PJ5Pr-1" parent="rTJtqYJ_sqqkXF0PJ5Pr-0" />
