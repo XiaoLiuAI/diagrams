@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T03:56:15.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zy0azdpfVndobNjqjzxW" version="20.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-21T04:04:32.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RElR8CkI6JXMFSI8d7NM" version="20.0.1" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="1509" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -660,7 +660,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TDuNvA_wICZ7phmaH_F8" name="逻辑架构">
-    <mxGraphModel dx="1509" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rTJtqYJ_sqqkXF0PJ5Pr-0" />
         <mxCell id="rTJtqYJ_sqqkXF0PJ5Pr-1" parent="rTJtqYJ_sqqkXF0PJ5Pr-0" />
@@ -682,7 +682,7 @@
         <mxCell id="rTJtqYJ_sqqkXF0PJ5Pr-7" value="核心算法层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rTJtqYJ_sqqkXF0PJ5Pr-1" vertex="1">
           <mxGeometry x="375" y="326" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rTJtqYJ_sqqkXF0PJ5Pr-8" value="查询服务 ython, FastAPI, pytorch" style="rounded=1;whiteSpace=wrap;html=1;" parent="rTJtqYJ_sqqkXF0PJ5Pr-1" vertex="1">
+        <mxCell id="rTJtqYJ_sqqkXF0PJ5Pr-8" value="查询服务 Python, FastAPI, pytorch" style="rounded=1;whiteSpace=wrap;html=1;" parent="rTJtqYJ_sqqkXF0PJ5Pr-1" vertex="1">
           <mxGeometry x="190" y="356" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rTJtqYJ_sqqkXF0PJ5Pr-9" value="数据索引服务 Python, FastAPI, pytorch" style="rounded=1;whiteSpace=wrap;html=1;" parent="rTJtqYJ_sqqkXF0PJ5Pr-1" vertex="1">
@@ -766,7 +766,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2zRuPujFlLqXXuLkNAjf" name="开发架构">
-    <mxGraphModel dx="1509" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="jYBwWgwxwo4DamyuRgY8-0" />
         <mxCell id="jYBwWgwxwo4DamyuRgY8-1" parent="jYBwWgwxwo4DamyuRgY8-0" />
