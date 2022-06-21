@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T03:11:29.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Lc2JzrBENeiyRgTK-fFx" version="20.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-21T03:12:02.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3P-UbJT6RPBFmDnbWDH1" version="20.0.1" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="1509" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
         <mxCell id="G1225oaHn3dqDbI4vec8-5" value="存储服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="50" y="1275" width="690" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G1225oaHn3dqDbI4vec8-6" value="核心搜索服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
+        <mxCell id="G1225oaHn3dqDbI4vec8-6" value="核心搜索服务&lt;br&gt;(Python)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="50" y="940" width="690" height="240" as="geometry" />
         </mxCell>
         <mxCell id="G1225oaHn3dqDbI4vec8-12" value="业务适配搜索服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
@@ -415,10 +415,10 @@
         <mxCell id="G1225oaHn3dqDbI4vec8-58" value="存储服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="55" y="2045" width="690" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G1225oaHn3dqDbI4vec8-59" value="核心搜索服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
+        <mxCell id="G1225oaHn3dqDbI4vec8-59" value="核心搜索服务&lt;br&gt;(Python)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="55" y="1710" width="690" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="G1225oaHn3dqDbI4vec8-60" value="业务适配搜索服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
+        <mxCell id="G1225oaHn3dqDbI4vec8-60" value="业务适配搜索服务 (Java)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KFysgAJmc4aY4rkyI50r-1">
           <mxGeometry x="345" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G1225oaHn3dqDbI4vec8-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KFysgAJmc4aY4rkyI50r-1" source="G1225oaHn3dqDbI4vec8-65" target="G1225oaHn3dqDbI4vec8-68">
