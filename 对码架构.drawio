@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T03:41:36.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_shy-bJNuEc_XqKpO4WN" version="20.2.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-25T03:41:46.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VCttNwOvinZJYMiMLRWw" version="20.2.0" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="2916" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -294,7 +294,7 @@
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-26" value="数据源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KDB7V7RBzqSgWYa8lXzz-27" value="调用接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="KDB7V7RBzqSgWYa8lXzz-27" value="Web接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-615" y="97" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-28" value="持久化&lt;br&gt;存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
