@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T02:45:41.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oADVw4NJulXK-bDGIJoP" version="20.2.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-25T02:54:51.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kiSSt18bRk7Vzk9Okar0" version="20.2.0" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
-    <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2916" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RfQY3w8B05YhzgXeucUD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="RfQY3w8B05YhzgXeucUD-1" target="RfQY3w8B05YhzgXeucUD-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfQY3w8B05YhzgXeucUD-31" value="更新任务结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RfQY3w8B05YhzgXeucUD-30">
+          <mxGeometry x="0.3329" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RfQY3w8B05YhzgXeucUD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="136" width="205" height="334" as="geometry" />
         </mxCell>
@@ -211,26 +219,11 @@
         <mxCell id="RfQY3w8B05YhzgXeucUD-7" value="SQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="361" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RfQY3w8B05YhzgXeucUD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="RfQY3w8B05YhzgXeucUD-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="188" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RfQY3w8B05YhzgXeucUD-12" value="发起更新后台任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RfQY3w8B05YhzgXeucUD-11">
-          <mxGeometry x="-0.43" y="1" relative="1" as="geometry">
-            <mxPoint x="20" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RfQY3w8B05YhzgXeucUD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RfQY3w8B05YhzgXeucUD-9" target="TZmy1ot9Um-ks3B9dZwG-7">
+        <mxCell id="RfQY3w8B05YhzgXeucUD-26" value="发起更新后台任务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="RfQY3w8B05YhzgXeucUD-9" target="RfQY3w8B05YhzgXeucUD-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RfQY3w8B05YhzgXeucUD-23" value="后台任务监控" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RfQY3w8B05YhzgXeucUD-22">
-          <mxGeometry x="0.0357" y="2" relative="1" as="geometry">
-            <mxPoint x="89" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RfQY3w8B05YhzgXeucUD-9" value="Restful API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="158" width="120" height="60" as="geometry" />
+          <mxGeometry x="-310" y="158" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RfQY3w8B05YhzgXeucUD-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="680" y="30" width="191" height="250" as="geometry" />
@@ -249,6 +242,31 @@
         </mxCell>
         <mxCell id="RfQY3w8B05YhzgXeucUD-13" value="local files" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="RfQY3w8B05YhzgXeucUD-21">
           <mxGeometry x="44.75" y="136" width="90" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="RfQY3w8B05YhzgXeucUD-27" value="添加任务队列" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="RfQY3w8B05YhzgXeucUD-24" target="RfQY3w8B05YhzgXeucUD-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfQY3w8B05YhzgXeucUD-24" value="celery application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="158" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RfQY3w8B05YhzgXeucUD-28" value="任务调度" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="RfQY3w8B05YhzgXeucUD-25" target="RfQY3w8B05YhzgXeucUD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfQY3w8B05YhzgXeucUD-25" value="celery broker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="158" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RfQY3w8B05YhzgXeucUD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RfQY3w8B05YhzgXeucUD-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfQY3w8B05YhzgXeucUD-33" value="任务状态监控" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RfQY3w8B05YhzgXeucUD-32">
+          <mxGeometry x="-0.1027" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfQY3w8B05YhzgXeucUD-29" value="celery result backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="357" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
