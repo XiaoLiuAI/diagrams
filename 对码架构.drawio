@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T03:36:02.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5dRvMkYEZCF0aLXi_lUT" version="20.2.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-25T03:37:14.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ybu659aqKCcAgjZ73jy3" version="20.2.0" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="2916" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-22" value="更新任务状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KDB7V7RBzqSgWYa8lXzz-21">
           <mxGeometry x="0.1728" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RfQY3w8B05YhzgXeucUD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -206,22 +206,22 @@
         </mxCell>
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-23" value="监控任务进度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KDB7V7RBzqSgWYa8lXzz-20">
           <mxGeometry x="0.0582" y="-1" relative="1" as="geometry">
-            <mxPoint x="-24" as="offset" />
+            <mxPoint x="-26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RfQY3w8B05YhzgXeucUD-9" value="Restful API&lt;br&gt;(python)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="148" width="90" height="60" as="geometry" />
+          <mxGeometry x="-420" y="148" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="RfQY3w8B05YhzgXeucUD-24" target="RfQY3w8B05YhzgXeucUD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-19" value="执行更新任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KDB7V7RBzqSgWYa8lXzz-17">
           <mxGeometry x="-0.4248" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="19" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RfQY3w8B05YhzgXeucUD-24" value="celery application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="148" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="148" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDB7V7RBzqSgWYa8lXzz-3" target="M7_2WrgpJ96C_UAzxjoG-9">
           <mxGeometry relative="1" as="geometry">
@@ -248,21 +248,6 @@
         </mxCell>
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-8" value="HDFS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="425.25" y="351" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M7_2WrgpJ96C_UAzxjoG-1" value="Celery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="248" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M7_2WrgpJ96C_UAzxjoG-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="TZmy1ot9Um-ks3B9dZwG-4" target="M7_2WrgpJ96C_UAzxjoG-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="460" as="sourcePoint" />
-            <mxPoint x="40" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M7_2WrgpJ96C_UAzxjoG-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="M7_2WrgpJ96C_UAzxjoG-1" target="TZmy1ot9Um-ks3B9dZwG-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="125" y="273" as="sourcePoint" />
-            <mxPoint x="-20" y="273" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="M7_2WrgpJ96C_UAzxjoG-4" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="145" y="580" width="60" height="80" as="geometry" />
