@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T03:15:04.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0YaTlx0bER1oCy0mt78Y" version="20.2.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-25T03:15:59.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SfNeSVMJZPUQwsvrmSGl" version="20.2.0" type="github" pages="5">
   <diagram id="TCyy19jv7BEtDb1iJgsM" name="Page-1">
     <mxGraphModel dx="2916" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RfQY3w8B05YhzgXeucUD-14" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="91" width="191" height="350" as="geometry" />
+        </mxCell>
         <mxCell id="RfQY3w8B05YhzgXeucUD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="RfQY3w8B05YhzgXeucUD-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-260" y="377" as="targetPoint" />
@@ -261,32 +264,32 @@
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-3" value="storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="347" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KDB7V7RBzqSgWYa8lXzz-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="300" y="91" width="191" height="404" as="geometry" />
-        </mxCell>
-        <mxCell id="RfQY3w8B05YhzgXeucUD-14" value="" style="whiteSpace=wrap;html=1;" parent="KDB7V7RBzqSgWYa8lXzz-9" vertex="1">
-          <mxGeometry width="191" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="RfQY3w8B05YhzgXeucUD-19" value="Data sources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KDB7V7RBzqSgWYa8lXzz-9" vertex="1">
-          <mxGeometry x="70" y="350" width="60" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="RfQY3w8B05YhzgXeucUD-13" value="local files" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="KDB7V7RBzqSgWYa8lXzz-9" vertex="1">
-          <mxGeometry x="50.25" y="148" width="90" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="RfQY3w8B05YhzgXeucUD-10" value="knowledge base" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="KDB7V7RBzqSgWYa8lXzz-9" vertex="1">
-          <mxGeometry x="64.5" y="18" width="61.5" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="KDB7V7RBzqSgWYa8lXzz-8" value="HTTP API&lt;br&gt;(Java)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="KDB7V7RBzqSgWYa8lXzz-9">
-          <mxGeometry x="35.25" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-11" value="ES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-10" y="480" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KDB7V7RBzqSgWYa8lXzz-12" value="HTTP API" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="KDB7V7RBzqSgWYa8lXzz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KDB7V7RBzqSgWYa8lXzz-12" target="KDB7V7RBzqSgWYa8lXzz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDB7V7RBzqSgWYa8lXzz-12" value="HTTP API&lt;br&gt;(Java)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="55" y="480" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KDB7V7RBzqSgWYa8lXzz-13" value="Neo4j" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="480" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KDB7V7RBzqSgWYa8lXzz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDB7V7RBzqSgWYa8lXzz-14" target="KDB7V7RBzqSgWYa8lXzz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDB7V7RBzqSgWYa8lXzz-14" value="SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="366" y="590" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RfQY3w8B05YhzgXeucUD-13" value="local files" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="350.25" y="239" width="90" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="RfQY3w8B05YhzgXeucUD-10" value="knowledge base" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="364.5" y="109" width="61.5" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="KDB7V7RBzqSgWYa8lXzz-8" value="HTTP API&lt;br&gt;(Java)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="335.25" y="351" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
