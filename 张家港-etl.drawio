@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T09:34:06.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.3" etag="BJWPkG2Eq1B0vw0nKgTe" type="github"><diagram id="N3gfBGc6Io_THRg1uLZF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-10T09:45:40.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="z33SVm0lu8rYp_ppT4mO" version="20.2.3" type="github">
+  <diagram id="N3gfBGc6Io_THRg1uLZF" name="第 1 页">
+    <mxGraphModel dx="1106" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="135BFx68nIQ9wBFozfgj-1" value="生成sync_data_config_test&lt;span style=&quot;background-color: initial;&quot;&gt;表(每天一行）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-2" value="抽取每一天的register&lt;br&gt;导出为parquet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="135BFx68nIQ9wBFozfgj-1" target="135BFx68nIQ9wBFozfgj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="135BFx68nIQ9wBFozfgj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="420" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="380" />
+              <mxPoint x="480" y="530" />
+              <mxPoint x="540" y="460" />
+              <mxPoint x="410" y="370" />
+              <mxPoint x="560" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-5" value="不断循环直到所有sync_data_config_test表中register_endtime&lt;br&gt;都不为空" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-6" value="抽取每一天的detail&lt;br&gt;导出为parquet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="135BFx68nIQ9wBFozfgj-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="430" as="sourcePoint" />
+            <mxPoint x="630" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="380" />
+              <mxPoint x="690" y="530" />
+              <mxPoint x="750" y="460" />
+              <mxPoint x="620" y="370" />
+              <mxPoint x="770" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-8" value="不断循环直到所有sync_data_config_test表中detail_endtime&lt;br&gt;都不为空" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="135BFx68nIQ9wBFozfgj-2" target="135BFx68nIQ9wBFozfgj-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-10" value="druid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="750" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="135BFx68nIQ9wBFozfgj-6" target="135BFx68nIQ9wBFozfgj-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-12" value="胡亮说这一块是用register id来做的，不是看时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="495" y="490" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
