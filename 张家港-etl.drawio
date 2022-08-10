@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T10:05:58.583Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="vjNzicPj6z7CNFHO0rtZ" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-10T10:08:31.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="d81husiIeq6RuxUytiWG" version="20.2.3" type="github">
   <diagram id="N3gfBGc6Io_THRg1uLZF" name="第 1 页">
     <mxGraphModel dx="1106" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="135BFx68nIQ9wBFozfgj-12" value="胡亮说这一块是用register id来做的，不是看时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="495" y="490" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="135BFx68nIQ9wBFozfgj-14" value="密码&lt;br&gt;encrypted是谁提供的，生成机制是什么&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="250" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
