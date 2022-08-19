@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T10:40:30.902Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zmGz40HL7nPUIfobhv6F" version="20.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-19T10:41:54.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="UzY5Z5jZZdKF3PTBrCLN" version="20.2.4" type="github" pages="2">
   <diagram id="2KM-rFrR2xTsXC9PlKku" name="第 1 页">
-    <mxGraphModel dx="1298" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,6 +129,15 @@
         </mxCell>
         <mxCell id="3FKa7wvlGTYPQKq6c4H--49" value="LCD/OLED&lt;br&gt;电量?&lt;br&gt;按键映射&lt;br&gt;键盘宏&lt;br&gt;快捷键&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="120" y="820" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Etxb9pp4HP891RAw7gNl-1" value="ESP8266接收器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Etxb9pp4HP891RAw7gNl-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Etxb9pp4HP891RAw7gNl-1" target="3FKa7wvlGTYPQKq6c4H--29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="340" as="sourcePoint" />
+            <mxPoint x="680" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
