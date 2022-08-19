@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T10:38:16.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_LWsgPZS2nxz_CMttF0E" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T10:39:17.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="T-5nh_46DvGjyZUcQ37B" version="20.2.4" type="github">
   <diagram id="2KM-rFrR2xTsXC9PlKku" name="第 1 页">
     <mxGraphModel dx="1298" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,8 +112,8 @@
         <mxCell id="3FKa7wvlGTYPQKq6c4H--37" value="HUB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="910" y="95" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3FKa7wvlGTYPQKq6c4H--38" value="ESP32&lt;br&gt;连接hub并且不连电脑的时候，两个蓝牙合并为一个蓝牙" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="900" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="3FKa7wvlGTYPQKq6c4H--38" value="ESP32&lt;br&gt;连接hub并且不连电脑的时候，两个蓝牙合并为一个蓝牙&lt;br&gt;这个esp32作为两个键盘的usb信号接收端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="900" y="230" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3FKa7wvlGTYPQKq6c4H--45" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3FKa7wvlGTYPQKq6c4H--38" target="3FKa7wvlGTYPQKq6c4H--29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3FKa7wvlGTYPQKq6c4H--48" value="HUB 主控&lt;br&gt;能支持完整的USB4.0&lt;br&gt;根据设备识别转发消息到ESP32" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="900" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="133" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FKa7wvlGTYPQKq6c4H--49" value="LCD/OLED&lt;br&gt;电量?&lt;br&gt;按键映射&lt;br&gt;键盘宏&lt;br&gt;快捷键&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="120" y="820" width="120" height="90" as="geometry" />
