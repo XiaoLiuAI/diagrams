@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T03:25:22.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="31dC7L44gVAzEQXv5EPw" version="20.2.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-29T03:28:38.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZDB6POC75EEOU1zk-kBC" version="20.2.5" type="github" pages="7">
   <diagram id="6RgydICrqF_Up7Ot6GvI" name="技术架构图">
     <mxGraphModel dx="1106" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -508,10 +508,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jItTOKeBsQuaXHMUix3J" name="理赔">
-    <mxGraphModel dx="1106" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NOYxF8SrCB-PiPD406mw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="410" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYxF8SrCB-PiPD406mw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="210" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="Ls_BRyFKqlVONUe5bpOM-1" value="赔案数据" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="200" y="150" width="80" height="80" as="geometry" />
         </mxCell>
@@ -577,6 +583,12 @@
             <mxPoint x="400" y="400" as="sourcePoint" />
             <mxPoint x="450" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NOYxF8SrCB-PiPD406mw-2" value="调查风控系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOYxF8SrCB-PiPD406mw-4" value="理赔风控系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="90" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
