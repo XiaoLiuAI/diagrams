@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T08:00:06.282Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="sNqJB8Dw-eVC-DvhVdHp" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-06T08:10:26.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JIENFooBPE5pCpRdeAgO" version="20.2.7" type="github" pages="3">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2600" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -582,6 +582,9 @@
             <mxPoint x="622.2842712474621" y="778.2842712474621" as="sourcePoint" />
             <mxPoint x="609" y="890" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kE8-YvENT2vYjs3jbNy8-8" value="名字+剂型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
