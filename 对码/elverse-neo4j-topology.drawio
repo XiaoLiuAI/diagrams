@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T07:15:43.780Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="nTfAfdGqvyA-_d6r3Hv-" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-06T07:20:42.864Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CvWenqjYt9t8AypZ28d5" version="20.2.7" type="github" pages="2">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
-    <mxGraphModel dx="1956" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UQtKh2AKOb9bwCj444vK" name="topology">
-    <mxGraphModel dx="1106" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -483,6 +483,12 @@
           <mxGeometry x="610" y="270" as="geometry">
             <mxPoint x="-131" y="-50" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CjTlHAJ8Wki57LJ-zghi-1" value="Concept Deduplication" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontColor=#2B32FF;strokeColor=#2B32FF;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CjTlHAJ8Wki57LJ-zghi-2" value="Innert Collection Management" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontColor=#2B32FF;strokeColor=#2B32FF;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="720" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
