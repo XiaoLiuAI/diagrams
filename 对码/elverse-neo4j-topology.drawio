@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T04:09:23.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="40sHISzeyjVhLx8rhjXV" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-08T04:12:16.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hJHVaLpB3PGPe4p0Om-G" version="20.2.7" type="github" pages="3">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2600" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -483,7 +483,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7jVRmYovptsEJ6WZ1GLQ-10" value="INDXED_BY" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7jVRmYovptsEJ6WZ1GLQ-9">
+        <mxCell id="7jVRmYovptsEJ6WZ1GLQ-10" value="&lt;span style=&quot;color: rgb(43, 50, 255); font-family: Georgia; font-size: 10px;&quot;&gt;HAS_INDEXED_NAME&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7jVRmYovptsEJ6WZ1GLQ-9">
           <mxGeometry x="0.0774" relative="1" as="geometry">
             <mxPoint y="-122" as="offset" />
           </mxGeometry>
