@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T10:26:54.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CzeEPsj9n1XURQFt2ASv" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-21T10:28:12.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="3ddUfXVDNG9sLuzR_i_R" version="20.3.0" type="github" pages="4">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2736" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -542,7 +542,7 @@
             <mxPoint x="910" y="620" as="sourcePoint" />
             <mxPoint x="960" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="750" y="650" />
+              <mxPoint x="740" y="640" />
               <mxPoint x="750" y="630" />
             </Array>
           </mxGeometry>
