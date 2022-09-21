@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T03:51:32.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="E3RIpMO58bIjlAANlcL1" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-21T04:16:24.750Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Jm6kpj9KwpLTNG9d_DiT" version="20.3.0" type="github" pages="4">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2736" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -705,7 +705,7 @@
         <mxCell id="T3hueX2_y_fz5p9HwTbI-12" value="&lt;ul&gt;&lt;li&gt;三目录同步流程中加入人工审阅流程&lt;/li&gt;&lt;ul&gt;&lt;li&gt;在入库的时候做好同义词关联. 系统提供算法辅助提高效率&lt;/li&gt;&lt;li&gt;错别字矫正&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="363" width="250" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="T3hueX2_y_fz5p9HwTbI-13" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;大全集会有脏数据，比如原始三目录中的错别字项目&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="T3hueX2_y_fz5p9HwTbI-13" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;大全集还会有一些别的，目前估计不到的脏数据&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="640" y="460" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="T3hueX2_y_fz5p9HwTbI-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -717,7 +717,7 @@
         <mxCell id="T3hueX2_y_fz5p9HwTbI-16" value="&lt;ul&gt;&lt;li&gt;建立挂库失败条目引入大全集机制&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1010" y="363" width="250" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="T3hueX2_y_fz5p9HwTbI-17" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;大全集会有脏数据，比如原始三目录中的错别字项目&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="T3hueX2_y_fz5p9HwTbI-17" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;大全集还会有一些别的，目前估计不到的脏数据&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1010" y="460" width="250" height="140" as="geometry" />
         </mxCell>
       </root>
