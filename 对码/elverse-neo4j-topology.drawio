@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T10:28:12.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="3ddUfXVDNG9sLuzR_i_R" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-21T10:34:06.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Ds8iIGWKh0R6Fuq7gUAK" version="20.3.0" type="github" pages="4">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2736" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -574,6 +574,40 @@
         </mxCell>
         <mxCell id="6vaaE_EXMK7UqQeRvrrp-9" value="HAS_ALTENATIVE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6vaaE_EXMK7UqQeRvrrp-8">
           <mxGeometry x="-0.0496" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5tANG9pGcMJvyiuuu0s-1" value="同义词人工确认记录" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1060" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-5tANG9pGcMJvyiuuu0s-2" value="同义词算法聚类" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1060" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-5tANG9pGcMJvyiuuu0s-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="-5tANG9pGcMJvyiuuu0s-2" target="6vaaE_EXMK7UqQeRvrrp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="970" as="sourcePoint" />
+            <mxPoint x="990" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5tANG9pGcMJvyiuuu0s-4" value="结构一样，但是是算法聚类的结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-5tANG9pGcMJvyiuuu0s-3">
+          <mxGeometry x="-0.0679" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5tANG9pGcMJvyiuuu0s-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-5tANG9pGcMJvyiuuu0s-1" target="z3SCZQm9MV1HzYlg22tj-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="970" as="sourcePoint" />
+            <mxPoint x="990" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5tANG9pGcMJvyiuuu0s-6" value="TARGET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-5tANG9pGcMJvyiuuu0s-5">
+          <mxGeometry x="-0.4746" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
