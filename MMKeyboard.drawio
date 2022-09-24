@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T09:01:57.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="BOA8Xw-Tv-72E0x8nyYa" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-24T09:02:34.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vF98rc5BhDqtB2bf4a74" version="20.3.6" type="github" pages="3">
   <diagram id="2KM-rFrR2xTsXC9PlKku" name="第 1 页">
     <mxGraphModel dx="1106" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -268,6 +268,24 @@
         </mxCell>
         <mxCell id="GHDp1U4beQGM8JzhK_mK-18" value="screen output ??&lt;br&gt;动态-接口/协议?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GHDp1U4beQGM8JzhK_mK-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontColor=#6666FF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GHDp1U4beQGM8JzhK_mK-10" target="GHDp1U4beQGM8JzhK_mK-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHDp1U4beQGM8JzhK_mK-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontColor=#6666FF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GHDp1U4beQGM8JzhK_mK-10" target="GHDp1U4beQGM8JzhK_mK-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="-10" as="sourcePoint" />
+            <mxPoint x="580" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="-20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
