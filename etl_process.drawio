@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T10:49:57.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.6" etag="PHkRdeUPX_RyIkGFmD4k" type="github"><diagram id="nOM_qMWvI7SmRG-4jjiQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-26T10:54:31.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="XfIpbMpV3_x6n1eYA2wl" version="20.3.6" type="github">
+  <diagram id="nOM_qMWvI7SmRG-4jjiQ" name="第 1 页">
+    <mxGraphModel dx="1210" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yaBNe6Gv_1-j6mTm1Kx--1" value="大宽表清空&lt;br&gt;truncat/drop table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yaBNe6Gv_1-j6mTm1Kx--2" value="大宽表数据插入&lt;br&gt;insert/create table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yaBNe6Gv_1-j6mTm1Kx--3" value="分表索引删除/下线&lt;br&gt;alter index/drop index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yaBNe6Gv_1-j6mTm1Kx--4" value="分表数据插入&lt;br&gt;insert/create table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yaBNe6Gv_1-j6mTm1Kx--5" value="分表数据清空&lt;br&gt;truncat/drop table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yaBNe6Gv_1-j6mTm1Kx--6" value="分表索引重建&lt;br&gt;create index/alter index rebuild" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
