@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T09:33:15.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8fcFznkc_2dSoZ4JPgcq" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T10:18:36.700Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="SXwKs7_PdTFx3QrEK9lc" version="20.5.1" type="github">
   <diagram id="9lWx7QE_99ikzCItOOA4" name="第 1 页">
     <mxGraphModel dx="1369" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,6 +94,11 @@
             <mxPoint x="435" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VbVsVZrBR382r9ZTYyzd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#006600;entryX=-0.01;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RwGBR16TktLq6eAA979h-23" target="VbVsVZrBR382r9ZTYyzd-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RwGBR16TktLq6eAA979h-23" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;background-color: rgb(179, 179, 179);&quot; color=&quot;#00ff80&quot;&gt;更简单的方法规则&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#9933ff&quot;&gt;河北的方法/规则收集&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#9933ff&quot;&gt;当前的复杂规则&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="575" width="180" height="70" as="geometry" />
         </mxCell>
@@ -176,6 +181,18 @@
             <mxPoint x="1030" y="440" as="sourcePoint" />
             <mxPoint x="1100" y="405" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VbVsVZrBR382r9ZTYyzd-4" value="&lt;ul&gt;&lt;li&gt;河北规则：诊疗项目、材料按固定的单价限额(按省市县不同的价格)&lt;/li&gt;&lt;li&gt;扣除规则： 剔除费用=(项目金额-限价*数量) * (1-自付比例)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="870" y="560" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VbVsVZrBR382r9ZTYyzd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#006600;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="RwGBR16TktLq6eAA979h-23" target="VbVsVZrBR382r9ZTYyzd-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="640" as="sourcePoint" />
+            <mxPoint x="860" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbVsVZrBR382r9ZTYyzd-6" value="&lt;ul&gt;&lt;li&gt;当前规则：有的项目按金额进行限价，有的项目按自付比例进行限价，同一项目在不同的统筹区有不同的规则&lt;/li&gt;&lt;li&gt;例子：150700统筹区&lt;/li&gt;&lt;li&gt;1、一次性椎间融合器，单价在100及1000之间的自付比例为10%。一次性椎间融合器,单价在大于等于1000的自付比例为20%&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;li&gt;2、神经补片，单价限额4000元（含4000元）&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="870" y="605" width="730" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
