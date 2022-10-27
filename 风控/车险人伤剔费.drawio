@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T08:05:17.413Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="jc85iBNZ4Q6ZMyK-d_Ji" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T10:15:24.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ks4nYrzpfrWZGTJ4zMfK" version="20.5.1" type="github">
   <diagram id="9lWx7QE_99ikzCItOOA4" name="第 1 页">
     <mxGraphModel dx="1649" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RwGBR16TktLq6eAA979h-25" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#9933ff&quot;&gt;业务上明确是否能归结为非意外&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#006600&quot;&gt;注：限药和超适应症用药一个含义,例如：脑水肿二级限制用药, 之前整理的108条规则数据为常见数据，实际这些足够一般的判断了，每年会根据政策略有调整&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="455" width="180" height="70" as="geometry" />
+          <mxGeometry x="600" y="410" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RwGBR16TktLq6eAA979h-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RwGBR16TktLq6eAA979h-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
