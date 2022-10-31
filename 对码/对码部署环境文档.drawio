@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T06:12:06.673Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GxErlqvWydG7FfnojdsX" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T06:22:25.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1T07jx4f3MlJPTIXfcYy" version="20.5.1" type="github">
   <diagram id="wBQlwIpfEwQ50Xts0F6V" name="第 1 页">
     <mxGraphModel dx="2454" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qIHvddNcrJCs_uBIurdM-1" value="neo4j&lt;br&gt;&lt;br&gt;imgproc-dev" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="30" y="650" width="100" height="80" as="geometry" />
+          <mxGeometry x="-270" y="660" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIHvddNcrJCs_uBIurdM-2" value="neo4j&lt;br&gt;&lt;br&gt;hcp-prod" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="500" y="650" width="100" height="80" as="geometry" />
+          <mxGeometry x="460" y="660" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qIHvddNcrJCs_uBIurdM-3" value="elastic-search&lt;br&gt;&lt;br&gt;???dev" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="200" y="650" width="100" height="80" as="geometry" />
+        <mxCell id="qIHvddNcrJCs_uBIurdM-3" value="elastic-search&lt;br&gt;dev&lt;br&gt;10.23.32.159:9200" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="660" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qIHvddNcrJCs_uBIurdM-4" value="elastic-search&lt;br&gt;&lt;br&gt;???prod" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="670" y="650" width="100" height="80" as="geometry" />
+          <mxGeometry x="630" y="660" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIHvddNcrJCs_uBIurdM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="170" width="240" height="430" as="geometry" />
@@ -39,6 +39,93 @@
         </mxCell>
         <mxCell id="qIHvddNcrJCs_uBIurdM-12" value="PROD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="430" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-14" value="HCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-15" value="Search" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-19" value="neo4j&lt;br&gt;&lt;br&gt;imgproc-uat" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="660" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-20" value="neo4j&lt;br&gt;&lt;br&gt;imgproc-prod" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="660" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-21" value="neo4j&lt;br&gt;&lt;br&gt;global" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="760" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-22" value="elastic-search&lt;br&gt;uat&lt;br&gt;10.23.32.159&lt;br&gt;10.23.37.89&lt;br&gt;10.23.154.241" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="660" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-23" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;a style=&quot;color: rgb(53, 114, 176); text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);&quot; rel=&quot;nofollow&quot; class=&quot;external-link&quot; href=&quot;https://el-dev.leapstack.cn/meddetail/v4/docs&quot;&gt;&lt;span style=&quot;color: rgb(10, 82, 159);&quot; class=&quot;s2&quot;&gt;http://el-dev.internal.leapstack.cn/meddetail/v4/docs&lt;/span&gt;&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="800" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="210" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-25" value="旧服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-26" value="&lt;span style=&quot;text-align: left; color: rgb(10, 82, 159); text-decoration-line: none; font-family: Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot; class=&quot;s2&quot;&gt;&lt;a href=&quot;https://el-dev.leapstack.cn/meddetail/v4/docs&quot;&gt;meddetail/v4/&lt;/a&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-28" value="旧服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-29" value="&lt;span class=&quot;s2&quot; style=&quot;text-align: left; color: rgb(10, 82, 159); text-decoration-line: none; font-family: Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;a href=&quot;https://el-dev.leapstack.cn/meddetail/v4/docs&quot;&gt;meddetail/v4/&lt;/a&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-31" value="旧服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-32" value="&lt;span class=&quot;s2&quot; style=&quot;text-align: left; color: rgb(10, 82, 159); text-decoration-line: none; font-family: Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;a href=&quot;https://el-dev.leapstack.cn/meddetail/v4/docs&quot;&gt;meddetail/v4&lt;/a&gt;/&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="210" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-34" value="旧服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-35" value="&lt;span class=&quot;s2&quot; style=&quot;text-align: left; color: rgb(10, 82, 159); text-decoration-line: none; font-family: Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;a href=&quot;data:page/id,wBQlwIpfEwQ50Xts0F6V&quot;&gt;meddetail/v4/&lt;/a&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="320" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-37" value="保诚" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-38" value="&lt;a style=&quot;color: rgb(53, 114, 176); text-decoration-line: none; font-family: Arial, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; rel=&quot;nofollow&quot; class=&quot;external-link&quot; href=&quot;http://uc-dashboard.internal.leapstack.cn/#/pod?namespace=baocheng-prod&quot;&gt;namespace=baocheng-prod&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-40" value="保诚" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-41" value="&lt;a style=&quot;color: rgb(53, 114, 176); font-family: Arial, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; rel=&quot;nofollow&quot; class=&quot;external-link&quot; href=&quot;http://ci-dashboard.internal.leapstack.cn/#/pod?namespace=baocheng-dev&quot;&gt;namespace=baocheng-uat&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="320" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-43" value="保诚" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIHvddNcrJCs_uBIurdM-44" value="&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#3572b0&quot;&gt;&lt;span style=&quot;font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;a href=&quot;http://ci-dashboard.internal.leapstack.cn/#/pod?namespace=baocheng-dev&quot;&gt;namespace=baocheng-dev&lt;/a&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="360" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
