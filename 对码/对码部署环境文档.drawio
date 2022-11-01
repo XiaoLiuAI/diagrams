@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T08:14:44.242Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="MciBtjC3PShkjy1Tlbve" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T08:14:59.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="M_D6kqeFZjyMpaZO8cVr" version="20.5.1" type="github">
   <diagram id="wBQlwIpfEwQ50Xts0F6V" name="第 1 页">
     <mxGraphModel dx="2454" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="qIHvddNcrJCs_uBIurdM-1" value="neo4j&lt;br&gt;&lt;br&gt;imgproc-dev" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-270" y="660" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qIHvddNcrJCs_uBIurdM-2" value="neo4j&lt;br&gt;&lt;br&gt;hcp-prod" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="860" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIHvddNcrJCs_uBIurdM-3" value="elastic-search&lt;br&gt;dev&lt;br&gt;10.23.32.159:9200" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="370" y="660" width="100" height="90" as="geometry" />
