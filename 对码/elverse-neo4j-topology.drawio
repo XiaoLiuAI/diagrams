@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T01:56:25.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="e7r8zVbrwgFOZcQ4754B" version="20.5.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-01T06:48:02.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1-wUdzr6EMBYeC7IJCPI" version="20.5.1" type="github" pages="6">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2101" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -811,10 +811,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_-Vg_z0S-eKK7Od_GMKD" name="目录外数据拓扑结构">
-    <mxGraphModel dx="1251" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1251" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1E2p1MxsQ74F1C6xuD4k-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="480" width="260" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="hHwSv3FNzLavKuVjbDPk-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="1020" width="400" height="270" as="geometry" />
         </mxCell>
@@ -1115,11 +1118,32 @@
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1E2p1MxsQ74F1C6xuD4k-1" value="Feedback DataSource" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1E2p1MxsQ74F1C6xuD4k-3" value="直接入库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1E2p1MxsQ74F1C6xuD4k-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="1E2p1MxsQ74F1C6xuD4k-3" target="1E2p1MxsQ74F1C6xuD4k-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="620" as="sourcePoint" />
+            <mxPoint x="1290" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1E2p1MxsQ74F1C6xuD4k-5" value="Input Collected Detail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1E2p1MxsQ74F1C6xuD4k-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="1E2p1MxsQ74F1C6xuD4k-5" target="1E2p1MxsQ74F1C6xuD4k-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="790" as="sourcePoint" />
+            <mxPoint x="1290" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="iz6C8R_kZYinVJ7KgLSr" name="带库率提升方案">
-    <mxGraphModel dx="1251" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1251" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
