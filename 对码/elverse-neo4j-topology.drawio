@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T03:17:11.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kttC_brj-nFnGdaQIPno" version="20.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-11-09T03:31:19.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="upeVuvN3LicmzgF_WLkT" version="20.5.1" type="github" pages="7">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2640" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UQtKh2AKOb9bwCj444vK" name="topology">
-    <mxGraphModel dx="1251" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1790" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1451,6 +1451,21 @@
             <mxPoint x="510" y="1350" as="sourcePoint" />
             <mxPoint x="590" y="1380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rAp7f7ClfyHe3x-b09Qy-71" value="数据结构多了一层，Rule到RuleEntity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WouOmOEYS15iKpvX_-8h-2" value="checksum的计算方式，&lt;br&gt;Rule和RuleEntity两层checksum计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WouOmOEYS15iKpvX_-8h-3" value="checksum方便做CUD操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WouOmOEYS15iKpvX_-8h-4" value="永远假删" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WouOmOEYS15iKpvX_-8h-5" value="所有集合共享&lt;br&gt;Rule节点和RuleEntity节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
