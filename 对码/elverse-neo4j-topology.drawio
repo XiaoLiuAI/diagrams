@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T03:58:51.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zuw4WBoJScDGZPdw84T_" version="20.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-11-09T03:59:42.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="576m4ucNoeGmke4Rg22I" version="20.5.1" type="github" pages="7">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2640" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1466,6 +1466,9 @@
         </mxCell>
         <mxCell id="WouOmOEYS15iKpvX_-8h-5" value="所有集合共享&lt;br&gt;Rule节点和RuleEntity节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WouOmOEYS15iKpvX_-8h-6" value="如果所有的数据脚本操作都由jupyter来进行，如何实现代码逻辑统一?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
