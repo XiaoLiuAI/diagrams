@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T06:08:16.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="npbkrWzQK9SLUWt6wmub" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T06:18:07.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fiJp8HuOPxrNsjn6D7kv" version="20.5.3" type="github">
   <diagram id="rSGu4o6Rqyp290gI-cES" name="第 1 页">
-    <mxGraphModel dx="2297" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3147" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mn21rde6M0jEx78j5Lbr-13" value="参保人中心&lt;br&gt;场景+模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn21rde6M0jEx78j5Lbr-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mn21rde6M0jEx78j5Lbr-13" target="Mn21rde6M0jEx78j5Lbr-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -114,6 +114,54 @@
               <mxPoint x="280" y="420" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-21" value="风险饼图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-22" value="风险列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-23" value="中心图UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-24" value="拓展图UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-26" value="画像展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-27" value="Java" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-28" value="DAG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-29" value="Python" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="460" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-520.5" y="575" as="sourcePoint" />
+            <mxPoint x="-520.5" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-520.5" y="450" as="sourcePoint" />
+            <mxPoint x="-520.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-33" value="Neo4J" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-34" value="实时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-35" value="非实时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="470" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
