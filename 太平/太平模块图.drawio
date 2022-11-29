@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T06:05:02.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YVZcuuU5hvXG8NhFa6Qv" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T06:08:16.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="npbkrWzQK9SLUWt6wmub" version="20.5.3" type="github">
   <diagram id="rSGu4o6Rqyp290gI-cES" name="第 1 页">
     <mxGraphModel dx="2297" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="Mn21rde6M0jEx78j5Lbr-3" value="调查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mn21rde6M0jEx78j5Lbr-4" value="调查员画像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-4" value="调查员画像" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn21rde6M0jEx78j5Lbr-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mn21rde6M0jEx78j5Lbr-4" target="Mn21rde6M0jEx78j5Lbr-2">
@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn21rde6M0jEx78j5Lbr-7" value="实时+非实时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-7" value="实时+非实时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn21rde6M0jEx78j5Lbr-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mn21rde6M0jEx78j5Lbr-16" target="Mn21rde6M0jEx78j5Lbr-3">
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn21rde6M0jEx78j5Lbr-10" value="参保人画像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-10" value="参保人画像" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn21rde6M0jEx78j5Lbr-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mn21rde6M0jEx78j5Lbr-10" target="Mn21rde6M0jEx78j5Lbr-1">
@@ -73,7 +73,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn21rde6M0jEx78j5Lbr-13" value="参保人中心&lt;br&gt;场景+模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-13" value="参保人中心&lt;br&gt;场景+模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-150" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn21rde6M0jEx78j5Lbr-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mn21rde6M0jEx78j5Lbr-13" target="Mn21rde6M0jEx78j5Lbr-1">
@@ -82,10 +82,10 @@
             <mxPoint x="450" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn21rde6M0jEx78j5Lbr-15" value="赔案中心风控&lt;br&gt;场景+模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-15" value="赔案中心风控&lt;br&gt;场景+模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="580" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mn21rde6M0jEx78j5Lbr-16" value="非实时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mn21rde6M0jEx78j5Lbr-16" value="非实时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mn21rde6M0jEx78j5Lbr-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mn21rde6M0jEx78j5Lbr-15" target="Mn21rde6M0jEx78j5Lbr-7">
