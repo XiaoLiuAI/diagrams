@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T02:38:33.146Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6nz0zw8O0vKqW8Wj4fgs" version="20.6.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-30T02:39:18.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mknmNyq7qRupmkJy7P64" version="20.6.0" type="github" pages="9">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2916" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1879,7 +1879,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pJ39FbHkoec8fcLi71q1" name="数据存储">
-    <mxGraphModel dx="1878" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1964,7 +1964,7 @@
         <mxCell id="LBD2sJHBDIkf4eG3avMv-35" value="&lt;b&gt;Update管线&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LBD2sJHBDIkf4eG3avMv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontColor=#009900;" edge="1" parent="1" source="LBD2sJHBDIkf4eG3avMv-15" target="LBD2sJHBDIkf4eG3avMv-28">
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontColor=#009900;strokeColor=#009900;" edge="1" parent="1" source="LBD2sJHBDIkf4eG3avMv-15" target="LBD2sJHBDIkf4eG3avMv-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="560" as="targetPoint" />
           </mxGeometry>
@@ -2002,7 +2002,7 @@
         <mxCell id="LBD2sJHBDIkf4eG3avMv-54" value="&lt;h1&gt;三目录Search管线&lt;/h1&gt;&lt;p&gt;请求数据 ==&amp;gt; 知识库Elasticsearch + 目录外Elasticsearch ==&amp;gt; 响应数据&lt;/p&gt;&lt;h1&gt;三目录Update管线（目录内）&lt;/h1&gt;&lt;div&gt;请求数据 ==&amp;gt; 知识库Elasticsearch ==&amp;gt; Neo4j主存储&lt;/div&gt;&lt;div&gt;==&amp;gt; 响应数据&lt;/div&gt;&lt;div&gt;&lt;h1&gt;三目录Update管线（目录外）&lt;/h1&gt;&lt;div&gt;请求数据 ==&amp;gt; Neo4j主存储 ==&amp;gt; 目录外Elasticseach&lt;/div&gt;&lt;div&gt;==&amp;gt; 响应数据&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;strokeWidth=1;fontSize=11;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="330" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="LBD2sJHBDIkf4eG3avMv-55" value="&lt;h1&gt;&lt;font color=&quot;#cc6600&quot;&gt;规则Search管线&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#cc6600&quot;&gt;请求数据 ==&amp;gt; 索引名称Elasticsearch ==&amp;gt; Neo4j主存储 ==&amp;gt; 响应数据&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;strokeWidth=1;fontSize=11;fontColor=#009900;" vertex="1" parent="1">
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-55" value="&lt;h1&gt;&lt;font color=&quot;#cc6600&quot;&gt;规则Search管线&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#cc6600&quot;&gt;请求数据 ==&amp;gt; 索引名称Elasticsearch ==&amp;gt; Neo4j主存储 ==&amp;gt; 响应数据&lt;/font&gt;&lt;/p&gt;&lt;h1&gt;&lt;font color=&quot;#cc6600&quot;&gt;规则Search管线&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;strokeWidth=1;fontSize=11;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="500" y="460" width="330" height="200" as="geometry" />
         </mxCell>
       </root>
