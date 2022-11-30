@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T09:28:22.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TrlTf2JRykk6EF_Jeovg" version="20.5.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-30T01:59:17.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AXDtueytb1nAtFoINR3N" version="20.6.0" type="github" pages="9">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2916" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1874,6 +1874,29 @@
         </mxCell>
         <mxCell id="RLvVYlyMcEg82NRf-uoO-103" value="task_id: &quot;&lt;span style=&quot;text-align: center;&quot;&gt;5434589524523490523452&quot;&lt;/span&gt;&lt;br&gt;state: success&lt;br&gt;elapsed: 1233&lt;br&gt;input_count: 20000,&lt;br&gt;text_filtered: 2,&lt;br&gt;existed: 2344,&lt;br&gt;created: 17654&lt;br&gt;create_time: &#39;2022-12-12T00:00:00+8:00&#39;&lt;br&gt;start_time: &#39;2022-12-12T00:03:00+8:00&#39;&amp;nbsp;&lt;br&gt;finished_time: &#39;2022-12-12T00:08:23+8:00&#39;&lt;br&gt;validation: {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&#39;unique_validation&#39;: {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&#39;state&#39;: &#39;passed&#39;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;},&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&#39;fake_validation&#39;: {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&#39;state&#39;: &#39;failed&#39;,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&#39;message&#39;: &#39;validation failed, bla bla bla&#39;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;}&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="800" y="2420" width="490" height="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pJ39FbHkoec8fcLi71q1" name="数据存储">
+    <mxGraphModel dx="1425" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-3" value="&lt;b&gt;Elverse Search&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-6" value="" style="line;strokeWidth=5;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-8" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="130" as="sourcePoint" />
+            <mxPoint x="330" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
