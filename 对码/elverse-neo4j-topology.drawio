@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T02:14:24.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2Mhk_GycD-e4vVb5B6na" version="20.6.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-30T02:17:52.352Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="D0Cxt25wRIXidLL_sBQG" version="20.6.0" type="github" pages="9">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2916" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1879,7 +1879,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pJ39FbHkoec8fcLi71q1" name="数据存储">
-    <mxGraphModel dx="1425" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1941,21 +1941,13 @@
           <mxGeometry y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LBD2sJHBDIkf4eG3avMv-30" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="290.08" y="520" width="80" height="70" as="geometry" />
+          <mxGeometry x="290" y="610" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LBD2sJHBDIkf4eG3avMv-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-5.svg;" vertex="1" parent="LBD2sJHBDIkf4eG3avMv-30">
           <mxGeometry x="20.08000000000004" width="39.84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LBD2sJHBDIkf4eG3avMv-29" value="Neo4j主存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=11;" vertex="1" parent="LBD2sJHBDIkf4eG3avMv-30">
           <mxGeometry y="40" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LBD2sJHBDIkf4eG3avMv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LBD2sJHBDIkf4eG3avMv-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="540" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240" y="540" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="LBD2sJHBDIkf4eG3avMv-32" value="规则查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="20" height="90" as="geometry" />
@@ -1965,6 +1957,26 @@
         </mxCell>
         <mxCell id="LBD2sJHBDIkf4eG3avMv-34" value="目录外查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="425" y="300" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="LBD2sJHBDIkf4eG3avMv-35" target="LBD2sJHBDIkf4eG3avMv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-35" value="&lt;b&gt;Update管线&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LBD2sJHBDIkf4eG3avMv-15" target="LBD2sJHBDIkf4eG3avMv-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-39" value="目录内同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="330" y="505" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;strokeColor=default;dashed=1;" edge="1" parent="1" source="LBD2sJHBDIkf4eG3avMv-28" target="LBD2sJHBDIkf4eG3avMv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;dashed=1;" edge="1" parent="1" source="LBD2sJHBDIkf4eG3avMv-28" target="LBD2sJHBDIkf4eG3avMv-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
