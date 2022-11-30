@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T02:39:18.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mknmNyq7qRupmkJy7P64" version="20.6.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-30T02:41:11.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7-gNHHWD2tvSOz7Zb1pW" version="20.6.0" type="github" pages="9">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2916" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1999,11 +1999,11 @@
         <mxCell id="LBD2sJHBDIkf4eG3avMv-48" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="265" y="820" width="50" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="LBD2sJHBDIkf4eG3avMv-54" value="&lt;h1&gt;三目录Search管线&lt;/h1&gt;&lt;p&gt;请求数据 ==&amp;gt; 知识库Elasticsearch + 目录外Elasticsearch ==&amp;gt; 响应数据&lt;/p&gt;&lt;h1&gt;三目录Update管线（目录内）&lt;/h1&gt;&lt;div&gt;请求数据 ==&amp;gt; 知识库Elasticsearch ==&amp;gt; Neo4j主存储&lt;/div&gt;&lt;div&gt;==&amp;gt; 响应数据&lt;/div&gt;&lt;div&gt;&lt;h1&gt;三目录Update管线（目录外）&lt;/h1&gt;&lt;div&gt;请求数据 ==&amp;gt; Neo4j主存储 ==&amp;gt; 目录外Elasticseach&lt;/div&gt;&lt;div&gt;==&amp;gt; 响应数据&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;strokeWidth=1;fontSize=11;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="500" y="160" width="330" height="260" as="geometry" />
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-54" value="&lt;h1&gt;三目录Search管线&lt;/h1&gt;&lt;p&gt;请求数据 ==&amp;gt; 知识库Elasticsearch + 目录外Elasticsearch ==&amp;gt; 响应数据&lt;/p&gt;&lt;h1&gt;三目录Update管线（目录内）&lt;/h1&gt;&lt;div&gt;请求数据 ==&amp;gt; 知识库Elasticsearch ==&amp;gt; Neo4j主存储 ==&amp;gt; 响应数据&lt;/div&gt;&lt;div&gt;&lt;h1&gt;三目录Update管线（目录外）&lt;/h1&gt;&lt;div&gt;请求数据 ==&amp;gt; Neo4j主存储 ==&amp;gt; 目录外Elasticseach ==&amp;gt; 响应数据&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;strokeWidth=1;fontSize=11;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="410" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="LBD2sJHBDIkf4eG3avMv-55" value="&lt;h1&gt;&lt;font color=&quot;#cc6600&quot;&gt;规则Search管线&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#cc6600&quot;&gt;请求数据 ==&amp;gt; 索引名称Elasticsearch ==&amp;gt; Neo4j主存储 ==&amp;gt; 响应数据&lt;/font&gt;&lt;/p&gt;&lt;h1&gt;&lt;font color=&quot;#cc6600&quot;&gt;规则Search管线&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;strokeWidth=1;fontSize=11;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="500" y="460" width="330" height="200" as="geometry" />
+        <mxCell id="LBD2sJHBDIkf4eG3avMv-55" value="&lt;h1&gt;&lt;font color=&quot;#cc6600&quot;&gt;规则Search管线&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#cc6600&quot;&gt;请求数据 ==&amp;gt; 索引名称Elasticsearch ==&amp;gt; Neo4j主存储 ==&amp;gt; 响应数据&lt;/font&gt;&lt;/p&gt;&lt;h1&gt;&lt;font color=&quot;#cc6600&quot;&gt;规则Update管线&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;请求数据 ==&amp;gt; Neo4j主存储 ==&amp;gt; 索引名称Elasticsearch ==&amp;gt; 响应数据&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;strokeWidth=1;fontSize=11;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="390" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
