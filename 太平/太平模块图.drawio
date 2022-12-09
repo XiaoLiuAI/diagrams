@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T07:54:35.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oul50FwPQa_uYO6aVoT8" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-09T07:56:54.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XApqlV4qr7hNPNwKzusI" version="20.5.3" type="github" pages="3">
   <diagram id="rSGu4o6Rqyp290gI-cES" name="v1 2022.11.29">
     <mxGraphModel dx="3348" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -662,7 +662,7 @@
         <mxCell id="lzqGA5qskakdU-bMgjPd-99" value="画像信息&lt;br&gt;要向后端特别请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1320" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lzqGA5qskakdU-bMgjPd-100" value="UI node由原始数据生成而来，记录一个来源数据列表方便回溯（以后可能用得上）&lt;br&gt;&lt;br&gt;view nodes是UI nodes的子集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="lzqGA5qskakdU-bMgjPd-100" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;UI node由原始数据生成而来，记录一个来源数据列表方便回溯（以后可能用得上）&lt;br&gt;&lt;br&gt;view nodes是UI nodes的子集，对象是公用的，所以可以通过view node直接访问到原始的neo4j nodes&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="590" y="1720" width="380" height="170" as="geometry" />
         </mxCell>
       </root>
