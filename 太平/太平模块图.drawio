@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T07:00:00.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2UtS2tFCh50RdLbIqpnO" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-09T07:02:12.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="20k486GEWEUN8jtO9ohl" version="20.5.3" type="github" pages="3">
   <diagram id="rSGu4o6Rqyp290gI-cES" name="v1 2022.11.29">
     <mxGraphModel dx="3348" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -366,29 +366,43 @@
         <mxCell id="BnaOwxZyzZLkzqi-J-c8-17" value="节点详情" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="eSKyIcVcfqzx3fW9R-EI-1">
           <mxGeometry x="610" y="270" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BnaOwxZyzZLkzqi-J-c8-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="eSKyIcVcfqzx3fW9R-EI-1">
-          <mxGeometry x="30" y="650" width="960" height="430" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fpagVeR7lZ3CPlieFAdJ" name="核心图谱">
+    <mxGraphModel dx="1648" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lzqGA5qskakdU-bMgjPd-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="960" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="BnaOwxZyzZLkzqi-J-c8-19" value="GeneralGraph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="eSKyIcVcfqzx3fW9R-EI-1">
-          <mxGeometry x="460" y="660" width="120" height="30" as="geometry" />
+        <mxCell id="lzqGA5qskakdU-bMgjPd-2" value="GeneralGraph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BnaOwxZyzZLkzqi-J-c8-20" value="neo4j nodes" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="eSKyIcVcfqzx3fW9R-EI-1">
-          <mxGeometry x="70" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="lzqGA5qskakdU-bMgjPd-3" value="neo4j nodes" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BnaOwxZyzZLkzqi-J-c8-21" value="neo4j edges" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="eSKyIcVcfqzx3fW9R-EI-1">
-          <mxGeometry x="210" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="lzqGA5qskakdU-bMgjPd-4" value="neo4j edges" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BnaOwxZyzZLkzqi-J-c8-22" value="neo4j query function&lt;br&gt;获取neo4j原始信息接口" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="eSKyIcVcfqzx3fW9R-EI-1">
-          <mxGeometry x="70" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="lzqGA5qskakdU-bMgjPd-5" value="neo4j query function&lt;br&gt;获取neo4j原始信息接口" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BnaOwxZyzZLkzqi-J-c8-23" value="UI nodes" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="eSKyIcVcfqzx3fW9R-EI-1">
-          <mxGeometry x="70" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="lzqGA5qskakdU-bMgjPd-6" value="UI nodes" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BnaOwxZyzZLkzqi-J-c8-24" value="UI edges" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="eSKyIcVcfqzx3fW9R-EI-1">
-          <mxGeometry x="210" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="lzqGA5qskakdU-bMgjPd-7" value="UI edges" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BnaOwxZyzZLkzqi-J-c8-25" value="UI projection function&lt;br&gt;neo4j 原始信息映射到图展示信息的function" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="eSKyIcVcfqzx3fW9R-EI-1">
-          <mxGeometry x="70" y="870" width="120" height="60" as="geometry" />
+        <mxCell id="lzqGA5qskakdU-bMgjPd-8" value="UI projection function&lt;br&gt;neo4j 原始信息映射到图展示信息的函数" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqGA5qskakdU-bMgjPd-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;组件图&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lzqGA5qskakdU-bMgjPd-10" value="UI filter function&lt;br&gt;图展示信息的过滤函数" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
