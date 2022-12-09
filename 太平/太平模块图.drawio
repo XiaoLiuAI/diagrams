@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T08:00:54.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZGPBrFMCKMpJCBdjWOYF" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-09T08:01:20.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="59Jp1qXDUFoeMRU-Nq5r" version="20.5.3" type="github" pages="3">
   <diagram id="rSGu4o6Rqyp290gI-cES" name="v1 2022.11.29">
     <mxGraphModel dx="3348" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -668,7 +668,7 @@
         <mxCell id="lzqGA5qskakdU-bMgjPd-101" value="生成具体的UI组件，把数据绑定上去，&lt;br&gt;把函数也绑定上去，实现不同的定制化策略" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1170" y="640" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="lzqGA5qskakdU-bMgjPd-102" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="lzqGA5qskakdU-bMgjPd-102" value="潜在逻辑依赖，必须逻辑一致" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="810" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lzqGA5qskakdU-bMgjPd-103" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontSize=12;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzqGA5qskakdU-bMgjPd-102" target="lzqGA5qskakdU-bMgjPd-55">
