@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T08:31:55.231Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="NXdrOytsU3PySVM9SqR9" version="20.8.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-02-06T04:08:23.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hn820i6H6S-zCfdOGQic" version="20.8.5" type="github" pages="11">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="3009" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2116,6 +2116,14 @@
             <mxPoint x="640" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-_5Rpb-ArA_9s_8xMat1" name="上海规则数据逻辑结构">
+    <mxGraphModel dx="2159" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
