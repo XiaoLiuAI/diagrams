@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T04:13:57.944Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="k9r2pOHye7iqZhDcbgW-" version="21.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-18T04:15:24.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="39imSyAM2rLk1Ka5EXWy" version="21.1.5" type="github" pages="2">
   <diagram name="搜索流程" id="9VUj5cMb8SGM_6NRE36Y">
     <mxGraphModel dx="2908" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
         <mxCell id="IzGb9iwLQOQoCAAjrPBc-25" value="请求清空数据源&lt;br&gt;/indexed/source/truncate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="445" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IzGb9iwLQOQoCAAjrPBc-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IzGb9iwLQOQoCAAjrPBc-12" target="IzGb9iwLQOQoCAAjrPBc-20">
+        <mxCell id="IzGb9iwLQOQoCAAjrPBc-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IzGb9iwLQOQoCAAjrPBc-12" target="IzGb9iwLQOQoCAAjrPBc-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-150" y="700" as="sourcePoint" />
             <mxPoint x="30" y="250" as="targetPoint" />
@@ -247,6 +247,15 @@
         </mxCell>
         <mxCell id="IzGb9iwLQOQoCAAjrPBc-27" value="分批次请求保存编码数据&lt;br&gt;/indexed/detail&lt;br&gt;/indexed/embedding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="380" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IzGb9iwLQOQoCAAjrPBc-28" value="编码数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="445" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IzGb9iwLQOQoCAAjrPBc-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IzGb9iwLQOQoCAAjrPBc-28" target="IzGb9iwLQOQoCAAjrPBc-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="500" as="sourcePoint" />
+            <mxPoint x="450" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
