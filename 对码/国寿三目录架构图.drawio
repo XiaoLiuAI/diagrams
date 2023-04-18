@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T02:41:28.897Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MOiwBS88a7xqH74bqIy_" version="21.1.5" type="github">
-  <diagram name="第 1 页" id="9VUj5cMb8SGM_6NRE36Y">
-    <mxGraphModel dx="2908" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-04-18T02:53:57.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fBAjscZmsZTwpIePhjdJ" version="21.1.5" type="github">
+  <diagram name="搜索流程" id="9VUj5cMb8SGM_6NRE36Y">
+    <mxGraphModel dx="2908" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,9 +95,6 @@
         </mxCell>
         <mxCell id="LC19eQBx2RhpJeKuKSME-26" value="搜索流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LC19eQBx2RhpJeKuKSME-27" value="索引流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LC19eQBx2RhpJeKuKSME-28" value="获取最新三目录编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="210" width="120" height="60" as="geometry" />
