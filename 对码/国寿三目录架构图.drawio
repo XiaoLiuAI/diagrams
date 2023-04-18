@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T02:33:15.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vIvRk0TXuDCi0FnU42g4" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T02:34:20.123Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TSZn0lQsthkAg5IscpHR" version="21.1.5" type="github">
   <diagram name="第 1 页" id="9VUj5cMb8SGM_6NRE36Y">
     <mxGraphModel dx="2908" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,6 +92,9 @@
             <mxPoint x="370" y="280" as="sourcePoint" />
             <mxPoint x="345" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LC19eQBx2RhpJeKuKSME-26" value="搜索流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
