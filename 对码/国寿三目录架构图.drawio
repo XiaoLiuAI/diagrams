@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T04:13:47.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="M5AoBK8p_NqgfiPSWyIS" version="21.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-18T04:13:57.944Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="k9r2pOHye7iqZhDcbgW-" version="21.1.5" type="github" pages="2">
   <diagram name="搜索流程" id="9VUj5cMb8SGM_6NRE36Y">
     <mxGraphModel dx="2908" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IzGb9iwLQOQoCAAjrPBc-27" value="分批次请求保存编码数据&lt;br&gt;/indexed/detail&lt;br&gt;/indexed/embedding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="380" width="210" height="50" as="geometry" />
+          <mxGeometry x="50" y="380" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
