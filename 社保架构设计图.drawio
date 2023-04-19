@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T08:54:30.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-yAIBq81ieB0v9n1zW1K" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T09:10:01.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="OLfzPhJzXIXR4aZ-kRBN" version="21.1.5" type="github">
   <diagram name="第 1 页" id="X2JeZNGttEWhe0TlvKYG">
     <mxGraphModel dx="2908" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="zBPjSIByr8evdOQjtAYK-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="zBPjSIByr8evdOQjtAYK-30" vertex="1">
           <mxGeometry width="340" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zBPjSIByr8evdOQjtAYK-23" value="运行结果模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="zBPjSIByr8evdOQjtAYK-30" vertex="1">
+        <mxCell id="zBPjSIByr8evdOQjtAYK-23" value="任务管理模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="zBPjSIByr8evdOQjtAYK-30" vertex="1">
           <mxGeometry x="105" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zBPjSIByr8evdOQjtAYK-24" value="后端" style="rounded=1;whiteSpace=wrap;html=1;" parent="zBPjSIByr8evdOQjtAYK-30" vertex="1">
@@ -224,6 +224,33 @@
             <Array as="points">
               <mxPoint x="1090" y="610" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXtnEgnxSbcdx4EIXjEe-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="390" y="1030" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aXtnEgnxSbcdx4EIXjEe-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aXtnEgnxSbcdx4EIXjEe-3">
+          <mxGeometry width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aXtnEgnxSbcdx4EIXjEe-5" value="运行结果模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aXtnEgnxSbcdx4EIXjEe-3">
+          <mxGeometry x="105" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aXtnEgnxSbcdx4EIXjEe-6" value="后端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aXtnEgnxSbcdx4EIXjEe-3">
+          <mxGeometry x="190" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aXtnEgnxSbcdx4EIXjEe-7" value="前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aXtnEgnxSbcdx4EIXjEe-3">
+          <mxGeometry x="35" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aXtnEgnxSbcdx4EIXjEe-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aXtnEgnxSbcdx4EIXjEe-4" target="zBPjSIByr8evdOQjtAYK-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="760" as="sourcePoint" />
+            <mxPoint x="600" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXtnEgnxSbcdx4EIXjEe-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aXtnEgnxSbcdx4EIXjEe-4" target="aXtnEgnxSbcdx4EIXjEe-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1120" as="sourcePoint" />
+            <mxPoint x="60" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
