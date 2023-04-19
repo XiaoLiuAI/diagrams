@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T09:40:24.424Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Q08w7g4Kx-YUj1dfRNmf" version="21.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-19T09:43:57.288Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rCa45t2B9y_jNYwjFE7R" version="21.1.5" type="github" pages="2">
   <diagram name="模块架构" id="X2JeZNGttEWhe0TlvKYG">
     <mxGraphModel dx="2908" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="PkHHG-rbIKo9PlBgIii0" name="业务核心流程">
+  <diagram id="PkHHG-rbIKo9PlBgIii0" name="业务核心概念">
     <mxGraphModel dx="2908" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
