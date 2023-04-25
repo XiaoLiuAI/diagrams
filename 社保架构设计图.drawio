@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T11:33:19.132Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7j0Vwjo3yn3z9s740cdL" version="21.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-25T11:33:44.001Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Kc0jnXTvpvGdG9BoENzP" version="21.2.1" type="github" pages="4">
   <diagram name="模块架构" id="X2JeZNGttEWhe0TlvKYG">
     <mxGraphModel dx="2690" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -737,6 +737,9 @@
             <mxPoint x="690" y="450" as="sourcePoint" />
             <mxPoint x="740" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bqQu4yJMFzkWmgwumBhd-17" value="用DAG来实现？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="640" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
