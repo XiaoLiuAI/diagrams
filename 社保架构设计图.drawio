@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T10:48:03.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ml7bxlipIILWZwHNiNsQ" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-25T10:53:44.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-MaCeukuzaB789IALAbJ" version="21.2.1" type="github" pages="3">
   <diagram name="模块架构" id="X2JeZNGttEWhe0TlvKYG">
     <mxGraphModel dx="2274" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -524,6 +524,93 @@
               <mxPoint x="600" y="100" />
               <mxPoint x="700" y="260" />
               <mxPoint x="430" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-60" value="数据集管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-61" value="规则管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-62" value="结果查看模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-63" value="任务管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rrc6Z4CV_fb9IXmUvoc7-61" target="Rrc6Z4CV_fb9IXmUvoc7-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="580" as="sourcePoint" />
+            <mxPoint x="290" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-65" value="运行规则" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rrc6Z4CV_fb9IXmUvoc7-63" target="Rrc6Z4CV_fb9IXmUvoc7-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="580" as="sourcePoint" />
+            <mxPoint x="290" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-67" value="查看结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-68" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rrc6Z4CV_fb9IXmUvoc7-60" target="Rrc6Z4CV_fb9IXmUvoc7-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="580" as="sourcePoint" />
+            <mxPoint x="290" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rrc6Z4CV_fb9IXmUvoc7-60" target="Rrc6Z4CV_fb9IXmUvoc7-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="580" as="sourcePoint" />
+            <mxPoint x="290" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-70" value="相关任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-71" value="曾今运行过的规则" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-73" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rrc6Z4CV_fb9IXmUvoc7-60" target="Rrc6Z4CV_fb9IXmUvoc7-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="570" as="sourcePoint" />
+            <mxPoint x="290" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-74" value="曾今运行过的结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-75" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rrc6Z4CV_fb9IXmUvoc7-63" target="Rrc6Z4CV_fb9IXmUvoc7-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="570" as="sourcePoint" />
+            <mxPoint x="290" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-76" value="对应规则集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rrc6Z4CV_fb9IXmUvoc7-77" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rrc6Z4CV_fb9IXmUvoc7-60" target="Rrc6Z4CV_fb9IXmUvoc7-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="570" as="sourcePoint" />
+            <mxPoint x="290" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
