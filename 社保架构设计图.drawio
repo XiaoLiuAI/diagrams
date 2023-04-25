@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T10:53:44.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-MaCeukuzaB789IALAbJ" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-25T10:55:59.931Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZMqL1bgor4quJjSCpZMi" version="21.2.1" type="github" pages="3">
   <diagram name="模块架构" id="X2JeZNGttEWhe0TlvKYG">
-    <mxGraphModel dx="2274" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="zBPjSIByr8evdOQjtAYK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="390" width="340" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="zBPjSIByr8evdOQjtAYK-1" value="用户管理权限系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zBPjSIByr8evdOQjtAYK-1" value="用户权限配置系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zBPjSIByr8evdOQjtAYK-2" value="前端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="zBPjSIByr8evdOQjtAYK-8" value="日志系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="495" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zBPjSIByr8evdOQjtAYK-9" value="用户权限限制/分流" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zBPjSIByr8evdOQjtAYK-9" value="用户权限鉴权系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zBPjSIByr8evdOQjtAYK-11" value="后端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
