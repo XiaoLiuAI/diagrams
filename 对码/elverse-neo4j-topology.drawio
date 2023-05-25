@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T08:20:19.204Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="fTTHdhhHOu1gLpal-n8G" version="21.3.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-25T08:24:30.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pWi-evm3BMwQxURB0-kA" version="21.3.3" type="github" pages="6">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2168" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -367,15 +367,15 @@
           <mxGeometry x="630" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fN2IPZuYBG6KQM6beQOC-2" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;CodeCollection&lt;br&gt;码表集合(ICD10, etc)&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="820" width="80" height="80" as="geometry" />
+          <mxGeometry x="-510" y="850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fN2IPZuYBG6KQM6beQOC-3" value="CodeEntity&lt;br&gt;码表实体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="820" width="80" height="80" as="geometry" />
+          <mxGeometry x="-690" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fN2IPZuYBG6KQM6beQOC-5" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Georgia;fontSize=10;fontColor=#FF00FF;strokeColor=#d79b00;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;" parent="1" source="fN2IPZuYBG6KQM6beQOC-2" target="fN2IPZuYBG6KQM6beQOC-3" edge="1">
+        <mxCell id="fN2IPZuYBG6KQM6beQOC-5" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Georgia;fontSize=10;fontColor=#FF00FF;strokeColor=#d79b00;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;" parent="1" source="fN2IPZuYBG6KQM6beQOC-2" target="fN2IPZuYBG6KQM6beQOC-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="550" as="sourcePoint" />
-            <mxPoint x="-250" y="830" as="targetPoint" />
+            <mxPoint x="-50" y="580" as="sourcePoint" />
+            <mxPoint x="-130" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fN2IPZuYBG6KQM6beQOC-6" value="&lt;font color=&quot;#2b32ff&quot;&gt;HAS_ENTITY&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Georgia;fontColor=#FF00FF;" parent="fN2IPZuYBG6KQM6beQOC-5" vertex="1" connectable="0">
@@ -403,15 +403,18 @@
           <mxGeometry x="-320" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uEPg3WLGyN6IwGQCYJUk-1" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;HospitalCollection&lt;br&gt;码表集合(ICD10, etc)&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="350" y="850" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="850" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uEPg3WLGyN6IwGQCYJUk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uEPg3WLGyN6IwGQCYJUk-2" target="z3SCZQm9MV1HzYlg22tj-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uEPg3WLGyN6IwGQCYJUk-2" value="HospitalEntity&lt;br&gt;码表实体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="630" y="850" width="80" height="80" as="geometry" />
+          <mxGeometry x="90" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uEPg3WLGyN6IwGQCYJUk-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Georgia;fontSize=10;fontColor=#FF00FF;strokeColor=#d79b00;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;" edge="1" parent="1" source="uEPg3WLGyN6IwGQCYJUk-1" target="uEPg3WLGyN6IwGQCYJUk-2">
+        <mxCell id="uEPg3WLGyN6IwGQCYJUk-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Georgia;fontSize=10;fontColor=#FF00FF;strokeColor=#d79b00;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;" edge="1" parent="1" source="uEPg3WLGyN6IwGQCYJUk-1" target="uEPg3WLGyN6IwGQCYJUk-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="580" as="sourcePoint" />
-            <mxPoint x="800" y="860" as="targetPoint" />
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="730" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uEPg3WLGyN6IwGQCYJUk-4" value="&lt;font color=&quot;#2b32ff&quot;&gt;HAS_ENTITY&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Georgia;fontColor=#FF00FF;" vertex="1" connectable="0" parent="uEPg3WLGyN6IwGQCYJUk-3">
