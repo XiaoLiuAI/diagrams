@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T08:40:30.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UlywbyBlQG101TocuQDo" version="21.3.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-25T08:47:28.984Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eOXEEQNalpDhNX5yfMWk" version="21.3.3" type="github" pages="6">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2168" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -381,6 +381,11 @@
         <mxCell id="uEPg3WLGyN6IwGQCYJUk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fN2IPZuYBG6KQM6beQOC-3" target="z3SCZQm9MV1HzYlg22tj-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uEPg3WLGyN6IwGQCYJUk-31" value="HAS_INDEXED_NAME" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uEPg3WLGyN6IwGQCYJUk-22">
+          <mxGeometry x="-0.3353" y="1" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fN2IPZuYBG6KQM6beQOC-3" value="DiseaseEntity&lt;br&gt;码表实体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="90" y="980" width="80" height="80" as="geometry" />
         </mxCell>
@@ -416,6 +421,11 @@
         </mxCell>
         <mxCell id="uEPg3WLGyN6IwGQCYJUk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uEPg3WLGyN6IwGQCYJUk-2" target="z3SCZQm9MV1HzYlg22tj-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEPg3WLGyN6IwGQCYJUk-30" value="HAS_INDEXED_NAME" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uEPg3WLGyN6IwGQCYJUk-21">
+          <mxGeometry x="-0.2153" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uEPg3WLGyN6IwGQCYJUk-2" value="HospitalEntity&lt;br&gt;码表实体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="90" y="850" width="80" height="80" as="geometry" />
