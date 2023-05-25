@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T08:27:16.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8LuZJMOrXwpQdwgOgAiZ" version="21.3.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-25T08:32:15.701Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oq-PJfgHoZ7fp2AVXUe5" version="21.3.3" type="github" pages="6">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2168" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="z3SCZQm9MV1HzYlg22tj-2" value="Rule&lt;br&gt;规则" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="250" y="250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z3SCZQm9MV1HzYlg22tj-3" value="RuleCollection&lt;br&gt;规则集合" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="z3SCZQm9MV1HzYlg22tj-3" value="RuleCollection&lt;br&gt;规则集合&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;immutable&lt;br&gt;mutable&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="250" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z3SCZQm9MV1HzYlg22tj-4" value="RuleMeta&lt;br&gt;规则类型" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
