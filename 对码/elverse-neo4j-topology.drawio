@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T07:22:28.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="52ZX46U1vQD7cNJjBYFp" version="21.3.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-25T07:47:45.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="rWtOLSHoh0iyeyROg0z1" version="21.3.3" type="github" pages="7">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2168" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UQtKh2AKOb9bwCj444vK" name="topology">
-    <mxGraphModel dx="2168" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3356" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,7 +458,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7jVRmYovptsEJ6WZ1GLQ-12" value="Universal Detail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="7jVRmYovptsEJ6WZ1GLQ-12" value="Feedback&lt;br&gt;Detail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1103" y="650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7jVRmYovptsEJ6WZ1GLQ-13" value="Concept Deduplication" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontColor=#2B32FF;strokeColor=#2B32FF;" parent="1" vertex="1">
@@ -639,13 +639,16 @@
           <mxGeometry x="1020" y="619.995729125438" as="geometry" />
         </mxCell>
         <mxCell id="OlHgyl6a-12L-Zv7aRuc-1" value="Hospital&lt;br&gt;医院" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="580" width="80" height="80" as="geometry" />
+          <mxGeometry x="-150" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OlHgyl6a-12L-Zv7aRuc-2" value="VersionedCollection&lt;br&gt;医院" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="71tMseMKRE4gEu8A9oel" name="三目录topology">
-    <mxGraphModel dx="1318" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2506" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -701,7 +704,7 @@
             <mxPoint x="450" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ct9_3JWx2kEZ56Lv8w3a-15" value="Universal Detail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="ct9_3JWx2kEZ56Lv8w3a-15" value="ComplementDetail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="544" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kE8-YvENT2vYjs3jbNy8-1" value="Concept Deduplication" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontColor=#2B32FF;strokeColor=#2B32FF;" parent="1" vertex="1">
@@ -755,7 +758,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_-Vg_z0S-eKK7Od_GMKD" name="三目录反馈数据拓扑结构">
-    <mxGraphModel dx="1318" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2506" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1062,32 +1065,11 @@
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1E2p1MxsQ74F1C6xuD4k-1" value="Feedback DataSource" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="570" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1E2p1MxsQ74F1C6xuD4k-3" value="直接入库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="570" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1E2p1MxsQ74F1C6xuD4k-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="1E2p1MxsQ74F1C6xuD4k-3" target="1E2p1MxsQ74F1C6xuD4k-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1240" y="620" as="sourcePoint" />
-            <mxPoint x="1290" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1E2p1MxsQ74F1C6xuD4k-5" value="Input Collected Detail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1610" y="570" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1E2p1MxsQ74F1C6xuD4k-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="1E2p1MxsQ74F1C6xuD4k-5" target="1E2p1MxsQ74F1C6xuD4k-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1240" y="790" as="sourcePoint" />
-            <mxPoint x="1290" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="b5LyqBhWMnxE3PF4cfSw" name="规则数据拓扑">
-    <mxGraphModel dx="1318" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2506" dy="2263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1195,71 +1177,71 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-_5Rpb-ArA_9s_8xMat1" name="上海规则数据逻辑结构">
-    <mxGraphModel dx="2159" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2506" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="myEeJ_LXuddnreAxQmml-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="myEeJ_LXuddnreAxQmml-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="410" width="180" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-1" value="元规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="myEeJ_LXuddnreAxQmml-1" value="元规则" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-2" value="规则集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="myEeJ_LXuddnreAxQmml-2" value="规则集合" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-3" value="规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="myEeJ_LXuddnreAxQmml-3" value="规则" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-4" value="业务单元" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="myEeJ_LXuddnreAxQmml-4" value="业务单元" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-5" value="业务数据单元" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="myEeJ_LXuddnreAxQmml-5" value="业务数据单元" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="myEeJ_LXuddnreAxQmml-4" target="myEeJ_LXuddnreAxQmml-2">
+        <mxCell id="myEeJ_LXuddnreAxQmml-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="myEeJ_LXuddnreAxQmml-4" target="myEeJ_LXuddnreAxQmml-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="620" as="sourcePoint" />
             <mxPoint x="450" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="myEeJ_LXuddnreAxQmml-5" target="myEeJ_LXuddnreAxQmml-3">
+        <mxCell id="myEeJ_LXuddnreAxQmml-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="myEeJ_LXuddnreAxQmml-5" target="myEeJ_LXuddnreAxQmml-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="470" as="sourcePoint" />
             <mxPoint x="410" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="myEeJ_LXuddnreAxQmml-5" target="myEeJ_LXuddnreAxQmml-2">
+        <mxCell id="myEeJ_LXuddnreAxQmml-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="myEeJ_LXuddnreAxQmml-5" target="myEeJ_LXuddnreAxQmml-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="590" as="sourcePoint" />
             <mxPoint x="410" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="myEeJ_LXuddnreAxQmml-1" target="myEeJ_LXuddnreAxQmml-2">
+        <mxCell id="myEeJ_LXuddnreAxQmml-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="myEeJ_LXuddnreAxQmml-1" target="myEeJ_LXuddnreAxQmml-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="470" as="sourcePoint" />
             <mxPoint x="410" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="myEeJ_LXuddnreAxQmml-2" target="myEeJ_LXuddnreAxQmml-3">
+        <mxCell id="myEeJ_LXuddnreAxQmml-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="myEeJ_LXuddnreAxQmml-2" target="myEeJ_LXuddnreAxQmml-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="370" as="sourcePoint" />
             <mxPoint x="350" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-11" value="标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="myEeJ_LXuddnreAxQmml-11" value="标签" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="myEeJ_LXuddnreAxQmml-11" target="myEeJ_LXuddnreAxQmml-2">
+        <mxCell id="myEeJ_LXuddnreAxQmml-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="myEeJ_LXuddnreAxQmml-11" target="myEeJ_LXuddnreAxQmml-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="470" as="sourcePoint" />
             <mxPoint x="410" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-14" value="版本化&lt;br&gt;血缘管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="myEeJ_LXuddnreAxQmml-14" value="版本化&lt;br&gt;血缘管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="670" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="myEeJ_LXuddnreAxQmml-15" value="软删除，启用，停用，启用时间，停用时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="myEeJ_LXuddnreAxQmml-15" value="软删除，启用，停用，启用时间，停用时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="430" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
