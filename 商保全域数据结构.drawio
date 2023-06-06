@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T04:43:27.402Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OF-MUbKLsawR_ZAyTKsU" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T04:44:38.469Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="znDsyBdg2hIMzQ-U3aU0" version="21.3.7" type="github">
   <diagram name="第 1 页" id="3h5zJUwpGwOvr-MfMTn_">
     <mxGraphModel dx="2560" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,6 +190,17 @@
         </mxCell>
         <mxCell id="QFRCmELiZ-__mwp6iGmJ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFB570;" edge="1" parent="1" source="QFRCmELiZ-__mwp6iGmJ-65" target="QFRCmELiZ-__mwp6iGmJ-38">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFRCmELiZ-__mwp6iGmJ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFB570;" edge="1" parent="1" source="QFRCmELiZ-__mwp6iGmJ-65" target="QFRCmELiZ-__mwp6iGmJ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFRCmELiZ-__mwp6iGmJ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFB570;" edge="1" parent="1" source="QFRCmELiZ-__mwp6iGmJ-65" target="QFRCmELiZ-__mwp6iGmJ-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="1490" />
+              <mxPoint x="60" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QFRCmELiZ-__mwp6iGmJ-65" value="事件扣费" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="550" y="1450" width="80" height="80" as="geometry" />
