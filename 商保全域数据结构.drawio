@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T04:45:28.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6gVefOwG40DCDlvVJRid" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T04:46:48.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C729o1eIoRpBmI2QwRTC" version="21.3.7" type="github">
   <diagram name="第 1 页" id="3h5zJUwpGwOvr-MfMTn_">
     <mxGraphModel dx="2560" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="QFRCmELiZ-__mwp6iGmJ-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="130" width="430" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="QFRCmELiZ-__mwp6iGmJ-5" value="结构化数据&lt;br&gt;&lt;br&gt;核心业务数据逻辑结构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1000" width="130" height="90" as="geometry" />
+        <mxCell id="QFRCmELiZ-__mwp6iGmJ-5" value="结构化数据&lt;br&gt;&lt;br&gt;核心业务数据逻辑结构&lt;br&gt;&lt;br&gt;黑色箭头表述数据溯源&lt;br&gt;绿色箭头表示业务数据结构&lt;br&gt;橙色箭头表示风控免责结论关联" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="850" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="QFRCmELiZ-__mwp6iGmJ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-380" y="595" width="420" height="275" as="geometry" />
