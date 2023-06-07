@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T08:09:59.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iIYuTWX-ebTTVq-vVaLZ" version="21.3.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-07T08:11:56.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="D9ogafWioU6Tff9Qa7qz" version="21.3.7" type="github" pages="5">
   <diagram name="模块架构" id="X2JeZNGttEWhe0TlvKYG">
     <mxGraphModel dx="2560" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -779,11 +779,14 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Koxg8lTJxxe_yYoAumrX" name="第 5 页">
+  <diagram id="Koxg8lTJxxe_yYoAumrX" name="太保财2期">
     <mxGraphModel dx="2560" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PypKPjffAviWBzjazEto-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="60" width="330" height="700" as="geometry" />
+        </mxCell>
         <mxCell id="jTmbobT2wdJsVBFx6L-D-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="200" width="170" height="420" as="geometry" />
         </mxCell>
@@ -823,6 +826,11 @@
         <mxCell id="O7UknHkHkNhnKuTKx_LQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.474;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pmME4Xcii_lz3LeLDPWM-7" target="O7UknHkHkNhnKuTKx_LQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PypKPjffAviWBzjazEto-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pmME4Xcii_lz3LeLDPWM-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pmME4Xcii_lz3LeLDPWM-7" value="住院规则1， 5天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -830,6 +838,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O7UknHkHkNhnKuTKx_LQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pmME4Xcii_lz3LeLDPWM-8" target="O7UknHkHkNhnKuTKx_LQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PypKPjffAviWBzjazEto-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pmME4Xcii_lz3LeLDPWM-8" target="pmME4Xcii_lz3LeLDPWM-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pmME4Xcii_lz3LeLDPWM-8" value="住院规则2， 7000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -844,11 +855,19 @@
         <mxCell id="O7UknHkHkNhnKuTKx_LQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DgnEUJIIdUYkdVTzuV6M-6" target="O7UknHkHkNhnKuTKx_LQ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PypKPjffAviWBzjazEto-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DgnEUJIIdUYkdVTzuV6M-6" target="pmME4Xcii_lz3LeLDPWM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DgnEUJIIdUYkdVTzuV6M-6" value="住院规则1， 6天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O7UknHkHkNhnKuTKx_LQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DgnEUJIIdUYkdVTzuV6M-7" target="O7UknHkHkNhnKuTKx_LQ-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PypKPjffAviWBzjazEto-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DgnEUJIIdUYkdVTzuV6M-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DgnEUJIIdUYkdVTzuV6M-7" value="住院规则2， 7000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="320" width="120" height="60" as="geometry" />
@@ -910,22 +929,20 @@
         <mxCell id="jTmbobT2wdJsVBFx6L-D-27" value="全国" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="700" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O7UknHkHkNhnKuTKx_LQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7UknHkHkNhnKuTKx_LQ-1" target="pmME4Xcii_lz3LeLDPWM-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1145" y="90" />
-              <mxPoint x="550" y="90" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="PypKPjffAviWBzjazEto-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7UknHkHkNhnKuTKx_LQ-1" target="pmME4Xcii_lz3LeLDPWM-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7UknHkHkNhnKuTKx_LQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O7UknHkHkNhnKuTKx_LQ-1" value="版本化规则集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="170" width="170" height="230" as="geometry" />
         </mxCell>
         <mxCell id="O7UknHkHkNhnKuTKx_LQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7UknHkHkNhnKuTKx_LQ-2" target="pmME4Xcii_lz3LeLDPWM-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7UknHkHkNhnKuTKx_LQ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="435" width="170" height="230" as="geometry" />
+        <mxCell id="O7UknHkHkNhnKuTKx_LQ-2" value="版本化规则集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="435" width="170" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PypKPjffAviWBzjazEto-8" value="未能彻底实现" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="80" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
