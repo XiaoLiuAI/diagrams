@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T04:23:39.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lIkZIycFbT-jKLv8jX6e" version="21.3.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-09T04:24:56.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YtPYyMhYtm60fMOR_C7h" version="21.3.7" type="github" pages="6">
   <diagram name="模块架构" id="X2JeZNGttEWhe0TlvKYG">
     <mxGraphModel dx="2560" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -756,8 +756,8 @@
         <mxCell id="5Rs5HLFLVOsan18uUxjk-23" value="规则历史/血缘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
           <mxGeometry x="-390" y="690" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5Rs5HLFLVOsan18uUxjk-24" value="&lt;ol&gt;&lt;li&gt;规则修改的时候有修改记录，每条记录前后规则ID&lt;/li&gt;&lt;li&gt;修改记录表之外，可以额外建立表来存储定制化信息&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="-220" y="680" width="430" height="80" as="geometry" />
+        <mxCell id="5Rs5HLFLVOsan18uUxjk-24" value="&lt;ol&gt;&lt;li&gt;规则修改的时候有修改记录，通过记录获取历史版本. 如果涉及循环连表问题，研发自行通过算法优化&lt;/li&gt;&lt;li&gt;修改记录表之外，可以额外建立表来存储定制化信息&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
+          <mxGeometry x="-220" y="670" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Rs5HLFLVOsan18uUxjk-25" value="修改记录扩展表&lt;br&gt;比如数据源ID，业务员ID" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
           <mxGeometry x="640" y="217.5" width="160" height="62.5" as="geometry" />
