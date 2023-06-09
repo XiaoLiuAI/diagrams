@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T06:51:43.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NOV9VZ3A70MXhJSSg2X4" version="21.3.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-09T06:53:52.630Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="96KeyDrW28x4UEgSctq_" version="21.3.7" type="github" pages="6">
   <diagram name="模块架构" id="X2JeZNGttEWhe0TlvKYG">
     <mxGraphModel dx="2560" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -794,7 +794,10 @@
         <mxCell id="_gIdb8pDi1LTapVMYHf2-3" value="住院挂床 4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
           <mxGeometry x="890" y="660" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-4" target="_gIdb8pDi1LTapVMYHf2-0">
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-4" target="_gIdb8pDi1LTapVMYHf2-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-4" target="_gIdb8pDi1LTapVMYHf2-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-4" value="全国规则集" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
