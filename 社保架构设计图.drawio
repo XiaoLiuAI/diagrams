@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T07:34:09.697Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="X7BpFbEH3eGcvTkmhtSu" version="21.3.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-09T07:38:02.817Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="R7DEy9ZtQX3TNzwH7Bzh" version="21.3.7" type="github" pages="6">
   <diagram name="模块架构" id="X2JeZNGttEWhe0TlvKYG">
     <mxGraphModel dx="2560" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -768,18 +768,18 @@
             <mxPoint x="700" y="241.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-0">
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-0" target="_gIdb8pDi1LTapVMYHf2-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1170" y="475" as="targetPoint" />
+            <mxPoint x="1170" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-0" value="住院挂床 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="1010" y="435" width="80" height="80" as="geometry" />
+          <mxGeometry x="1010" y="386" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-0" target="_gIdb8pDi1LTapVMYHf2-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="595" as="sourcePoint" />
-            <mxPoint x="1080" y="605" as="targetPoint" />
+            <mxPoint x="1000" y="593" as="sourcePoint" />
+            <mxPoint x="1080" y="603" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-2" target="_gIdb8pDi1LTapVMYHf2-8">
@@ -789,19 +789,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-2" value="住院挂床 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="1010" y="595" width="80" height="80" as="geometry" />
+          <mxGeometry x="1010" y="593" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-3" value="住院挂床 3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="1240" y="725" width="80" height="80" as="geometry" />
+          <mxGeometry x="1240" y="723" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-4" target="_gIdb8pDi1LTapVMYHf2-0">
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF4ADB;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-4" target="_gIdb8pDi1LTapVMYHf2-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-4" target="_gIdb8pDi1LTapVMYHf2-44">
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF4ADB;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-4" target="_gIdb8pDi1LTapVMYHf2-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-4" value="全国规则集" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="810" y="435" width="80" height="80" as="geometry" />
+          <mxGeometry x="810" y="386" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ff4bdb;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-6" target="_gIdb8pDi1LTapVMYHf2-8">
           <mxGeometry relative="1" as="geometry" />
@@ -810,12 +810,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-6" value="襄州规则集" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="810" y="595" width="80" height="80" as="geometry" />
+          <mxGeometry x="810" y="593" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-8" value="住院挂床 4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="1010" y="725" width="80" height="80" as="geometry" />
+          <mxGeometry x="1010" y="723" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-10" target="_gIdb8pDi1LTapVMYHf2-3">
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF4ADB;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-10" target="_gIdb8pDi1LTapVMYHf2-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="850" y="1005" />
@@ -823,50 +823,73 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-10" target="_gIdb8pDi1LTapVMYHf2-8">
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF4ADB;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-10" target="_gIdb8pDi1LTapVMYHf2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-10" value="荆门规则集" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
           <mxGeometry x="810" y="835" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-16" value="修改 1，挂床1， 挂床 2" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="1040" y="535" width="170" height="30" as="geometry" />
+          <mxGeometry x="1005" y="535" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-26" value="修改 2，挂床2，挂床3" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="870" y="685" width="200" height="30" as="geometry" />
+          <mxGeometry x="870" y="683" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=default;startArrow=classic;startFill=1;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-44" target="_gIdb8pDi1LTapVMYHf2-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#FF4ADB;startArrow=classic;startFill=1;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-44" target="_gIdb8pDi1LTapVMYHf2-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="970" />
+              <mxPoint x="850" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-44" value="住院挂床 5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="1170" y="435" width="80" height="80" as="geometry" />
+          <mxGeometry x="1235" y="386" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;strokeColor=#FF4ADB;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-6" target="_gIdb8pDi1LTapVMYHf2-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="888" y="617" as="sourcePoint" />
-            <mxPoint x="1032" y="617" as="targetPoint" />
+            <mxPoint x="888" y="615" as="sourcePoint" />
+            <mxPoint x="1032" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-48" value="修改 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="1100" y="445" width="60" height="30" as="geometry" />
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-48" value="修改 3，挂床1，挂床5" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
+          <mxGeometry x="1070" y="436" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-49" value="修改 4，挂床2，挂床4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="1110" y="685" width="180" height="30" as="geometry" />
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-49" value="修改 4，挂床2，挂床4" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
+          <mxGeometry x="1110" y="683" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-51" target="_gIdb8pDi1LTapVMYHf2-16">
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-51" target="_gIdb8pDi1LTapVMYHf2-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-51" value="修改 1，湖北分公司，襄州" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
           <mxGeometry x="1500" y="585" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_gIdb8pDi1LTapVMYHf2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-53" target="_gIdb8pDi1LTapVMYHf2-26">
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-53" target="_gIdb8pDi1LTapVMYHf2-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-53" value="修改 2，湖北分公司，襄州" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
-          <mxGeometry x="1500" y="650" width="170" height="30" as="geometry" />
+          <mxGeometry x="1500" y="643" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_gIdb8pDi1LTapVMYHf2-55" value="规则版本跟踪原理图&lt;br&gt;&lt;br&gt;不可变规则，所有对规则的修改都会建立新数据. 避免副作用&lt;br&gt;&lt;br&gt;如果有暂存功能，暂存状态不能被引用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
           <mxGeometry x="580" y="407.5" width="190" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-56" target="_gIdb8pDi1LTapVMYHf2-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-56" value="修改 4，湖北分公司，荆门" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
+          <mxGeometry x="1500" y="750" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="iW_rDBGAtdeZroNgxTxr-1" source="_gIdb8pDi1LTapVMYHf2-58" target="_gIdb8pDi1LTapVMYHf2-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="715" />
+              <mxPoint x="1460" y="500" />
+              <mxPoint x="1155" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_gIdb8pDi1LTapVMYHf2-58" value="修改 3，全国总公司" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iW_rDBGAtdeZroNgxTxr-1">
+          <mxGeometry x="1500" y="700" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
