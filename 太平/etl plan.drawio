@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T06:57:38.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6yO3jwlWSIpb-ELPgWjr" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T07:10:48.389Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vnSzE6ckRSE9IYQEnVb1" version="21.2.3" type="github">
   <diagram name="Page-1" id="LknvPDpUpN_7AxQZZM2L">
-    <mxGraphModel dx="2074" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2924" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,6 +100,12 @@
         </mxCell>
         <mxCell id="d0YDHUIfVL__pPALtXE7-30" value="1. 定义节点/关系的Schema&lt;br&gt;2. 加载csv文件&lt;br&gt;3. 使用pandera测试dataframe" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="396.25" width="220" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d0YDHUIfVL__pPALtXE7-31" value="1. 判断节点/关系的数量是否匹配&lt;br&gt;2. 判断节点/关系Schema是否与定义匹配&lt;br&gt;3. 判断各个后处理属性是否生效&lt;br&gt;4. 采样csv文件中的若干条数据，判断neo4j中的节点/关系是否匹配" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="380" width="300" height="83.75" as="geometry" />
+        </mxCell>
+        <mxCell id="d0YDHUIfVL__pPALtXE7-32" value="1. 判断家庭个数和总人数的比例&lt;br&gt;2. 判断家庭测试用例是否生成&lt;br&gt;3. 判断风险赔案和总赔案的比例&lt;br&gt;4. *风险赔案的验证（有风险/无风险两个部分的验证）" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="600" width="300" height="83.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
