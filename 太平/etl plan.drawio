@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T08:30:29.385Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="h2CA97EQjR6OtEcparwf" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T08:33:05.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qX7z7ynA-M8PTjvPk-0U" version="21.2.3" type="github">
   <diagram name="Page-1" id="LknvPDpUpN_7AxQZZM2L">
     <mxGraphModel dx="3883" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
           <mxGeometry x="-950" y="375" width="380" height="110" as="geometry" />
         </mxCell>
         <mxCell id="d0YDHUIfVL__pPALtXE7-44" value="阶段三风险点&lt;br&gt;1. 风险模型运行过慢，占用内存过大，导致neo4j数据库崩溃&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;解决方案：紧急联系运维重启，预防性措施可以提前修改数据拉取策略，减少内存占用" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="740" width="380" height="110" as="geometry" />
+          <mxGeometry x="230" y="730" width="380" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
