@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T05:33:58.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UeQhBEYTClYKIFLxpXRb" version="21.5.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-05T05:48:09.749Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="euMoUmKa9yp31ROFsIH6" version="21.5.2" type="github" pages="7">
   <diagram id="6RgydICrqF_Up7Ot6GvI" name="技术架构图">
     <mxGraphModel dx="2074" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1FFrUQSaYlRMK2MxnAn0" name="应用部署拓扑图">
-    <mxGraphModel dx="2074" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="J6lK3gyfPiSJ5bxAy8dW-0" />
         <mxCell id="J6lK3gyfPiSJ5bxAy8dW-1" parent="J6lK3gyfPiSJ5bxAy8dW-0" />
@@ -466,7 +466,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="理赔 数据流向图" id="qUswY-pW2Ik7gcRo7-7O">
-    <mxGraphModel dx="2074" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ABh1y4KO2UoATcZSSL96-0" />
         <mxCell id="ABh1y4KO2UoATcZSSL96-1" parent="ABh1y4KO2UoATcZSSL96-0" />
@@ -476,14 +476,14 @@
         <mxCell id="m6ao8h0m_ph_1f8lopXz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ABh1y4KO2UoATcZSSL96-1" source="ABh1y4KO2UoATcZSSL96-14" target="ABh1y4KO2UoATcZSSL96-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="600" />
-              <mxPoint x="175" y="600" />
+              <mxPoint x="390" y="560" />
+              <mxPoint x="175" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m6ao8h0m_ph_1f8lopXz-4" value="计算结果缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m6ao8h0m_ph_1f8lopXz-3">
-          <mxGeometry x="0.1844" y="-1" relative="1" as="geometry">
-            <mxPoint x="38" as="offset" />
+        <mxCell id="-v47dD8qJqHUYmP4SoPX-1" value="计算结果缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m6ao8h0m_ph_1f8lopXz-3">
+          <mxGeometry x="-0.0649" relative="1" as="geometry">
+            <mxPoint x="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ABh1y4KO2UoATcZSSL96-14" value="后端API" style="rounded=0;whiteSpace=wrap;html=1;" parent="ABh1y4KO2UoATcZSSL96-1" vertex="1">
@@ -509,10 +509,15 @@
             <mxPoint x="414" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-v47dD8qJqHUYmP4SoPX-0" value="计算结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ABh1y4KO2UoATcZSSL96-17">
+          <mxGeometry x="-0.12" y="3" relative="1" as="geometry">
+            <mxPoint x="10" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zsDvxFRIwsg9LDjBRS95-0" value="核心赔案信息API" style="rounded=0;whiteSpace=wrap;html=1;" parent="ABh1y4KO2UoATcZSSL96-1" vertex="1">
           <mxGeometry x="325" y="360" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsDvxFRIwsg9LDjBRS95-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ABh1y4KO2UoATcZSSL96-1" source="zsDvxFRIwsg9LDjBRS95-0" target="ABh1y4KO2UoATcZSSL96-14" edge="1">
+        <mxCell id="zsDvxFRIwsg9LDjBRS95-1" value="实时数据" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ABh1y4KO2UoATcZSSL96-1" source="zsDvxFRIwsg9LDjBRS95-0" target="ABh1y4KO2UoATcZSSL96-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="430" as="sourcePoint" />
             <mxPoint x="450" y="380" as="targetPoint" />
@@ -522,14 +527,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jItTOKeBsQuaXHMUix3J" name="理赔">
-    <mxGraphModel dx="1106" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NOYxF8SrCB-PiPD406mw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NOYxF8SrCB-PiPD406mw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="410" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="NOYxF8SrCB-PiPD406mw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NOYxF8SrCB-PiPD406mw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="90" width="210" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Ls_BRyFKqlVONUe5bpOM-1" value="赔案数据" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -598,10 +603,10 @@
             <mxPoint x="450" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NOYxF8SrCB-PiPD406mw-2" value="调查风控系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NOYxF8SrCB-PiPD406mw-2" value="调查风控系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="685" y="90" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NOYxF8SrCB-PiPD406mw-4" value="理赔风控系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NOYxF8SrCB-PiPD406mw-4" value="理赔风控系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="90" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
