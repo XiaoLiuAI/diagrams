@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T05:26:14.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cYxojwEwGEGbFbpNS8bR" version="21.5.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-05T05:29:54.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8XteZXvvsLWKgD0lkNmv" version="21.5.2" type="github" pages="7">
   <diagram id="6RgydICrqF_Up7Ot6GvI" name="技术架构图">
     <mxGraphModel dx="2074" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -439,15 +439,17 @@
             <mxPoint x="590" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L_NKYumM_2svmyNH48ys-0" value="消息队列(RocketMQ)" style="rounded=0;whiteSpace=wrap;html=1;" parent="qpv_vnCNV6HC7hxUtdJv-1" vertex="1">
-          <mxGeometry x="405" y="680" width="130" height="60" as="geometry" />
+        <mxCell id="Ke_MiJOTaXX_mKwtnipO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="qpv_vnCNV6HC7hxUtdJv-1" source="Ke_MiJOTaXX_mKwtnipO-0" target="jTl3cZE2TD3DU1JpzOqJ-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L_NKYumM_2svmyNH48ys-2" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="qpv_vnCNV6HC7hxUtdJv-1" source="jTl3cZE2TD3DU1JpzOqJ-20" target="L_NKYumM_2svmyNH48ys-0" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="770" as="sourcePoint" />
-            <mxPoint x="350" y="720" as="targetPoint" />
+        <mxCell id="Ke_MiJOTaXX_mKwtnipO-0" value="用户画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qpv_vnCNV6HC7hxUtdJv-1">
+          <mxGeometry x="261" y="690" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke_MiJOTaXX_mKwtnipO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qpv_vnCNV6HC7hxUtdJv-1" source="jTl3cZE2TD3DU1JpzOqJ-14" target="Ke_MiJOTaXX_mKwtnipO-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="730" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="296" y="710" />
+              <mxPoint x="120" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -499,7 +501,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zsDvxFRIwsg9LDjBRS95-0" value="核心赔案信息API" style="rounded=0;whiteSpace=wrap;html=1;" parent="ABh1y4KO2UoATcZSSL96-1" vertex="1">
-          <mxGeometry x="325" y="340" width="130" height="60" as="geometry" />
+          <mxGeometry x="325" y="360" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zsDvxFRIwsg9LDjBRS95-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ABh1y4KO2UoATcZSSL96-1" source="zsDvxFRIwsg9LDjBRS95-0" target="ABh1y4KO2UoATcZSSL96-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
