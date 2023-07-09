@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T03:13:33.556Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zIJOh4Zl231hMF7AE0P6" version="21.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-09T04:02:27.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="72CvKJOryhrv-Tb3TAL6" version="21.5.2" type="github" pages="3">
   <diagram name="架构" id="m7k_fpHOyJ3HgnAJIdbW">
-    <mxGraphModel dx="1142" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1382" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,10 +97,22 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A9DMLrKfDVq0KSXMo0Hl" name="友邦">
-    <mxGraphModel dx="1142" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1382" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BBlTaaZiO3NpZDx9ScX0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="540" width="520" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BBlTaaZiO3NpZDx9ScX0-2" value="业务数据图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="547.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="BBlTaaZiO3NpZDx9ScX0-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="460" width="520" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BBlTaaZiO3NpZDx9ScX0-5" value="业务数据图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="547.5" width="110" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
