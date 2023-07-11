@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T07:30:10.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iT1kppzDLyuq83XbA9Gw" version="21.5.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-07-11T08:34:56.304Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Bf4bpl8V2QfcKmy_T1JS" version="21.5.2" type="github" pages="12">
   <diagram name="架构" id="m7k_fpHOyJ3HgnAJIdbW">
     <mxGraphModel dx="1382" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1163,11 +1163,32 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_Qd-5YfDiD5oYnQWg3je" name="高频不实告知">
+  <diagram id="_Qd-5YfDiD5oYnQWg3je" name="高风险社群">
     <mxGraphModel dx="2058" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kWVdRqzaairMzF1kwcnk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWVdRqzaairMzF1kwcnk-1" target="kWVdRqzaairMzF1kwcnk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWVdRqzaairMzF1kwcnk-1" value="one-id&lt;br&gt;家庭视图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="365" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWVdRqzaairMzF1kwcnk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWVdRqzaairMzF1kwcnk-2" target="kWVdRqzaairMzF1kwcnk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWVdRqzaairMzF1kwcnk-2" value="就诊相似性计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWVdRqzaairMzF1kwcnk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWVdRqzaairMzF1kwcnk-4" target="kWVdRqzaairMzF1kwcnk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWVdRqzaairMzF1kwcnk-4" value="聚团分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWVdRqzaairMzF1kwcnk-6" value="风险团体判定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
