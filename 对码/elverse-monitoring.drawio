@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T06:33:28.707Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fzh4hxM6N66xoqNO9J1j" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T06:41:02.312Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="L1k2tsoRdnjInUz67PeF" version="21.5.2" type="github">
   <diagram name="Page-1" id="ywspjUqZf9-y0v30HufH">
     <mxGraphModel dx="2074" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,11 +52,8 @@
         <mxCell id="E9IGDSx4ayWU9MxSqUQv-14" value="&lt;h3&gt;请求日志&lt;/h3&gt;1. 原始请求Payload：&lt;span style=&quot;background-color: initial;&quot;&gt;词项列表/管线配置/统筹区配置&lt;/span&gt;&lt;br&gt;2. 请求IP&lt;br&gt;3. 请求时间" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="120" width="285" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E9IGDSx4ayWU9MxSqUQv-15" value="1. 请求指标&lt;br&gt;2. 响应指标" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="485" width="285" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E9IGDSx4ayWU9MxSqUQv-16" value="&lt;h3&gt;响应日志&lt;/h3&gt;1. 原始请求Payload：&lt;span style=&quot;background-color: initial;&quot;&gt;词项列表/管线配置/统筹区配置&lt;/span&gt;&lt;br&gt;2. 请求IP&lt;br&gt;3. 请求时间" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="285" height="90" as="geometry" />
+        <mxCell id="E9IGDSx4ayWU9MxSqUQv-16" value="&lt;h3&gt;响应日志&lt;/h3&gt;1. 响应时间（server端+client端）&lt;br&gt;2. 请求IP&lt;br&gt;3. 请求时间&lt;br&gt;4. 各组件耗时" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="285" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
