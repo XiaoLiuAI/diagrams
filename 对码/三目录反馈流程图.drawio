@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T11:32:56.822Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="QnhlueybinNBDg2CEWb-" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T11:37:33.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4ybVXil15RuBx_f9KtsG" version="21.6.6" type="github">
   <diagram name="第 1 页" id="Ap7DxpFshRl5OZrKu4j2">
     <mxGraphModel dx="2156" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aHBAwcoYTPoaqGr1TMbt-36" value="录入最终结果与推荐结果是否不一致" style="rhombus;whiteSpace=wrap;html=1;spacing=-2;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="aHBAwcoYTPoaqGr1TMbt-36" value="" style="rhombus;whiteSpace=wrap;html=1;spacing=-2;fontColor=#FF3333;align=left;" vertex="1" parent="1">
           <mxGeometry x="720" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aHBAwcoYTPoaqGr1TMbt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHBAwcoYTPoaqGr1TMbt-41" target="aHBAwcoYTPoaqGr1TMbt-44">
@@ -334,6 +334,9 @@
         </mxCell>
         <mxCell id="aHBAwcoYTPoaqGr1TMbt-134" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1. 修改比例，类型&lt;br&gt;2. 注销某一条待审阅脏数据&lt;br&gt;3. 清洗好之后，根据属性添加到待审阅或者修改已有待审阅状态为待处理&lt;br&gt;(这里要考虑反复修改对代审阅数据的状态影响)&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1320" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aHBAwcoYTPoaqGr1TMbt-135" value="&lt;span style=&quot;color: rgb(255, 51, 51); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1. ocr是否不为空&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 51, 51); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(255, 51, 51); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2. 录入最终结果与推荐结果是否不一致&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
