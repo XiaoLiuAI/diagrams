@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T08:40:40.238Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="q90KyQmaip9h6JgsQRP3" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T08:50:13.608Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="eDfasEbqz2OXBKraYiMA" version="21.6.6" type="github">
   <diagram name="第 1 页" id="SUd_A5kPVJvfkjwUQ2Qv">
-    <mxGraphModel dx="1403" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1403" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,14 +115,44 @@
         <mxCell id="lbtEtIyEJ65vKywW1Y3Z-40" value="汇总界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="990" width="1140" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-41" value="投保人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-41" value="投保人&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="990" width="375" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-42" value="被保人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-42" value="被保人&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="990" width="400" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-43" value="代理人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="990" width="365" height="440" as="geometry" />
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-43" value="代理人&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="990" width="390" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-44" value="基本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1130" width="375" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-45" value="当前保单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="990" width="1140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-46" value="历史保单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1230" width="375" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-47" value="历史理赔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1330" width="375" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-48" value="基本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1130" width="375" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-50" value="历史保单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1230" width="375" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-51" value="历史理赔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1330" width="375" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-52" value="基本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="1130" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-54" value="历史保单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="1230" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-55" value="历史理赔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="1330" width="390" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
