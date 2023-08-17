@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T05:24:39.009Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="i9xSQv6djEFIxKOd-5l_" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T08:40:40.238Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="q90KyQmaip9h6JgsQRP3" version="21.6.6" type="github">
   <diagram name="第 1 页" id="SUd_A5kPVJvfkjwUQ2Qv">
     <mxGraphModel dx="1403" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lbtEtIyEJ65vKywW1Y3Z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="100" width="1170" height="890" as="geometry" />
+          <mxGeometry x="50" y="100" width="1170" height="1340" as="geometry" />
         </mxCell>
         <mxCell id="lbtEtIyEJ65vKywW1Y3Z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="116" width="570" height="400" as="geometry" />
@@ -111,6 +111,18 @@
         </mxCell>
         <mxCell id="lbtEtIyEJ65vKywW1Y3Z-38" value="汇总界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="895" y="536" width="310" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-40" value="汇总界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="990" width="1140" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-41" value="投保人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="990" width="375" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-42" value="被保人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="990" width="400" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="lbtEtIyEJ65vKywW1Y3Z-43" value="代理人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="990" width="365" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
