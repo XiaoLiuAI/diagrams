@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T01:18:04.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.8" etag="kBNKONslUKDTxjU1bA5X" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T01:20:28.425Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="X99cmZ9_m8San-WBSNz4" version="21.6.8" type="github">
   <diagram name="第 1 页" id="GYMCfMqXT_0Z6_cWS81U">
-    <mxGraphModel>
+    <mxGraphModel dx="2253" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-1" target="pHw8yS_70QdT0W6QU9yk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-1" value="病&lt;br&gt;ICD编码&lt;br&gt;&lt;br&gt;RuleEntity" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-2" value="疾病大类集合&lt;br&gt;&lt;br&gt;RuleCollection" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-4" value="药" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-6" value="适应症 Rule&lt;br&gt;Indication" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-6" target="pHw8yS_70QdT0W6QU9yk-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="610" as="sourcePoint" />
+            <mxPoint x="450" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-6" target="pHw8yS_70QdT0W6QU9yk-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="212" y="238" as="sourcePoint" />
+            <mxPoint x="138" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
