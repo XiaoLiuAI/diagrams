@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T10:35:46.677Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tEnD0sFaomD9JAtPlKaG" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T10:36:21.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Z5E15TQkfv3jXWrSisde" version="21.6.8" type="github">
   <diagram name="第 1 页" id="GYMCfMqXT_0Z6_cWS81U">
     <mxGraphModel dx="2253" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,19 +10,19 @@
         <mxCell id="pHw8yS_70QdT0W6QU9yk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-20" target="pHw8yS_70QdT0W6QU9yk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pHw8yS_70QdT0W6QU9yk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-2" target="pHw8yS_70QdT0W6QU9yk-20">
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-2" target="pHw8yS_70QdT0W6QU9yk-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pHw8yS_70QdT0W6QU9yk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-2" target="pHw8yS_70QdT0W6QU9yk-18">
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-2" target="pHw8yS_70QdT0W6QU9yk-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pHw8yS_70QdT0W6QU9yk-2" value="疾病大类集合&lt;br&gt;&lt;br&gt;RuleCollection" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-2" value="疾病大类集合&lt;br&gt;&lt;br&gt;RuleCollection" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pHw8yS_70QdT0W6QU9yk-4" value="药" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pHw8yS_70QdT0W6QU9yk-6" value="适应症 Rule&lt;br&gt;Indication" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-6" value="适应症 Rule&lt;br&gt;Indication" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pHw8yS_70QdT0W6QU9yk-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-6" target="pHw8yS_70QdT0W6QU9yk-1">
@@ -46,22 +46,22 @@
         <mxCell id="pHw8yS_70QdT0W6QU9yk-12" value="当前已经有了明细的RuleEntity&lt;br&gt;dossier_name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="370" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pHw8yS_70QdT0W6QU9yk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-13" target="pHw8yS_70QdT0W6QU9yk-6">
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-13" target="pHw8yS_70QdT0W6QU9yk-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pHw8yS_70QdT0W6QU9yk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-13" target="pHw8yS_70QdT0W6QU9yk-16">
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-13" target="pHw8yS_70QdT0W6QU9yk-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pHw8yS_70QdT0W6QU9yk-13" value="适应症集合&lt;br&gt;&lt;br&gt;RuleCollection" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-13" value="适应症集合&lt;br&gt;&lt;br&gt;RuleCollection" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-10" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pHw8yS_70QdT0W6QU9yk-16" value="适应症规则元数据&lt;br&gt;&lt;br&gt;RuleMeta" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-16" value="适应症规则元数据&lt;br&gt;&lt;br&gt;RuleMeta" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pHw8yS_70QdT0W6QU9yk-18" value="疾病大类元数据&lt;br&gt;&lt;br&gt;RuleMeta" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-18" value="疾病大类元数据&lt;br&gt;&lt;br&gt;RuleMeta" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pHw8yS_70QdT0W6QU9yk-20" value="适应症 Rule&lt;br&gt;Indication" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="pHw8yS_70QdT0W6QU9yk-20" value="适应症 Rule&lt;br&gt;Indication" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pHw8yS_70QdT0W6QU9yk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHw8yS_70QdT0W6QU9yk-22" target="pHw8yS_70QdT0W6QU9yk-1">
