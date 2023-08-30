@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T09:37:56.396Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gWawtg9u3oojQ8bwT3yB" version="21.6.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-30T09:40:49.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5J5CFxovonbgG1sfW-ef" version="21.6.9" type="github" pages="8">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2493" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1293,7 +1293,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nTsAro7XTRlPKCC0kNtZ-8" value="Feedback&lt;br&gt;&lt;br&gt;Detail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="nTsAro7XTRlPKCC0kNtZ-8" value="Feedback&lt;br&gt;Detail&lt;br&gt;&lt;br&gt;名字&lt;br&gt;比例" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="543" y="780" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-10" value="IndexedName" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -1369,7 +1369,7 @@
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-30" value="Detail&lt;br&gt;三目录&lt;br&gt;&lt;br&gt;所在集合&lt;br&gt;比例" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="950" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nTsAro7XTRlPKCC0kNtZ-42" value="Feedback&lt;br&gt;&lt;br&gt;Detail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="nTsAro7XTRlPKCC0kNtZ-42" value="Feedback&lt;br&gt;Detail&lt;br&gt;&lt;br&gt;目录外" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="720" y="780" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
