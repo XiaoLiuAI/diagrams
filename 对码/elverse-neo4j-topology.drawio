@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T09:27:14.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CkyACOgm4unt6GWT1d6b" version="21.6.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-30T09:29:54.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="pngdpkf2LgBjiWVzoRc0" version="21.6.9" type="github" pages="8">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2493" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1258,7 +1258,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nTsAro7XTRlPKCC0kNtZ-2" value="VersionedDataSource&lt;br&gt;&lt;br&gt;version" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="nTsAro7XTRlPKCC0kNtZ-2" value="VersionedDataSource&lt;br&gt;&lt;br&gt;&lt;br&gt;version" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="720" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-3" value="Detail&lt;br&gt;三目录" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -1304,9 +1304,6 @@
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-12" value="&lt;span style=&quot;color: rgb(43, 50, 255); font-family: Georgia; font-size: 10px;&quot;&gt;HAS_INDEXED_NAME&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="460" y="749.995729125438" as="geometry" />
         </mxCell>
-        <mxCell id="nTsAro7XTRlPKCC0kNtZ-23" value="VersionedDataSource&lt;br&gt;&lt;br&gt;version" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="650" y="620" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nTsAro7XTRlPKCC0kNtZ-24" target="nTsAro7XTRlPKCC0kNtZ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1330,6 +1327,11 @@
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nTsAro7XTRlPKCC0kNtZ-26" target="nTsAro7XTRlPKCC0kNtZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nTsAro7XTRlPKCC0kNtZ-40" value="AGGREGATE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nTsAro7XTRlPKCC0kNtZ-36">
+          <mxGeometry x="0.7286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-26" value="&lt;br&gt;&lt;br&gt;RawCollection&lt;br&gt;耗材&lt;br&gt;version" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="950" y="200" width="80" height="80" as="geometry" />
         </mxCell>
@@ -1352,6 +1354,9 @@
         </mxCell>
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-28" value="Detail&lt;br&gt;三目录" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1180" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nTsAro7XTRlPKCC0kNtZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="nTsAro7XTRlPKCC0kNtZ-30" target="nTsAro7XTRlPKCC0kNtZ-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-30" value="Detail&lt;br&gt;三目录&lt;br&gt;&lt;br&gt;比例" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="950" y="570" width="80" height="80" as="geometry" />
