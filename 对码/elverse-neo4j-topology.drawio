@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T09:29:54.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="pngdpkf2LgBjiWVzoRc0" version="21.6.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-30T09:37:56.396Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gWawtg9u3oojQ8bwT3yB" version="21.6.9" type="github" pages="8">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2493" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1285,7 +1285,15 @@
             <mxPoint y="-122" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nTsAro7XTRlPKCC0kNtZ-8" value="Feedback&lt;br&gt;Detail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="nTsAro7XTRlPKCC0kNtZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nTsAro7XTRlPKCC0kNtZ-8" target="nTsAro7XTRlPKCC0kNtZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTsAro7XTRlPKCC0kNtZ-44" value="ALTERNATIVE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nTsAro7XTRlPKCC0kNtZ-43">
+          <mxGeometry x="-0.1099" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTsAro7XTRlPKCC0kNtZ-8" value="Feedback&lt;br&gt;&lt;br&gt;Detail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="543" y="780" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-10" value="IndexedName" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -1358,8 +1366,11 @@
         <mxCell id="nTsAro7XTRlPKCC0kNtZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="nTsAro7XTRlPKCC0kNtZ-30" target="nTsAro7XTRlPKCC0kNtZ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nTsAro7XTRlPKCC0kNtZ-30" value="Detail&lt;br&gt;三目录&lt;br&gt;&lt;br&gt;比例" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="nTsAro7XTRlPKCC0kNtZ-30" value="Detail&lt;br&gt;三目录&lt;br&gt;&lt;br&gt;所在集合&lt;br&gt;比例" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="950" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nTsAro7XTRlPKCC0kNtZ-42" value="Feedback&lt;br&gt;&lt;br&gt;Detail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="780" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
