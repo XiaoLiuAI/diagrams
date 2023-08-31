@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T08:54:07.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9IprchKoVAVCGtZzylbb" version="21.6.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-31T08:57:40.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MMsUYk4afg6dcIcPdWdu" version="21.6.9" type="github" pages="9">
   <diagram id="Uj9h9DkBMi4RGe9ZGqF9" name="entity linking logic">
     <mxGraphModel dx="2493" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1398,7 +1398,7 @@
       <root>
         <mxCell id="XGdNC8mLRa6s23Ewf9x9-0" />
         <mxCell id="XGdNC8mLRa6s23Ewf9x9-1" parent="XGdNC8mLRa6s23Ewf9x9-0" />
-        <mxCell id="XGdNC8mLRa6s23Ewf9x9-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 当前缺失的，是否直接用国家做基准&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 用国家做基准，是否默认不存在缺失目录&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XGdNC8mLRa6s23Ewf9x9-1">
+        <mxCell id="XGdNC8mLRa6s23Ewf9x9-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 当前缺失的，是否直接用国家做基准&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 用国家做基准，是否默认不存在缺失目录，即反馈甲乙类必须关联某个具体标准三目录&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XGdNC8mLRa6s23Ewf9x9-1">
           <mxGeometry x="660" y="770" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="XGdNC8mLRa6s23Ewf9x9-3" value="VersionedDataSource&lt;br&gt;&lt;br&gt;&lt;br&gt;version" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XGdNC8mLRa6s23Ewf9x9-1">
@@ -1518,8 +1518,8 @@
         <mxCell id="XGdNC8mLRa6s23Ewf9x9-31" value="Feedback&lt;br&gt;Detail&lt;br&gt;&lt;br&gt;目录外" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XGdNC8mLRa6s23Ewf9x9-1">
           <mxGeometry x="980" y="780" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XGdNC8mLRa6s23Ewf9x9-32" value="反馈的使用条件&lt;br&gt;&lt;ol&gt;&lt;li&gt;目录外&lt;/li&gt;&lt;li&gt;目录内的别名&lt;/li&gt;&lt;li&gt;目录内比例滞后&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XGdNC8mLRa6s23Ewf9x9-1">
-          <mxGeometry x="315" y="890" width="145" height="110" as="geometry" />
+        <mxCell id="XGdNC8mLRa6s23Ewf9x9-32" value="反馈的使用条件&lt;br&gt;&lt;ol&gt;&lt;li&gt;目录外&lt;/li&gt;&lt;li&gt;目录内的别名&lt;/li&gt;&lt;li&gt;目录内比例滞后&lt;/li&gt;&lt;ol&gt;&lt;li&gt;如果比例滞后，是通过反馈还是其它渠道整体收集更新？&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XGdNC8mLRa6s23Ewf9x9-1">
+          <mxGeometry x="315" y="890" width="305" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XGdNC8mLRa6s23Ewf9x9-33" value="反馈的应用&lt;br&gt;&lt;ol&gt;&lt;li&gt;通过反馈名获得匹配节点&lt;/li&gt;&lt;li&gt;如果有跟标准关联，融合编码，返回标准名&lt;/li&gt;&lt;li&gt;使用反馈的比例&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XGdNC8mLRa6s23Ewf9x9-1">
           <mxGeometry x="315" y="1010" width="290" height="110" as="geometry" />
