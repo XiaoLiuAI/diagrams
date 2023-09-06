@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T10:20:04.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Q8mxUTSfHXUZJAeG8HyI" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T10:28:22.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="o4JokqcK-Vh7Njh8ysIU" version="21.7.0" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2253" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -583,7 +583,7 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-1" target="OfORN7NUINiMixhZLZNA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIjVFcEKrEzkejblWKOD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#33001A;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-1" target="FIjVFcEKrEzkejblWKOD-4">
+        <mxCell id="FIjVFcEKrEzkejblWKOD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#33001A;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-1" target="FIjVFcEKrEzkejblWKOD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-1" target="FIjVFcEKrEzkejblWKOD-11">
@@ -708,6 +708,21 @@
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-54" value="T_POLICY_CHANGE&lt;br&gt;保单变更&lt;br&gt;change_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="700" y="1090" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FIjVFcEKrEzkejblWKOD-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-56" target="FIjVFcEKrEzkejblWKOD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FIjVFcEKrEzkejblWKOD-56" value="T_POLICY_PRODUCT_INVEST&lt;br&gt;投连险&lt;br&gt;item_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="620" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FIjVFcEKrEzkejblWKOD-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-59" target="OfORN7NUINiMixhZLZNA-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FIjVFcEKrEzkejblWKOD-59" value="T_POLICY_CHECK&lt;br&gt;体检" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-460" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FIjVFcEKrEzkejblWKOD-61" value="T_PRODUCT_REPORT&lt;br&gt;不明，有很多险种细节&lt;br&gt;product_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="790" y="600" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
