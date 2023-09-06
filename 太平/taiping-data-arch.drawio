@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T09:53:50.622Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Szc6toHWF2qSXXKzyp0Y" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T10:00:43.109Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YiAnn8PUWTWw26hfrOxV" version="21.7.0" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2253" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,6 +22,20 @@
               <mxPoint x="540" y="-30" />
               <mxPoint x="830" y="-30" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIjVFcEKrEzkejblWKOD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfORN7NUINiMixhZLZNA-4" target="FIjVFcEKrEzkejblWKOD-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="388" />
+              <mxPoint x="660" y="945" />
+              <mxPoint x="1805" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIjVFcEKrEzkejblWKOD-37" value="apply_code = card_code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FIjVFcEKrEzkejblWKOD-36">
+          <mxGeometry x="0.1823" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OfORN7NUINiMixhZLZNA-4" value="T_CONTRACT_MASTER&lt;br&gt;policy_id&lt;br&gt;&lt;br&gt;bank, re_bank" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -641,6 +655,15 @@
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-32" value="T_WARNING_SMS_POOL&lt;br&gt;id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1450" y="780" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FIjVFcEKrEzkejblWKOD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-35" target="FIjVFcEKrEzkejblWKOD-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FIjVFcEKrEzkejblWKOD-35" value="T_BILLCARD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="815" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FIjVFcEKrEzkejblWKOD-38" value="T_BILLCARD_SS_INFO&lt;br&gt;激活信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="970" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
