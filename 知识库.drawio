@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T07:11:46.035Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="syo_9-YtKc_eiSk7v42c" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T07:15:48.313Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-hV5HnhqubdVqIQBTVUY" version="21.8.0" type="github">
   <diagram name="机构" id="tVOKbTBW-R6PsbDogxPf">
     <mxGraphModel dx="2740" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,6 +106,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="w5oNhNrVCY90rafxgWAN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5oNhNrVCY90rafxgWAN-24" target="w5oNhNrVCY90rafxgWAN-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w5oNhNrVCY90rafxgWAN-24" value="改机构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="290" y="855" width="120" height="60" as="geometry" />
         </mxCell>
@@ -119,6 +122,9 @@
               <mxPoint x="580" y="490" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w5oNhNrVCY90rafxgWAN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5oNhNrVCY90rafxgWAN-25" target="w5oNhNrVCY90rafxgWAN-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w5oNhNrVCY90rafxgWAN-25" value="删除机构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="290" y="930" width="120" height="60" as="geometry" />
@@ -139,6 +145,9 @@
               <mxPoint x="600" y="490" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w5oNhNrVCY90rafxgWAN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5oNhNrVCY90rafxgWAN-26" target="w5oNhNrVCY90rafxgWAN-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w5oNhNrVCY90rafxgWAN-26" value="合并机构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="150" y="780" width="120" height="60" as="geometry" />
@@ -171,6 +180,12 @@
         </mxCell>
         <mxCell id="w5oNhNrVCY90rafxgWAN-35" value="业务人员" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w5oNhNrVCY90rafxgWAN-54" value="知识库编辑" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w5oNhNrVCY90rafxgWAN-59" value="1. 假删&lt;br&gt;2. 合并可以撤销&lt;br&gt;3. 所有对旧表的操作都必须经过旧系统接口来保证向前兼容&lt;br&gt;4. 新机构主表中不允许没有新增代码的机构存在" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="270" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
