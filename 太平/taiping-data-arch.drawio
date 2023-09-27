@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T05:59:36.094Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PAXTTlbCL8XhalzsHu45" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T06:13:06.910Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8yOFTSPPrUX5AbJGlv6H" version="21.8.2" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2924" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -629,8 +629,11 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-12" value="T_POLICY_PROBLEM(问题件)&lt;br&gt;pk: item_id&lt;br&gt;policy_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1750" y="460" width="180" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-15" target="ruRkNZHVnkqH3dk_G1LB-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-15" value="T_RULE_PROBLEM_CONIFG&lt;br&gt;问题模块核保违反规则配置表&lt;br&gt;pk: config_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1930" y="670" width="180" height="50" as="geometry" />
+          <mxGeometry x="1960" y="655" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-16" value="T_POLICY_ATTACH&lt;br&gt;保单附属属性记录表&lt;br&gt;（并非每张保单都有记录）&lt;br&gt;pk: policy_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1760" y="40" width="180" height="90" as="geometry" />
@@ -798,6 +801,9 @@
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.431;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-8" target="FIjVFcEKrEzkejblWKOD-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
