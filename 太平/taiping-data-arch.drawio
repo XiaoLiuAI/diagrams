@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T03:49:19.054Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3HzdhqyuqXrysssw9wc-" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T05:37:21.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="wPW8lxfNlj0qYef989mr" version="21.8.2" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2924" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -601,13 +601,13 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="FIjVFcEKrEzkejblWKOD-1" target="FIjVFcEKrEzkejblWKOD-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIjVFcEKrEzkejblWKOD-1" value="T_POLICY&lt;br&gt;保单基本资料表&lt;br&gt;pk: policy_id&lt;br&gt;policy_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FIjVFcEKrEzkejblWKOD-1" value="T_POLICY&lt;br&gt;投保单基本资料表&lt;br&gt;pk: policy_id&lt;br&gt;policy_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1450" y="310" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FIjVFcEKrEzkejblWKOD-4" target="OfORN7NUINiMixhZLZNA-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIjVFcEKrEzkejblWKOD-4" value="T_POLICY_PRODUCT&lt;br&gt;保单险种资料表&amp;nbsp;&lt;br&gt;pk: item_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FIjVFcEKrEzkejblWKOD-4" value="T_POLICY_PRODUCT&lt;br&gt;投保单险种资料表&amp;nbsp;&lt;br&gt;pk: item_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1450" y="480" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="FIjVFcEKrEzkejblWKOD-8" target="OfORN7NUINiMixhZLZNA-35" edge="1">
@@ -616,7 +616,7 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-8" value="T_JOB_CATEGORY&lt;br&gt;job_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="370" y="-360" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FIjVFcEKrEzkejblWKOD-11" value="T_ADD_CUST_LIST_POLICY&lt;br&gt;万能险保单列表&lt;br&gt;pk: list_id&lt;br&gt;policy_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="FIjVFcEKrEzkejblWKOD-11" value="T_ADD_CUST_LIST_POLICY&lt;br&gt;&amp;nbsp; 保单列表&lt;br&gt;pk: list_id&lt;br&gt;policy_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1760" y="310" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-12" value="T_POLICY_PROBLEM(问题件)&lt;br&gt;pk: item_id&lt;br&gt;policy_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
