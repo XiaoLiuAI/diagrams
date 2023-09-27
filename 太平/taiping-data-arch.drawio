@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T02:16:45.245Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5QQHToxLz6dXxqe6WO3b" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T02:26:40.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="k7eU5vS9LnAyzp07vzrv" version="21.8.2" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2924" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -721,8 +721,8 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-59" value="T_POLICY_CHECK&lt;br&gt;体检" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="410" y="-490" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FIjVFcEKrEzkejblWKOD-61" value="T_PRODUCT_REPORT&lt;br&gt;不明，有很多险种细节&lt;br&gt;product_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="790" y="600" width="180" height="50" as="geometry" />
+        <mxCell id="FIjVFcEKrEzkejblWKOD-61" value="T_PRODUCT_REPORT&lt;br&gt;新契约模块产品上报表&lt;br&gt;product_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="790" y="630" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
