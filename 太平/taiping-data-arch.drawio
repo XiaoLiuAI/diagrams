@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T05:53:45.638Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CTa5mGPJ9eSQ5Urqs0MU" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T05:59:36.094Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PAXTTlbCL8XhalzsHu45" version="21.8.2" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2924" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -773,7 +773,7 @@
           <mxGeometry x="-240" y="-640" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-8" value="T_JOB_UNDERWRITE&lt;br&gt;职业类别与险种职业风险等级关系表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-520" width="260" height="70" as="geometry" />
+          <mxGeometry x="310" y="-520" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-9" target="FIjVFcEKrEzkejblWKOD-1">
           <mxGeometry relative="1" as="geometry" />
@@ -787,8 +787,11 @@
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-10" value="T_POLICY_BENE&lt;br&gt;投保单受益人表&lt;br&gt;pk: bene_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1760" y="160" width="180" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-11" target="FIjVFcEKrEzkejblWKOD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-11" value="T_TAX_POLICY_APPLY&lt;br&gt;*税优险投保单信息表&lt;br&gt;pk: apply_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2035" y="-80" width="180" height="90" as="geometry" />
+          <mxGeometry x="2390" y="-70" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-12" value="T_PRODUCT_STOP_CONFIG&lt;br&gt;*险种停售配置表&lt;br&gt;pk: config_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1220" width="180" height="50" as="geometry" />
