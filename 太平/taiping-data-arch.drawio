@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T03:22:36.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="OyNqKWtBMiiwp9AxxJHE" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T03:26:14.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="j1oEh8aHHliBdJbCg1tG" version="21.8.2" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2924" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -602,7 +602,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-1" value="T_POLICY&lt;br&gt;保单基本资料表&lt;br&gt;pk: policy_id&lt;br&gt;policy_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="260" width="160" height="170" as="geometry" />
+          <mxGeometry x="1450" y="310" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FIjVFcEKrEzkejblWKOD-4" target="OfORN7NUINiMixhZLZNA-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -668,7 +668,7 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="FIjVFcEKrEzkejblWKOD-40" target="P1Pqjp0SeM_PM9h14-nR-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIjVFcEKrEzkejblWKOD-40" value="T_CAPITA_DISPOSABLE_INCOME&lt;br&gt;城镇居民可支配收入&lt;br&gt;organ_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FIjVFcEKrEzkejblWKOD-40" value="T_CAPITA_DISPOSABLE_INCOME&lt;br&gt;城镇居民可支配收入&lt;br&gt;pk: income_id&lt;br&gt;organ_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1025" y="980" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FIjVFcEKrEzkejblWKOD-43" target="OfORN7NUINiMixhZLZNA-4" edge="1">
@@ -679,7 +679,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FIjVFcEKrEzkejblWKOD-43" value="T_LIABILITY_CHANGE&lt;br&gt;保单责任变更&lt;br&gt;change_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FIjVFcEKrEzkejblWKOD-43" value="T_LIABILITY_CHANGE&lt;br&gt;保单责任变更&lt;br&gt;pk: policy_id, change_date&lt;br&gt;change_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="450" y="1090" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FIjVFcEKrEzkejblWKOD-46" target="OfORN7NUINiMixhZLZNA-35" edge="1">
