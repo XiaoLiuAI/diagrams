@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T05:37:21.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="wPW8lxfNlj0qYef989mr" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T05:38:19.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1fSabiYUnynGtuj5VHp5" version="21.8.2" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2924" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -761,6 +761,9 @@
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-11" value="T_TAX_POLICY_APPLY&lt;br&gt;*税优险投保单信息表&lt;br&gt;pk: apply_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2100" y="60" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-12" value="T_PRODUCT_STOP_CONFIG&lt;br&gt;*险种停售配置表&lt;br&gt;pk: config_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="635" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
