@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T02:26:40.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="k7eU5vS9LnAyzp07vzrv" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T03:07:26.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7NyERNq-82gllgOWW0KW" version="21.8.2" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2924" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -607,7 +607,7 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FIjVFcEKrEzkejblWKOD-4" target="OfORN7NUINiMixhZLZNA-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIjVFcEKrEzkejblWKOD-4" value="T_POLICY_PRODUCT&lt;br&gt;item_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FIjVFcEKrEzkejblWKOD-4" value="T_POLICY_PRODUCT&lt;br&gt;保单险种资料表&amp;nbsp;&lt;br&gt;item_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1450" y="480" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="FIjVFcEKrEzkejblWKOD-8" target="OfORN7NUINiMixhZLZNA-35" edge="1">
@@ -622,7 +622,7 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-12" value="T_POLICY_PROBLEM(问题件)&lt;br&gt;policy_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1760" y="395" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FIjVFcEKrEzkejblWKOD-15" value="T_RULE_PROBLEM_CONIFG&lt;br&gt;config_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="FIjVFcEKrEzkejblWKOD-15" value="T_RULE_PROBLEM_CONIFG&lt;br&gt;问题模块核保违反规则配置表&lt;br&gt;config_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1760" y="720" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-16" value="T_POLICY_ATTACH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -720,6 +720,20 @@
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-59" value="T_POLICY_CHECK&lt;br&gt;体检" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="410" y="-490" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-61" target="OfORN7NUINiMixhZLZNA-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="590" />
+              <mxPoint x="890" y="590" />
+              <mxPoint x="890" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-2" value="internal_id=product_code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ruRkNZHVnkqH3dk_G1LB-1">
+          <mxGeometry x="-0.5152" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-61" value="T_PRODUCT_REPORT&lt;br&gt;新契约模块产品上报表&lt;br&gt;product_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="790" y="630" width="180" height="50" as="geometry" />
