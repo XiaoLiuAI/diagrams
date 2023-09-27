@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T03:26:14.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="j1oEh8aHHliBdJbCg1tG" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T03:26:44.390Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vzvbb3hctmj91w5nfCmm" version="21.8.2" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2924" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -685,7 +685,7 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FIjVFcEKrEzkejblWKOD-46" target="OfORN7NUINiMixhZLZNA-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIjVFcEKrEzkejblWKOD-46" value="T_CUSTOMER_REPRESENT_DIALOG&lt;br&gt;互动核保记录&lt;br&gt;dialog_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FIjVFcEKrEzkejblWKOD-46" value="T_CUSTOMER_REPRESENT_DIALOG&lt;br&gt;互动核保记录&lt;br&gt;pk: dialog_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="980" y="-590" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-48" value="T_SPECIAL_CUSTOMER_GRP_CLAIM&lt;br&gt;团险客户表&lt;br&gt;certi_code&lt;br&gt;gender" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
