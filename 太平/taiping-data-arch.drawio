@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T05:42:11.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PNapEB9Icl9wVajJIzmJ" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T05:53:45.638Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CTa5mGPJ9eSQ5Urqs0MU" version="21.8.2" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
     <mxGraphModel dx="2924" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -630,7 +630,7 @@
           <mxGeometry x="1750" y="460" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-15" value="T_RULE_PROBLEM_CONIFG&lt;br&gt;问题模块核保违反规则配置表&lt;br&gt;pk: config_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="645" width="180" height="50" as="geometry" />
+          <mxGeometry x="1930" y="670" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-16" value="T_POLICY_ATTACH&lt;br&gt;保单附属属性记录表&lt;br&gt;（并非每张保单都有记录）&lt;br&gt;pk: policy_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1760" y="40" width="180" height="90" as="geometry" />
@@ -695,8 +695,11 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-46" value="T_CUSTOMER_REPRESENT_DIALOG&lt;br&gt;互动核保记录&lt;br&gt;pk: dialog_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="980" y="-590" width="250" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-48" target="OfORN7NUINiMixhZLZNA-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-48" value="T_SPECIAL_CUSTOMER_GRP_CLAIM&lt;br&gt;团险客户表&lt;br&gt;pk: list_id&lt;br&gt;certi_code&lt;br&gt;gender" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="-520" width="260" height="90" as="geometry" />
+          <mxGeometry x="-240" y="-470" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FIjVFcEKrEzkejblWKOD-49" target="OfORN7NUINiMixhZLZNA-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -745,23 +748,41 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-61" value="T_PRODUCT_REPORT&lt;br&gt;新契约模块产品上报表&lt;br&gt;product_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="790" y="630" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-4" target="OfORN7NUINiMixhZLZNA-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-4" value="T_SPECIAL_CUSTOMER&lt;br&gt;pk: list_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="-530" width="260" height="90" as="geometry" />
+          <mxGeometry x="-255" y="-320" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-5" target="FIjVFcEKrEzkejblWKOD-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-5" value="T_REPRESENTATION&lt;br&gt;pk: representation_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="-430" width="360" height="80" as="geometry" />
+          <mxGeometry x="2360" y="-250" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-6" target="FIjVFcEKrEzkejblWKOD-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-6" value="T_POLICY_CHECK_ITEM&lt;br&gt;体检问题单体检项目信息表&lt;br&gt;pk: check_num, item_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="-640" width="180" height="50" as="geometry" />
+          <mxGeometry x="2115" y="-650" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-7" target="OfORN7NUINiMixhZLZNA-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-7" value="T_BAD_CUSTOMER&lt;br&gt;pk: list_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="-690" width="260" height="90" as="geometry" />
+          <mxGeometry x="-240" y="-640" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-8" value="T_JOB_UNDERWRITE&lt;br&gt;职业类别与险种职业风险等级关系表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-560" width="260" height="90" as="geometry" />
+          <mxGeometry x="300" y="-520" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-9" target="FIjVFcEKrEzkejblWKOD-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-9" value="T_APP_INSURED_FIRST&lt;br&gt;pk: policy_id, insured_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="-690" width="260" height="90" as="geometry" />
+          <mxGeometry x="1750" y="-350" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-10" target="FIjVFcEKrEzkejblWKOD-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-10" value="T_POLICY_BENE&lt;br&gt;投保单受益人表&lt;br&gt;pk: bene_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1760" y="160" width="180" height="90" as="geometry" />
@@ -771,6 +792,9 @@
         </mxCell>
         <mxCell id="ruRkNZHVnkqH3dk_G1LB-12" value="T_PRODUCT_STOP_CONFIG&lt;br&gt;*险种停售配置表&lt;br&gt;pk: config_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1220" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.431;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-8" target="FIjVFcEKrEzkejblWKOD-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
