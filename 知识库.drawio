@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T07:23:23.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ogMT-3u9W8XhTk6cGN3u" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T03:04:10.931Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PXoHQeKJ5uZpA2tfQE68" version="21.8.0" type="github">
   <diagram name="机构" id="tVOKbTBW-R6PsbDogxPf">
-    <mxGraphModel dx="2740" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2156" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,9 +182,6 @@
         </mxCell>
         <mxCell id="w5oNhNrVCY90rafxgWAN-32" value="医保局机构表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="w5oNhNrVCY90rafxgWAN-33" value="清洗任务表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w5oNhNrVCY90rafxgWAN-34" value="ES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="460" width="120" height="60" as="geometry" />
