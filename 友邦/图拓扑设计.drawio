@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T08:14:52.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="n6duXeSGCoTCd11rSaFL" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-08T08:16:38.415Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rqbI3Pg_dTOmYZA40Ko-" version="22.0.4" type="github" pages="3">
   <diagram id="a6eFwLFaf84fWAjscbE_" name="V0">
-    <mxGraphModel dx="1363" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -542,7 +542,7 @@
         <mxCell id="NKYCaUZf26EfjrLhenBL-96" value="&lt;div style=&quot;text-align: left;&quot;&gt;Q: 是否所有证件类型/证件号都具有唯一性&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;准生证号有可能重复&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Q: 删除操作是否有全量记录，哪怕是物理删除&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Q: 完全无法跟踪的东西的量&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="190" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="NKYCaUZf26EfjrLhenBL-101" value="Q: 保单配置中，特别约定导致责任与险种通用配置不符，所以直连配置，不算险种" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="NKYCaUZf26EfjrLhenBL-101" value="针对个人特约，Product对应Liability会通过减法消除1条或几条liability（免责声明）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="970" y="610" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NKYCaUZf26EfjrLhenBL-102" value="&lt;font color=&quot;#ff0000&quot;&gt;撤销件与其它案件字段是否完全一致？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
