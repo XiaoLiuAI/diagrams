@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T08:16:38.415Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rqbI3Pg_dTOmYZA40Ko-" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-08T08:47:12.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="p7Y5Aw45EExWT5xsi5gR" version="22.0.4" type="github" pages="3">
   <diagram id="a6eFwLFaf84fWAjscbE_" name="V0">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1245,7 +1245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V1.1" id="nd8RMGbc4K31Humn0pD5">
-    <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LMdJlQjHxz6_B-gr1qmA-0" />
         <mxCell id="LMdJlQjHxz6_B-gr1qmA-1" parent="LMdJlQjHxz6_B-gr1qmA-0" />
@@ -1809,7 +1809,7 @@
           <mxGeometry x="190" y="670" as="geometry" />
         </mxCell>
         <mxCell id="LMdJlQjHxz6_B-gr1qmA-124" value="针对个人特约，product对应的Liability会通过减法减掉特定的一条或几条的liability（免除责任）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="LMdJlQjHxz6_B-gr1qmA-1" vertex="1">
-          <mxGeometry x="970" y="610" width="140" height="60" as="geometry" />
+          <mxGeometry x="970" y="600" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LMdJlQjHxz6_B-gr1qmA-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;" parent="LMdJlQjHxz6_B-gr1qmA-1" target="LMdJlQjHxz6_B-gr1qmA-33" edge="1">
           <mxGeometry relative="1" as="geometry">
