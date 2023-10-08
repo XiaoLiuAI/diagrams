@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T08:10:58.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="wAUuJ8GKwh9nQ7Ijn097" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-08T08:11:09.105Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZW3G-ABWeAszKoTTnB_k" version="22.0.4" type="github" pages="3">
   <diagram id="a6eFwLFaf84fWAjscbE_" name="V0">
     <mxGraphModel dx="1363" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1767,7 +1767,7 @@
         <mxCell id="LMdJlQjHxz6_B-gr1qmA-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="LMdJlQjHxz6_B-gr1qmA-1" source="LMdJlQjHxz6_B-gr1qmA-107" target="LMdJlQjHxz6_B-gr1qmA-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LMdJlQjHxz6_B-gr1qmA-107" value="AppliedPolicy" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" parent="LMdJlQjHxz6_B-gr1qmA-1" vertex="1">
+        <mxCell id="LMdJlQjHxz6_B-gr1qmA-107" value="AppliedPolicy" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="LMdJlQjHxz6_B-gr1qmA-1" vertex="1">
           <mxGeometry x="780" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LMdJlQjHxz6_B-gr1qmA-108" value="WithdrewClaim&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;claim_id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="LMdJlQjHxz6_B-gr1qmA-1" vertex="1">
