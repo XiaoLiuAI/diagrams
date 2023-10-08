@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T08:11:19.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="R19RORhzDEKIquJZeEj1" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-08T08:14:52.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="n6duXeSGCoTCd11rSaFL" version="22.0.4" type="github" pages="3">
   <diagram id="a6eFwLFaf84fWAjscbE_" name="V0">
     <mxGraphModel dx="1363" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1808,7 +1808,7 @@
         <mxCell id="LMdJlQjHxz6_B-gr1qmA-123" value="&lt;div style=&quot;text-align: left;&quot;&gt;Q: 是否所有证件类型/证件号都具有唯一性&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;准生证号有可能重复&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Q: 删除操作是否有全量记录，哪怕是物理删除&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Q: 完全无法跟踪的东西的量&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="LMdJlQjHxz6_B-gr1qmA-1" vertex="1" connectable="0">
           <mxGeometry x="190" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="LMdJlQjHxz6_B-gr1qmA-124" value="Q: 保单配置中，特别约定导致责任与险种通用配置不符，所以直连配置，不算险种" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="LMdJlQjHxz6_B-gr1qmA-1" vertex="1">
+        <mxCell id="LMdJlQjHxz6_B-gr1qmA-124" value="针对个人特约，product对应的Liability会通过减法减掉特定的一条或几条的liability（免除责任）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="LMdJlQjHxz6_B-gr1qmA-1" vertex="1">
           <mxGeometry x="970" y="610" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LMdJlQjHxz6_B-gr1qmA-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;" parent="LMdJlQjHxz6_B-gr1qmA-1" target="LMdJlQjHxz6_B-gr1qmA-33" edge="1">
