@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-10-10T05:50:05.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="9QTRtvG84Ld9KjJPEWyD" version="21.6.8" type="device" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-10T06:54:15.278Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="twZyxwbz_m0hQOiJ8-WV" version="22.0.4" type="github" pages="4">
   <diagram id="a6eFwLFaf84fWAjscbE_" name="V0">
-    <mxGraphModel dx="1237" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1861,7 +1861,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V1.2" id="HM9EqQ63mo5AnFbv3ZMg">
-    <mxGraphModel dx="1237" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bnYjoaOBcf13e0NpcHrS-0" />
         <mxCell id="bnYjoaOBcf13e0NpcHrS-1" parent="bnYjoaOBcf13e0NpcHrS-0" />
@@ -2122,7 +2122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgFG0_lwfPzAr605BNn_-0" value="EXCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bnYjoaOBcf13e0NpcHrS-44">
+        <mxCell id="SgFG0_lwfPzAr605BNn_-0" value="EXCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bnYjoaOBcf13e0NpcHrS-44" vertex="1" connectable="0">
           <mxGeometry x="0.1544" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2199,7 +2199,7 @@
         <mxCell id="bnYjoaOBcf13e0NpcHrS-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="bnYjoaOBcf13e0NpcHrS-1" source="bnYjoaOBcf13e0NpcHrS-62" target="bnYjoaOBcf13e0NpcHrS-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7ZGt1WhsyvsabVzHKMbd-0" value="HAS_SURGERY" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bnYjoaOBcf13e0NpcHrS-59">
+        <mxCell id="7ZGt1WhsyvsabVzHKMbd-0" value="HAS_SURGERY" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bnYjoaOBcf13e0NpcHrS-59" vertex="1" connectable="0">
           <mxGeometry x="-0.0889" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2430,9 +2430,6 @@
         <mxCell id="bnYjoaOBcf13e0NpcHrS-108" value="不实告知" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="bnYjoaOBcf13e0NpcHrS-1" vertex="1">
           <mxGeometry x="810" y="980" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bnYjoaOBcf13e0NpcHrS-109" value="Q: 发票是否集中在某一次就诊下" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="bnYjoaOBcf13e0NpcHrS-1" vertex="1">
-          <mxGeometry x="1670" y="200" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bnYjoaOBcf13e0NpcHrS-110" value="&lt;div style=&quot;text-align: left;&quot;&gt;Q: 是否所有证件类型/证件号都具有唯一性&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;准生证号有可能重复&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Q: 删除操作是否有全量记录，哪怕是物理删除&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Q: 完全无法跟踪的东西的量&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="bnYjoaOBcf13e0NpcHrS-1" vertex="1" connectable="0">
           <mxGeometry x="190" y="670" as="geometry" />
         </mxCell>
@@ -2482,7 +2479,7 @@
         <mxCell id="bnYjoaOBcf13e0NpcHrS-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="bnYjoaOBcf13e0NpcHrS-1" source="bnYjoaOBcf13e0NpcHrS-123" target="bnYjoaOBcf13e0NpcHrS-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7ZGt1WhsyvsabVzHKMbd-2" value="TARGET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bnYjoaOBcf13e0NpcHrS-122">
+        <mxCell id="7ZGt1WhsyvsabVzHKMbd-2" value="TARGET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bnYjoaOBcf13e0NpcHrS-122" vertex="1" connectable="0">
           <mxGeometry x="-0.2729" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2490,7 +2487,7 @@
         <mxCell id="HnRxf1TOfIy5f5rGLNZ9-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="bnYjoaOBcf13e0NpcHrS-1" source="bnYjoaOBcf13e0NpcHrS-123" target="bnYjoaOBcf13e0NpcHrS-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7ZGt1WhsyvsabVzHKMbd-3" value="HAS_DIAGNOSIS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HnRxf1TOfIy5f5rGLNZ9-0">
+        <mxCell id="7ZGt1WhsyvsabVzHKMbd-3" value="HAS_DIAGNOSIS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HnRxf1TOfIy5f5rGLNZ9-0" vertex="1" connectable="0">
           <mxGeometry x="-0.3433" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2498,7 +2495,7 @@
         <mxCell id="HnRxf1TOfIy5f5rGLNZ9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="bnYjoaOBcf13e0NpcHrS-1" source="bnYjoaOBcf13e0NpcHrS-123" target="HnRxf1TOfIy5f5rGLNZ9-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7ZGt1WhsyvsabVzHKMbd-4" value="HAS_ANSWER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HnRxf1TOfIy5f5rGLNZ9-7">
+        <mxCell id="7ZGt1WhsyvsabVzHKMbd-4" value="HAS_ANSWER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HnRxf1TOfIy5f5rGLNZ9-7" vertex="1" connectable="0">
           <mxGeometry x="-0.12" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2512,7 +2509,7 @@
             <mxPoint x="1526" y="950" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ZGt1WhsyvsabVzHKMbd-6" value="HAS_QUESTION" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HnRxf1TOfIy5f5rGLNZ9-6">
+        <mxCell id="7ZGt1WhsyvsabVzHKMbd-6" value="HAS_QUESTION" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HnRxf1TOfIy5f5rGLNZ9-6" vertex="1" connectable="0">
           <mxGeometry x="0.0149" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2523,7 +2520,7 @@
         <mxCell id="HnRxf1TOfIy5f5rGLNZ9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="bnYjoaOBcf13e0NpcHrS-1" source="HnRxf1TOfIy5f5rGLNZ9-3" target="HnRxf1TOfIy5f5rGLNZ9-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7ZGt1WhsyvsabVzHKMbd-5" value="HAS_ANSWER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HnRxf1TOfIy5f5rGLNZ9-4">
+        <mxCell id="7ZGt1WhsyvsabVzHKMbd-5" value="HAS_ANSWER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HnRxf1TOfIy5f5rGLNZ9-4" vertex="1" connectable="0">
           <mxGeometry x="-0.0286" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
