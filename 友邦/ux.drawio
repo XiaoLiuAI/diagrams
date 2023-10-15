@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T10:57:05.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RyQh-7b8O4qFqFWQnlqJ" version="22.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-15T10:57:16.802Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RSkLjFTnMz8-nY2wlFKJ" version="22.0.4" type="github" pages="4">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1546" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -845,7 +845,7 @@
           <mxGeometry x="170" y="186" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6veVDGmFaPni0XU9pHUI-35" value="被保人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525" y="186" width="60" height="30" as="geometry" />
+          <mxGeometry x="453" y="186" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6veVDGmFaPni0XU9pHUI-36" value="既往相关保单" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="169" y="216" width="100" height="30" as="geometry" />
