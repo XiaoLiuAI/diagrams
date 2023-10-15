@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T10:54:44.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="934v_BoFD8zy-ktBkNRd" version="22.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-15T10:55:58.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="wqwe8e_WJ-u1smI6F30q" version="22.0.4" type="github" pages="4">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1546" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -762,7 +762,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ANfsSDlZ9_teiw8PbYH8" name="紧密客群-事中">
-    <mxGraphModel dx="1546" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -912,6 +912,18 @@
         </mxCell>
         <mxCell id="6veVDGmFaPni0XU9pHUI-57" value="代理人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="186" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6veVDGmFaPni0XU9pHUI-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6veVDGmFaPni0XU9pHUI-58" target="6veVDGmFaPni0XU9pHUI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6veVDGmFaPni0XU9pHUI-58" value="Agent" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="363" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6veVDGmFaPni0XU9pHUI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6veVDGmFaPni0XU9pHUI-61" target="6veVDGmFaPni0XU9pHUI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6veVDGmFaPni0XU9pHUI-61" value="Agent" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="614" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
