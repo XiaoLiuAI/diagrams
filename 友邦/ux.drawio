@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T13:00:20.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ny1btltvX7AGlZ2dlfyC" version="22.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-15T13:00:41.979Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Trd-pOqWinFF5_kbyjxo" version="22.0.4" type="github" pages="5">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1546" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -937,10 +937,10 @@
           <mxGeometry x="40" y="100" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Y7GmL7GRo6jHjPYcs3S-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
-          <mxGeometry x="30" y="890" width="380" height="150" as="geometry" />
+          <mxGeometry x="30" y="680" width="890" height="340" as="geometry" />
         </mxCell>
         <mxCell id="3Y7GmL7GRo6jHjPYcs3S-3" value="离职售卖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
-          <mxGeometry x="30" y="890" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3Y7GmL7GRo6jHjPYcs3S-4" value="代理人数 ：XXX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
           <mxGeometry x="40" y="150" width="130" height="30" as="geometry" />
