@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T10:13:40.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tBueHTSw4rIQ1QIIybTO" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-15T10:15:31.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="oNJTp470ZpvoHrTmsOo1" version="22.0.4" type="github" pages="3">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="684" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,10 +285,10 @@
           <mxGeometry x="20" y="-80" width="790" height="270" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-37" value="既往相关保单" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="29" y="92" width="100" height="30" as="geometry" />
+          <mxGeometry x="29" y="67" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-38" value="" style="group" vertex="1" connectable="0" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="130" y="122" width="100" height="54" as="geometry" />
+          <mxGeometry x="130" y="97" width="100" height="54" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-39" value="投保人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-38">
           <mxGeometry width="99.99999999999999" height="18" as="geometry" />
@@ -300,16 +300,16 @@
           <mxGeometry y="36" width="99.99999999999999" height="18" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="30" y="158" width="99.99999999999999" height="18" as="geometry" />
+          <mxGeometry x="30" y="133" width="99.99999999999999" height="18" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="30" y="140" width="99.99999999999999" height="18" as="geometry" />
+          <mxGeometry x="30" y="115" width="99.99999999999999" height="18" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-44" value="保单号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="30" y="122" width="99.99999999999999" height="18" as="geometry" />
+          <mxGeometry x="30" y="97" width="99.99999999999999" height="18" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-45" value="" style="group" vertex="1" connectable="0" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="230" y="122" width="90" height="54" as="geometry" />
+          <mxGeometry x="230" y="97" width="90" height="54" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-46" value="被保人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-45">
           <mxGeometry width="89.99999999999999" height="18" as="geometry" />
@@ -321,7 +321,7 @@
           <mxGeometry y="36" width="89.99999999999999" height="18" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-49" value="" style="group" vertex="1" connectable="0" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="320" y="122" width="90" height="54" as="geometry" />
+          <mxGeometry x="320" y="97" width="90" height="54" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-50" value="投被保人关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-49">
           <mxGeometry width="89.99999999999999" height="18" as="geometry" />
@@ -333,7 +333,7 @@
           <mxGeometry y="36" width="89.99999999999999" height="18" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-53" value="" style="group" vertex="1" connectable="0" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="410" y="121" width="90" height="54" as="geometry" />
+          <mxGeometry x="410" y="95" width="90" height="54" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-54" value="保费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-53">
           <mxGeometry y="2" width="89.99999999999999" height="18" as="geometry" />
@@ -463,6 +463,12 @@
         </mxCell>
         <mxCell id="v9eQJNKR3xjWyXdraTQo-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
           <mxGeometry x="410" y="42" width="89.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="v9eQJNKR3xjWyXdraTQo-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="500" y="-30" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="v9eQJNKR3xjWyXdraTQo-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="500" y="96" width="10" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
