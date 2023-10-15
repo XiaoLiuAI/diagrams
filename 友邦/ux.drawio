@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T10:15:31.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="oNJTp470ZpvoHrTmsOo1" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-15T10:25:59.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="FYYrdA4FlpP-Lgn122H4" version="22.0.4" type="github" pages="3">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="684" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -173,10 +173,277 @@
     </mxGraphModel>
   </diagram>
   <diagram name="虚假关系-统计页面" id="zCb27aLMu9bd4C0Ylt6h">
-    <mxGraphModel dx="684" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1774" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="shzpavXtTQ4F2fzOi1xt-0" />
         <mxCell id="shzpavXtTQ4F2fzOi1xt-1" parent="shzpavXtTQ4F2fzOi1xt-0" />
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-820" y="120" width="450" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-2" value="子女-父母年龄差异常" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-4" value="总数： 450" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-6" value="涉及家庭： 400" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-7" value="涉及客户： 2000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-8" value="涉及保单数： 2000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-10" value="保单险种分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-650" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-670" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-350" y="120" width="450" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-14" value="父母数量异常" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-340" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-15" value="总数： 450" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-340" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-16" value="涉及家庭： 400" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-340" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-17" value="涉及客户： 2000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-340" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-18" value="涉及保单数： 2000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-340" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-21" value="保单公司分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-500" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-520" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-23" value="保单险种分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-180" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-24" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-200" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-25" value="保单公司分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-30" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-50" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-820" y="350" width="450" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-28" value="子女数量异常" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-29" value="总数： 450" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-30" value="涉及家庭： 400" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-31" value="涉及客户： 2000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-32" value="涉及保单数： 2000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-33" value="保单险种分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-650" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-34" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-670" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-35" value="保单公司分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-500" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-36" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-520" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-350" y="350" width="450" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-38" value="配偶数量异常" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-340" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-39" value="总数： 450" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-340" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-40" value="涉及家庭： 400" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-340" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-41" value="涉及客户： 2000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-340" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-42" value="涉及保单数： 2000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-340" y="480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-43" value="保单险种分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-180" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-44" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-200" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-45" value="保单公司分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-30" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-46" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-50" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-820" y="580" width="450" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-48" value="子女年龄差异常" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="590" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-49" value="总数： 450" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="620" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-50" value="涉及家庭： 400" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-51" value="涉及客户： 2000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-52" value="涉及保单数： 2000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-810" y="710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-53" value="保单险种分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-650" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-54" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-670" y="650" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-55" value="保单公司分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-500" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-56" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-520" y="650" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-57" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-820" y="820" width="930" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-58" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-57">
+          <mxGeometry width="930" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-59" value="家庭" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-58">
+          <mxGeometry width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-60" value="风险" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-58">
+          <mxGeometry x="133" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-61" value="保单数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-58">
+          <mxGeometry x="266" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-70" value="人数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-58">
+          <mxGeometry x="399" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-73" value="理赔数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-58">
+          <mxGeometry x="532" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-76" value="理赔金额" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-58">
+          <mxGeometry x="665" width="132" height="40" as="geometry">
+            <mxRectangle width="132" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-79" value="代理人" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-58">
+          <mxGeometry x="797" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-57">
+          <mxGeometry y="40" width="930" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-63" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-62">
+          <mxGeometry width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-64" value="1，2，3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-62">
+          <mxGeometry x="133" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-65" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-62">
+          <mxGeometry x="266" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-71" value="10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-62">
+          <mxGeometry x="399" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-74" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-62">
+          <mxGeometry x="532" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-77" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-62">
+          <mxGeometry x="665" width="132" height="40" as="geometry">
+            <mxRectangle width="132" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-80" value="1，2，3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-62">
+          <mxGeometry x="797" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-57">
+          <mxGeometry y="80" width="930" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-67" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-66">
+          <mxGeometry width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-68" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-66">
+          <mxGeometry x="133" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-69" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-66">
+          <mxGeometry x="266" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-72" value="8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-66">
+          <mxGeometry x="399" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-75" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-66">
+          <mxGeometry x="532" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-78" value="5000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-66">
+          <mxGeometry x="665" width="132" height="40" as="geometry">
+            <mxRectangle width="132" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBU_Gi3yTdFM7awwBk73-81" value="4，5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NBU_Gi3yTdFM7awwBk73-66">
+          <mxGeometry x="797" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
