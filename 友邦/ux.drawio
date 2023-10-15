@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T10:02:33.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PBeDkHjlPt_-uN4tli-G" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-15T10:04:40.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="EIQGHoHtGP1e1cj-R1VS" version="22.0.4" type="github" pages="3">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="924" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -346,7 +346,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="虚假关系-家庭页面" id="8OiRHndstGTpmXmIZfLy">
-    <mxGraphModel dx="924" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="924" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="h99sENw2gBb0RiSOKoDo-0" />
         <mxCell id="h99sENw2gBb0RiSOKoDo-1" parent="h99sENw2gBb0RiSOKoDo-0" />
@@ -447,13 +447,7 @@
           <mxGeometry x="90" y="229" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="20" y="56" width="790" height="134" as="geometry" />
-        </mxCell>
-        <mxCell id="h99sENw2gBb0RiSOKoDo-35" value="投保人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="30" y="62" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h99sENw2gBb0RiSOKoDo-36" value="被保人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="385" y="62" width="60" height="30" as="geometry" />
+          <mxGeometry x="20" y="-80" width="790" height="270" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-37" value="既往相关保单" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
           <mxGeometry x="29" y="92" width="100" height="30" as="geometry" />
@@ -513,6 +507,66 @@
           <mxGeometry y="19" width="89.99999999999999" height="18" as="geometry" />
         </mxCell>
         <mxCell id="h99sENw2gBb0RiSOKoDo-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-53">
+          <mxGeometry y="37" width="89.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-41" value="家庭成员列表" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="29" y="-60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-42" value="" style="group" vertex="1" connectable="0" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="130" y="-30" width="100" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-43" value="性别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-42">
+          <mxGeometry width="99.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-42">
+          <mxGeometry y="18" width="99.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-42">
+          <mxGeometry y="36" width="99.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="30" y="6" width="99.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="30" y="-12" width="99.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-48" value="姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="30" y="-30" width="99.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-49" value="" style="group" vertex="1" connectable="0" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="230" y="-30" width="90" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-50" value="生日" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-49">
+          <mxGeometry width="89.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-49">
+          <mxGeometry y="18" width="89.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-49">
+          <mxGeometry y="36" width="89.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-53" value="" style="group" vertex="1" connectable="0" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="320" y="-30" width="90" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-54" value="投保保单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-53">
+          <mxGeometry width="89.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-53">
+          <mxGeometry y="18" width="89.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-53">
+          <mxGeometry y="36" width="89.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-57" value="" style="group" vertex="1" connectable="0" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="410" y="-31" width="90" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-58" value="被保保单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-57">
+          <mxGeometry y="2" width="89.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-57">
+          <mxGeometry y="19" width="89.99999999999999" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cbc132iU81sgjapi4SK5-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbc132iU81sgjapi4SK5-57">
           <mxGeometry y="37" width="89.99999999999999" height="18" as="geometry" />
         </mxCell>
       </root>
