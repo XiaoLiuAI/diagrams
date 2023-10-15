@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T10:34:13.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ap_QhygmM9ApnpED57cw" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-15T10:52:54.568Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ddpb8XZgGbt12qAB3ag-" version="22.0.4" type="github" pages="4">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
-    <mxGraphModel dx="684" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="虚假关系-统计页面" id="zCb27aLMu9bd4C0Ylt6h">
-    <mxGraphModel dx="1774" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2396" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="shzpavXtTQ4F2fzOi1xt-0" />
         <mxCell id="shzpavXtTQ4F2fzOi1xt-1" parent="shzpavXtTQ4F2fzOi1xt-0" />
@@ -469,7 +469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="虚假关系-家庭页面" id="8OiRHndstGTpmXmIZfLy">
-    <mxGraphModel dx="924" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="h99sENw2gBb0RiSOKoDo-0" />
         <mxCell id="h99sENw2gBb0RiSOKoDo-1" parent="h99sENw2gBb0RiSOKoDo-0" />
@@ -758,6 +758,14 @@
         <mxCell id="v9eQJNKR3xjWyXdraTQo-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
           <mxGeometry x="500" y="96" width="10" height="90" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ANfsSDlZ9_teiw8PbYH8" name="紧密客群-事中">
+    <mxGraphModel dx="1546" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
