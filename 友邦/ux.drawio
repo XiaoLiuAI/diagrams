@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T09:07:09.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="z66xyLxqtCYjKGL2OGMJ" version="22.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-16T09:13:52.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4_2fztngW_fzbHCvboMA" version="22.0.4" type="github" pages="7">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1163" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -773,6 +773,9 @@
         </mxCell>
         <mxCell id="PyLTVEmPerWlP5-HJ_fT-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
           <mxGeometry x="-50" y="650" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Utm0iwyvWNp-duYdPalM-0" value="是否考虑隐形关系" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-680" y="830" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
