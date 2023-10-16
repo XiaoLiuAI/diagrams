@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T09:22:10.415Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3N9CjktMoLEkh-ZqnoDC" version="22.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-16T09:43:06.833Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LEXhkYyYNEIXAoZt9pVq" version="22.0.4" type="github" pages="7">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1163" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -777,6 +777,9 @@
         <mxCell id="Utm0iwyvWNp-duYdPalM-0" value="是否考虑隐形关系" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
           <mxGeometry x="-680" y="830" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iGzUe_Jz54oKqg7BiBwg-0" value="反馈check界面" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="160" y="580" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1055,8 +1058,8 @@
         <mxCell id="YdZOOCDPnvI8tzpqhWm3-1" value="节点类型：&lt;br&gt;A：&amp;nbsp; 开关&lt;br&gt;B：&amp;nbsp; 开关&lt;br&gt;C：&amp;nbsp; 开关&lt;br&gt;&lt;br&gt;边类型：&lt;br&gt;E1:&amp;nbsp; &amp;nbsp; 开关&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
           <mxGeometry x="-100" y="210" width="90" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="6UJdWfjyvN5pOekacMFP-0" value="如何更新数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
-          <mxGeometry x="20" y="600" width="180" height="30" as="geometry" />
+        <mxCell id="6UJdWfjyvN5pOekacMFP-0" value="如何更新数据&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h99sENw2gBb0RiSOKoDo-1">
+          <mxGeometry x="20" y="600" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
