@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T08:23:55.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Adi1e2n5Cx-R4M5gQuy9" version="22.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-16T08:59:11.269Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Y6rKFkHDJ3UWwu62QipM" version="22.0.4" type="github" pages="7">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1163" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -518,6 +518,9 @@
         </mxCell>
         <mxCell id="bAD5XzAMzrns-iXSLeRX-1" value="涉及拒赔： 44万" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
           <mxGeometry x="-810" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m9mD2eTEv7VDV7tT7buY-0" value="根据风险来看" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="shzpavXtTQ4F2fzOi1xt-1">
+          <mxGeometry x="-360" y="780" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
