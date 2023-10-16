@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T03:37:51.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Q0VHAKv3quCGeKDy37ly" version="22.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-16T03:40:31.725Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yKbt9zjIlkPV5EgN2bCE" version="22.0.4" type="github" pages="7">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1546" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1645,6 +1645,9 @@
         </mxCell>
         <mxCell id="nrNy3YGZfk-5d6SNRc5K-1" value="自保显示保单，投被保人，代理人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PbZ3OzZ7kNFXJ4yObHbb-1">
           <mxGeometry x="830" y="209" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nrNy3YGZfk-5d6SNRc5K-2" value="显示范围问题：&lt;br&gt;1. 自保显示代理人家庭就可以&lt;br&gt;2. 互保显示什么？ 当前代理人卖出给别的代理人家属的保单都显示出来？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PbZ3OzZ7kNFXJ4yObHbb-1">
+          <mxGeometry x="29" y="-180" width="411" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
