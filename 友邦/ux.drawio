@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T07:20:43.729Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DugwjGM7jtHSDh9cHHXV" version="22.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-16T07:25:48.289Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mT4CO9ZI8atjy5akamkn" version="22.0.4" type="github" pages="7">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1163" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="lVObkplDe8VsXf1WLTiD-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lVObkplDe8VsXf1WLTiD-62">
           <mxGeometry y="37.68518518518519" width="89.99999999999999" height="18.333333333333336" as="geometry" />
         </mxCell>
-        <mxCell id="kjXVgf2CdGZ1wdRBysaj-1" value="1. 多个被保人&lt;br&gt;2. 是否显示家庭所有保单. 只显示当前投被相关保单. 只看直接关系的结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kjXVgf2CdGZ1wdRBysaj-1" value="1. 多个被保人&lt;br&gt;2. 是否显示家庭所有保单. 只显示当前投被相关保单. 只看直接关系的结果&lt;br&gt;3. 互斥+间接关系&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1. 祖孙投保8岁以下，违反保险法" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="50" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kjXVgf2CdGZ1wdRBysaj-3" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
