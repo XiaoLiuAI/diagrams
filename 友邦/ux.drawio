@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T12:28:06.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CN8FWEPP6paaxup98CTk" version="22.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-17T12:28:42.284Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-h1QtN9cLX9dCAwjjTke" version="22.0.4" type="github" pages="8">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1403" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2033,7 +2033,7 @@
         <mxCell id="nrNy3YGZfk-5d6SNRc5K-1" value="自保显示保单，投被保人，代理人" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
           <mxGeometry x="830" y="209" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nrNy3YGZfk-5d6SNRc5K-2" value="显示范围问题：&lt;br&gt;1. 自保显示代理人家庭和内部售卖的保单&lt;br&gt;2. 一个家庭如果有多个代理人，是否都显示？还是说完全从代理人出发，只看这个代理人的自保件？" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
+        <mxCell id="nrNy3YGZfk-5d6SNRc5K-2" value="显示范围问题：&lt;br&gt;1. 自保显示代理人家庭和内部售卖的保单&lt;br&gt;2. 完全从代理人出发，只看这个代理人的自保件" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
           <mxGeometry x="20" y="-180" width="411" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mVh5qjCjIJNMYYx79rH9-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;arcSize=50;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
