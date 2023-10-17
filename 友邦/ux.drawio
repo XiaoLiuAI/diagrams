@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T09:30:47.988Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="bMQSKh4nB4AQV7KEE-J7" version="22.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-17T09:31:21.382Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Xe08FM7Y7bVZKoU9VRJa" version="22.0.4" type="github" pages="8">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1306" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2555,7 +2555,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="紧密客群-离职售卖" id="1jfeEAO7mBmsxa3swYGU">
-    <mxGraphModel dx="2156" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UPHT2sIMAww_3l9wthe6-0" />
         <mxCell id="UPHT2sIMAww_3l9wthe6-1" parent="UPHT2sIMAww_3l9wthe6-0" />
@@ -2757,8 +2757,8 @@
         <mxCell id="lzxTqwcUYa4x-CSq0gCu-12" value="拒保离职保单/所有保单 ：XXX" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UPHT2sIMAww_3l9wthe6-1">
           <mxGeometry x="530" y="149" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o6Om0u6PpXImK1o2hK1L-0" value="离职前组别" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="UPHT2sIMAww_3l9wthe6-1">
-          <mxGeometry x="-10" y="-152" width="80" height="30" as="geometry" />
+        <mxCell id="o6Om0u6PpXImK1o2hK1L-0" value="添加离职前组别&lt;br&gt;添加对比" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="UPHT2sIMAww_3l9wthe6-1">
+          <mxGeometry x="19" y="-205" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
