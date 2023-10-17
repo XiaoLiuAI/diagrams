@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T05:22:34.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="oYS4iONXb_zi8UdUF3Ph" version="22.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-17T05:26:09.481Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="iJmeICFn4pUFYx9vLSiN" version="22.0.4" type="github" pages="8">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1163" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2107,29 +2107,23 @@
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
           <mxGeometry x="590" y="200" width="220" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="Pr3-SK1eUGSO63_c6W5m-14" value="&amp;nbsp; &amp;nbsp;隐形自保" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
-          <mxGeometry x="600" y="210" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-15" value="&amp;nbsp; &amp;nbsp; 互保" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
-          <mxGeometry x="600" y="250" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr3-SK1eUGSO63_c6W5m-16" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
-          <mxGeometry x="603" y="220" width="10" height="10" as="geometry" />
+          <mxGeometry x="600" y="209" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-17" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
-          <mxGeometry x="604" y="259" width="10" height="10" as="geometry" />
+          <mxGeometry x="604" y="218" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-18" value="张三，男, 1987.05.21" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
-          <mxGeometry x="606.5" y="285" width="193.5" height="20" as="geometry" />
+          <mxGeometry x="606.5" y="244" width="193.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-19" value="张龙，男, 2017.05.21" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
-          <mxGeometry x="606.5" y="310" width="193.5" height="20" as="geometry" />
+          <mxGeometry x="606.5" y="269" width="193.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-20" value="李娟，女, 1990.05.21" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
-          <mxGeometry x="606.5" y="336" width="193.5" height="20" as="geometry" />
+          <mxGeometry x="606.5" y="295" width="193.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-21" value="张强，男, 1990.05.21" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
-          <mxGeometry x="606.5" y="360" width="193.5" height="20" as="geometry" />
+          <mxGeometry x="606.5" y="319" width="193.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Pr3-SK1eUGSO63_c6W5m-1" source="Pr3-SK1eUGSO63_c6W5m-24" target="Pr3-SK1eUGSO63_c6W5m-28">
           <mxGeometry relative="1" as="geometry" />
@@ -2357,10 +2351,7 @@
           <mxGeometry x="500" y="96" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-97" value="互保显示保单还是人？" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
-          <mxGeometry x="830" y="309" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr3-SK1eUGSO63_c6W5m-98" value="自保显示保单，投被保人，代理人" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
-          <mxGeometry x="830" y="209" width="210" height="30" as="geometry" />
+          <mxGeometry x="830" y="209" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-99" value="显示范围问题：&lt;br&gt;1. 自保显示代理人家庭就可以&lt;br&gt;2. 互保显示什么？ 当前代理人卖出给别的代理人家属的保单都显示出来？" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Pr3-SK1eUGSO63_c6W5m-1">
           <mxGeometry x="29" y="-180" width="411" height="70" as="geometry" />
