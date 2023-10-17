@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T12:28:42.284Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-h1QtN9cLX9dCAwjjTke" version="22.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-17T12:33:47.009Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="f9RRyLdJini98n9W4OHv" version="22.0.4" type="github" pages="8">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1403" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1963,36 +1963,6 @@
         </mxCell>
         <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="PbZ3OzZ7kNFXJ4yObHbb-71" vertex="1">
           <mxGeometry y="37" width="89.99999999999999" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-75" value="家庭总保单数" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
-          <mxGeometry x="876.5" y="-60" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
-          <mxGeometry x="950" y="-60" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-77" value="家庭总保额" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
-          <mxGeometry x="876.5" y="-22" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-78" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;100万&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
-          <mxGeometry x="964" y="-22" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-79" value="家庭理赔数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
-          <mxGeometry x="1030" y="-60" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-80" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
-          <mxGeometry x="1100" y="-60" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-81" value="家庭赔付金额" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
-          <mxGeometry x="1030" y="-22" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-82" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;10万&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
-          <mxGeometry x="1104" y="-22" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-83" value="家庭拒赔金额" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
-          <mxGeometry x="1030" y="13" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-84" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;0万&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
-          <mxGeometry x="1103" y="13" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PbZ3OzZ7kNFXJ4yObHbb-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="PbZ3OzZ7kNFXJ4yObHbb-1" vertex="1">
           <mxGeometry x="130" y="24" width="99.99999999999999" height="18" as="geometry" />
