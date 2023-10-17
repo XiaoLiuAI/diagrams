@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T05:36:45.387Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="FrRE-RbyxaNxN4G87xYO" version="22.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-17T05:37:44.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="REdXZUkSoOHdXuMPG4qt" version="22.0.4" type="github" pages="8">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1163" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2218,6 +2218,9 @@
         </mxCell>
         <mxCell id="32sRhjAgS6aaF10PnK61-0" value="隐形自保显示保单，投被保人，代理人，相关家庭成员链路" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PbZ3OzZ7kNFXJ4yObHbb-1">
           <mxGeometry x="830" y="269" width="210" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ChxXDoQ06zSdaf2O1Uwh-0" value="保单" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="PbZ3OzZ7kNFXJ4yObHbb-1">
+          <mxGeometry x="606.5" y="389" width="193.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
