@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T09:01:14.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jjEktb_zF4jrf1RyTGM3" version="22.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-17T09:20:08.651Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-tHhhnpEMcurKt3H92Uh" version="22.0.4" type="github" pages="8">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1306" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1944,6 +1944,12 @@
         <mxCell id="M_PLMFTz2Jo2GJ2_oyhQ-0" value="不实告知自保件/所有保单 ：XXX" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
           <mxGeometry x="65" y="260" width="215" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="a7gc6PwundL6RgeJi0LZ-0" value="给出对比指标" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
+          <mxGeometry x="940" y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6wAjBlUppvoJjW50YVXO-0" value="理赔金额/理赔次数：XXX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
+          <mxGeometry x="590" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -2282,7 +2288,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="紧密客群-互保" id="OWW-s5yCSxEJSgTap6g5">
+  <diagram name="紧密客群-互保-废弃" id="OWW-s5yCSxEJSgTap6g5">
     <mxGraphModel dx="1306" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Pr3-SK1eUGSO63_c6W5m-0" />
