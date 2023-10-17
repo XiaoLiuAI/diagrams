@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T08:25:55.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MPaYiQcgtX3mkiQy-uZa" version="22.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-17T08:28:26.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="fTXUwEsqtgDrpCGX0sGL" version="22.0.4" type="github" pages="8">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1306" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1253,7 +1253,7 @@
           <mxGeometry x="170" y="186" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6veVDGmFaPni0XU9pHUI-35" value="被保人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="453" y="186" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="186" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6veVDGmFaPni0XU9pHUI-36" value="既往相关保单" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="169" y="216" width="100" height="30" as="geometry" />
@@ -1319,13 +1319,16 @@
           <mxGeometry x="160" y="40" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6veVDGmFaPni0XU9pHUI-57" value="代理人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="186" width="60" height="30" as="geometry" />
+          <mxGeometry x="630" y="186" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6veVDGmFaPni0XU9pHUI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6veVDGmFaPni0XU9pHUI-61" target="6veVDGmFaPni0XU9pHUI-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6veVDGmFaPni0XU9pHUI-61" value="Agent" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="614" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oRqke0be7p8o5lC89pMs-10" value="&lt;font color=&quot;#cc0000&quot;&gt;互保&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="186" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
