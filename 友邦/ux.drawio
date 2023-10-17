@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T09:00:25.796Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="e5DGQhpUZGwyl--c0beo" version="22.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-17T09:01:14.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jjEktb_zF4jrf1RyTGM3" version="22.0.4" type="github" pages="8">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1306" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2262,16 +2262,16 @@
           <mxGeometry x="582.5" y="-47.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCM8OzXjLUqmh9AFuHY_-2" value="自保单理赔数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PbZ3OzZ7kNFXJ4yObHbb-1">
-          <mxGeometry x="669.5" y="-43" width="90" height="30" as="geometry" />
+          <mxGeometry x="680" y="-47.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCM8OzXjLUqmh9AFuHY_-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PbZ3OzZ7kNFXJ4yObHbb-1">
-          <mxGeometry x="739.5" y="-43" width="60" height="30" as="geometry" />
+          <mxGeometry x="750" y="-47.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCM8OzXjLUqmh9AFuHY_-4" value="自保单赔付金额" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PbZ3OzZ7kNFXJ4yObHbb-1">
           <mxGeometry x="669.5" y="-5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCM8OzXjLUqmh9AFuHY_-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;10万&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PbZ3OzZ7kNFXJ4yObHbb-1">
-          <mxGeometry x="743.5" y="-5" width="60" height="30" as="geometry" />
+          <mxGeometry x="752.5" y="-5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCM8OzXjLUqmh9AFuHY_-6" value="自保单拒赔金额" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PbZ3OzZ7kNFXJ4yObHbb-1">
           <mxGeometry x="520" y="-5" width="90" height="30" as="geometry" />
