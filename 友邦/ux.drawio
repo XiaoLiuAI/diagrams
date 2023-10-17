@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T09:38:34.850Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PvHwEuIy3qFuNJ9Vlw3b" version="22.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-17T10:11:41.101Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="e6re6OkiFGDVHBjuy_dn" version="22.0.4" type="github" pages="8">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
-    <mxGraphModel dx="1306" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1403" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -889,7 +889,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="虚假关系-家庭页面" id="8OiRHndstGTpmXmIZfLy">
-    <mxGraphModel dx="2013" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="h99sENw2gBb0RiSOKoDo-0" />
         <mxCell id="h99sENw2gBb0RiSOKoDo-1" parent="h99sENw2gBb0RiSOKoDo-0" />
@@ -1170,7 +1170,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ANfsSDlZ9_teiw8PbYH8" name="紧密客群-事中">
-    <mxGraphModel dx="1306" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1403" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1334,7 +1334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="紧密客群-统计" id="wOF0ngeJpTudFFJZwF7_">
-    <mxGraphModel dx="1306" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1403" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RRxamlRVj2NRsF2r0FaA-0" />
         <mxCell id="RRxamlRVj2NRsF2r0FaA-1" parent="RRxamlRVj2NRsF2r0FaA-0" />
@@ -1585,7 +1585,7 @@
           <mxGeometry x="30" y="960" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IiOPjyA2rrzqYpbYo52c-58" value="保单数 ：XXX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
-          <mxGeometry x="40" y="1660" width="130" height="30" as="geometry" />
+          <mxGeometry x="25" y="1070" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IiOPjyA2rrzqYpbYo52c-59" value="理赔数 ：XXX" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
           <mxGeometry x="50" y="1000" width="150" height="30" as="geometry" />
