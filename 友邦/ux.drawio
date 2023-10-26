@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T13:20:55.684Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xO4arsn20BavTBmh1elk" version="22.0.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-26T13:21:52.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="oG2q4hW3ba3X0WCzL_4a" version="22.0.8" type="github" pages="8">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1057" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2424,11 +2424,20 @@
         <mxCell id="u4qfxifcVXgFekWpw92g-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
           <mxGeometry x="254" y="2110" width="636" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u4qfxifcVXgFekWpw92g-2" value="全局指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
+        <mxCell id="u4qfxifcVXgFekWpw92g-2" value="广东指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
           <mxGeometry x="265" y="2125" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u4qfxifcVXgFekWpw92g-3" value="自保保单比例:&amp;nbsp; &amp;nbsp; &amp;nbsp;企图自保保单比例&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 拒保自保保单比例&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 不实告知自保单比例&amp;nbsp; 短期理赔发生&amp;nbsp; &amp;nbsp; &amp;nbsp;理赔金额/保费比例&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;拒赔案件比例&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 件均理赔金额" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
           <mxGeometry x="330" y="2125" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4qfxifcVXgFekWpw92g-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
+          <mxGeometry x="254" y="2680" width="636" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4qfxifcVXgFekWpw92g-5" value="营业部1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
+          <mxGeometry x="265" y="2695" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4qfxifcVXgFekWpw92g-6" value="自保保单比例:&amp;nbsp; &amp;nbsp; &amp;nbsp;企图自保保单比例&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 拒保自保保单比例&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 不实告知自保单比例&amp;nbsp; 短期理赔发生&amp;nbsp; &amp;nbsp; &amp;nbsp;理赔金额/保费比例&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;拒赔案件比例&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 件均理赔金额" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RRxamlRVj2NRsF2r0FaA-1">
+          <mxGeometry x="330" y="2695" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
