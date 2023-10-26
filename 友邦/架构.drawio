@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T01:36:16.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lQ7A-r9TQO727IjSn2MY" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T01:36:44.719Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UG6Ui70LdiSNFZho7eil" version="22.0.8" type="github">
   <diagram name="第 1 页" id="BYEoG6lzsx8tmBMLC_dV">
     <mxGraphModel dx="1972" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w5Dn-mw4ixnfrk4QbpLx-19" value="高风险社群" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w5Dn-mw4ixnfrk4QbpLx-19" value="高风险社群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w5Dn-mw4ixnfrk4QbpLx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w5Dn-mw4ixnfrk4QbpLx-20" target="w5Dn-mw4ixnfrk4QbpLx-3" edge="1">
@@ -139,7 +139,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w5Dn-mw4ixnfrk4QbpLx-20" value="异常退保" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w5Dn-mw4ixnfrk4QbpLx-20" value="异常退保" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="480" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w5Dn-mw4ixnfrk4QbpLx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="w5Dn-mw4ixnfrk4QbpLx-27" target="w5Dn-mw4ixnfrk4QbpLx-3" edge="1">
@@ -182,7 +182,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w5Dn-mw4ixnfrk4QbpLx-43" value="指标计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w5Dn-mw4ixnfrk4QbpLx-43" value="指标计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
