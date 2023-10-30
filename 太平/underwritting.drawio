@@ -1,17 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T01:56:58.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lLf7lF2VFn-DBuG9NyRM" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T01:57:42.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yKbUELPohbJLQfuz6e_O" version="21.8.2" type="github">
   <diagram name="Page-1" id="D61PyfcK58h0UPg5Ae6O">
     <mxGraphModel dx="2074" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CutPcQzICrdOBgq3EssP-1" value="业务人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-970" width="30" height="60" as="geometry" />
+        <mxCell id="CutPcQzICrdOBgq3EssP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CutPcQzICrdOBgq3EssP-1" target="CutPcQzICrdOBgq3EssP-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CutPcQzICrdOBgq3EssP-2" value="核保模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="-960" width="120" height="60" as="geometry" />
+        <mxCell id="CutPcQzICrdOBgq3EssP-6" value="投保单信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CutPcQzICrdOBgq3EssP-4">
+          <mxGeometry x="-0.3286" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CutPcQzICrdOBgq3EssP-1" value="业务人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="-960" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CutPcQzICrdOBgq3EssP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CutPcQzICrdOBgq3EssP-2" target="CutPcQzICrdOBgq3EssP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CutPcQzICrdOBgq3EssP-2" value="风控系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="-960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CutPcQzICrdOBgq3EssP-3" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-970" width="60" height="80" as="geometry" />
+          <mxGeometry x="570" y="-970" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
