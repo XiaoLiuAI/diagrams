@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T02:23:40.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="sH1k9IUBUjtLHKH5oAdr" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T02:51:03.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="snKlPv0X1c0Q14apneFe" version="21.8.2" type="github">
   <diagram name="Page-1" id="D61PyfcK58h0UPg5Ae6O">
     <mxGraphModel dx="2074" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,23 +51,20 @@
             <mxPoint x="39" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CutPcQzICrdOBgq3EssP-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="136.5" y="-710" width="190" height="180" as="geometry" />
+        <mxCell id="CutPcQzICrdOBgq3EssP-22" value="1. 投保单数据添加接口&lt;br&gt;2. 投保单风险接口（基础信息+分数+风险因素列表）&lt;br&gt;3. 核保图谱接口&lt;br&gt;*4. 离线指标计算DAG" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="-500" width="313.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CutPcQzICrdOBgq3EssP-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="CutPcQzICrdOBgq3EssP-21">
-          <mxGeometry width="180" height="180" as="geometry" />
+        <mxCell id="CutPcQzICrdOBgq3EssP-17" value="风险分数（旭日图）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="-661.43" width="108.57142857142857" height="51.42857142857142" as="geometry" />
         </mxCell>
-        <mxCell id="CutPcQzICrdOBgq3EssP-17" value="风险分数（旭日图）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CutPcQzICrdOBgq3EssP-21">
-          <mxGeometry width="108.57142857142857" height="51.42857142857142" as="geometry" />
+        <mxCell id="CutPcQzICrdOBgq3EssP-18" value="风险因素列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245.07" y="-661.43" width="74.93" height="51.43" as="geometry" />
         </mxCell>
-        <mxCell id="CutPcQzICrdOBgq3EssP-18" value="风险因素列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CutPcQzICrdOBgq3EssP-21">
-          <mxGeometry x="108.57142857142857" width="81.42857142857143" height="51.42857142857142" as="geometry" />
+        <mxCell id="CutPcQzICrdOBgq3EssP-19" value="投保单图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="-610" width="183.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CutPcQzICrdOBgq3EssP-19" value="投保单图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CutPcQzICrdOBgq3EssP-21">
-          <mxGeometry y="51.42857142857142" width="190" height="128.57142857142856" as="geometry" />
-        </mxCell>
-        <mxCell id="CutPcQzICrdOBgq3EssP-22" value="1. 投保单数据添加接口&lt;br&gt;2. 投保单风险分数接口（分数+风险因素列表）&lt;br&gt;3. 核保图谱接口&lt;br&gt;*4. 离线指标计算DAG" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="136.5" y="-490" width="253.5" height="70" as="geometry" />
+        <mxCell id="CutPcQzICrdOBgq3EssP-23" value="被保人基础信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="-690" width="183" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
