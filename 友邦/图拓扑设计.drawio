@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T01:38:28.355Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="R5MmDTSPYuMxSSCgCDwq" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-02T01:39:35.424Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="f13UpSjG4ZtiQv4uZ0Ly" version="22.0.8" type="github" pages="4">
   <diagram id="a6eFwLFaf84fWAjscbE_" name="V0">
     <mxGraphModel dx="1306" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2478,7 +2478,7 @@
         </mxCell>
         <mxCell id="HnRxf1TOfIy5f5rGLNZ9-9" value="RECRUIT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HnRxf1TOfIy5f5rGLNZ9-8" vertex="1" connectable="0">
           <mxGeometry x="-0.3" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" y="49" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HnRxf1TOfIy5f5rGLNZ9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="bnYjoaOBcf13e0NpcHrS-1" source="bnYjoaOBcf13e0NpcHrS-95" target="bnYjoaOBcf13e0NpcHrS-95" edge="1">
@@ -2529,6 +2529,22 @@
         </mxCell>
         <mxCell id="GXKOv65dfcftXKXKfEag-0" value="UWApplication&lt;br&gt;核保申请&lt;br&gt;来源：核保" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="bnYjoaOBcf13e0NpcHrS-1" vertex="1">
           <mxGeometry x="747" y="910" width="83" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="1J_--UA5w2BxuBA_f_S5-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.65;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bnYjoaOBcf13e0NpcHrS-1" source="bnYjoaOBcf13e0NpcHrS-31" target="bnYjoaOBcf13e0NpcHrS-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="260" />
+              <mxPoint x="350" y="260" />
+              <mxPoint x="350" y="380" />
+              <mxPoint x="590" y="380" />
+              <mxPoint x="590" y="356" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1J_--UA5w2BxuBA_f_S5-1" value="OFFSRPING" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1J_--UA5w2BxuBA_f_S5-0">
+          <mxGeometry x="-0.0152" y="2" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
