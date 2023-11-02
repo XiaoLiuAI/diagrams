@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T09:26:33.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rkx7gnojxSi6j9oLqplG" version="22.0.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-02T09:36:08.078Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UrRAY-zm1CIIHaGPeXrv" version="22.0.8" type="github" pages="10">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1057" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4180,9 +4180,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L3hW7CYIne5ydBU-tSJ3-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="310" width="120" height="560" as="geometry" />
-        </mxCell>
         <mxCell id="L3hW7CYIne5ydBU-tSJ3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L3hW7CYIne5ydBU-tSJ3-20" target="L3hW7CYIne5ydBU-tSJ3-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -4270,8 +4267,14 @@
         <mxCell id="L3hW7CYIne5ydBU-tSJ3-33" value="评分卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="L3hW7CYIne5ydBU-tSJ3-35">
           <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L3hW7CYIne5ydBU-tSJ3-37" value="主菜单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="520" width="60" height="30" as="geometry" />
+        <mxCell id="L3hW7CYIne5ydBU-tSJ3-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="810" width="120" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="L3hW7CYIne5ydBU-tSJ3-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="810" width="750" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="L3hW7CYIne5ydBU-tSJ3-40" value="主菜单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1090" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
