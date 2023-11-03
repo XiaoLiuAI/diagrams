@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T01:28:14.523Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NdCdidsGq964T7q6BVJJ" version="22.0.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-03T01:59:11.143Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="14g4vyqzgmOSrUSOUtq3" version="22.0.8" type="github" pages="10">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1306" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4176,7 +4176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5wPKPeowkctrU-DAF-OD" name="总体逻辑">
-    <mxGraphModel dx="1306" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1143" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4210,7 +4210,7 @@
         <mxCell id="L3hW7CYIne5ydBU-tSJ3-4" value="紧密客群 统计页" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="270" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L3hW7CYIne5ydBU-tSJ3-8" value="下钻分页&lt;br&gt;&lt;br&gt;趋势图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="L3hW7CYIne5ydBU-tSJ3-8" value="下钻分页&lt;br&gt;&lt;br&gt;趋势图&lt;br&gt;两种组织架构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3hW7CYIne5ydBU-tSJ3-9" value="平铺列表分页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
