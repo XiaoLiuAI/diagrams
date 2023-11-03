@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T03:16:22.866Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Fbp9rliu-dVc3_DvUJsY" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T05:30:35.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Jb_pi1Rbu8NKcCHBzu2q" version="22.0.8" type="github">
   <diagram name="Page-1" id="D61PyfcK58h0UPg5Ae6O">
     <mxGraphModel dx="2074" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -273,6 +273,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UGKIJj4-Mh_hCb-AXwKf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cPBy27_84jMsPGYw7Nv2-9" target="UGKIJj4-Mh_hCb-AXwKf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cPBy27_84jMsPGYw7Nv2-9" value="个人1&lt;br&gt;(Person)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="730" y="1100" width="60" height="60" as="geometry" />
         </mxCell>
@@ -356,6 +359,9 @@
         </mxCell>
         <mxCell id="UGKIJj4-Mh_hCb-AXwKf-11" value="公司&lt;br&gt;(Company)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1240" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UGKIJj4-Mh_hCb-AXwKf-14" value="被保人&lt;br&gt;(Insured)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
