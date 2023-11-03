@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T05:51:30.164Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NtkWSVoRyDcdzkSm62RX" version="22.0.8" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-11-03T10:16:02.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Mpkd8lXqV6SMopT30fhF" version="22.0.8" type="github" pages="11">
   <diagram name="虚假关系-事中" id="_EIdXGqru3powsaVdRE2">
     <mxGraphModel dx="1306" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4183,6 +4183,9 @@
         <mxCell id="L3hW7CYIne5ydBU-tSJ3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="L3hW7CYIne5ydBU-tSJ3-20" target="L3hW7CYIne5ydBU-tSJ3-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aVSBasRE8B4pbDbEcuiJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L3hW7CYIne5ydBU-tSJ3-20" target="aVSBasRE8B4pbDbEcuiJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L3hW7CYIne5ydBU-tSJ3-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="195" width="340" height="290" as="geometry" />
         </mxCell>
@@ -4246,8 +4249,8 @@
         <mxCell id="L3hW7CYIne5ydBU-tSJ3-16" value="家庭case页" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="780" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L3hW7CYIne5ydBU-tSJ3-18" value="代理人case页&lt;br&gt;&lt;br&gt;趋势图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="780" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="L3hW7CYIne5ydBU-tSJ3-18" value="代理人case页&lt;br&gt;（自保/隐形自保）&lt;br&gt;趋势图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="780" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3hW7CYIne5ydBU-tSJ3-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="L3hW7CYIne5ydBU-tSJ3-25" target="L3hW7CYIne5ydBU-tSJ3-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4314,6 +4317,9 @@
         </mxCell>
         <mxCell id="4eS1hOkCmkt9xAj4zqDl-24" value="保单case风险&lt;br&gt;页&lt;br&gt;&lt;br&gt;合并事中的保单展示方式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="540" y="929" width="120" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="aVSBasRE8B4pbDbEcuiJ-1" value="代理人case页&lt;br&gt;（离职售卖）&lt;br&gt;趋势图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="780" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
