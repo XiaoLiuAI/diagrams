@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T07:27:10.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="D-z7_ooAC_IAueWOiJNN" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-03T07:47:07.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OlN-dcvlE18g7XDjKe6g" version="22.0.8" type="github" pages="4">
   <diagram id="a6eFwLFaf84fWAjscbE_" name="V0">
     <mxGraphModel dx="1306" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2457,6 +2457,11 @@
         </mxCell>
         <mxCell id="7ZGt1WhsyvsabVzHKMbd-3" value="HAS_DIAGNOSIS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HnRxf1TOfIy5f5rGLNZ9-0" vertex="1" connectable="0">
           <mxGeometry x="-0.3433" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fikfzyv6wH_nez3YQSHH-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HnRxf1TOfIy5f5rGLNZ9-0">
+          <mxGeometry x="0.5912" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
