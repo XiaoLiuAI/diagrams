@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T03:48:28.359Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zpT_o_un8St1Mhk9v3UD" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-04T03:53:22.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="V4QrF6w06bezxs4OTqqQ" version="22.0.8" type="github" pages="2">
   <diagram name="第 1 页" id="BYEoG6lzsx8tmBMLC_dV">
     <mxGraphModel dx="1993" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -219,9 +219,6 @@
       <root>
         <mxCell id="azIPAxCtZ4HrSflALfX4-0" />
         <mxCell id="azIPAxCtZ4HrSflALfX4-1" parent="azIPAxCtZ4HrSflALfX4-0" />
-        <mxCell id="azIPAxCtZ4HrSflALfX4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="azIPAxCtZ4HrSflALfX4-1">
-          <mxGeometry x="10" y="310" width="690" height="290" as="geometry" />
-        </mxCell>
         <mxCell id="azIPAxCtZ4HrSflALfX4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="azIPAxCtZ4HrSflALfX4-1" source="azIPAxCtZ4HrSflALfX4-4" target="azIPAxCtZ4HrSflALfX4-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -300,10 +297,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="azIPAxCtZ4HrSflALfX4-47" value="代理人打分指标计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="azIPAxCtZ4HrSflALfX4-1">
-          <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="azIPAxCtZ4HrSflALfX4-50" value="同步指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="azIPAxCtZ4HrSflALfX4-1">
-          <mxGeometry x="200" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MyzMu-y5-S0XSCh5_H41-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="azIPAxCtZ4HrSflALfX4-1" source="MyzMu-y5-S0XSCh5_H41-0" target="azIPAxCtZ4HrSflALfX4-6">
           <mxGeometry relative="1" as="geometry" />
@@ -312,7 +309,10 @@
           <mxGeometry x="570" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MyzMu-y5-S0XSCh5_H41-5" value="ECS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="azIPAxCtZ4HrSflALfX4-1">
-          <mxGeometry x="760" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MyzMu-y5-S0XSCh5_H41-6" value="DataWorks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="azIPAxCtZ4HrSflALfX4-1">
+          <mxGeometry x="20" y="250" width="670" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
