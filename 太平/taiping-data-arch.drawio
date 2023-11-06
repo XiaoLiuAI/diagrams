@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T06:37:02.280Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="koJBBQczz7W8JMujjXWt" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T07:12:36.766Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="eumHoMcxT2bnJycGss6n" version="22.0.8" type="github">
   <diagram id="vZpP5Effxj41_VfFe3MK" name="Page-1">
-    <mxGraphModel dx="2924" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1792" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="OfORN7NUINiMixhZLZNA-6" value="T_CONTRACT_PRODUCT&lt;br&gt;item_id&lt;br&gt;&lt;br&gt;bank" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="460" y="480" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OfORN7NUINiMixhZLZNA-7" target="ruRkNZHVnkqH3dk_G1LB-12">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OfORN7NUINiMixhZLZNA-7" target="ruRkNZHVnkqH3dk_G1LB-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="770" y="1245" />
@@ -621,7 +621,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-8" value="T_JOB_CATEGORY&lt;br&gt;job_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="370" y="-360" width="160" height="60" as="geometry" />
+          <mxGeometry x="371" y="-360" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-11" value="T_ADD_CUST_LIST_POLICY&lt;br&gt;&amp;nbsp; 添加万能险的投保单列表&lt;br&gt;pk: list_id&lt;br&gt;policy_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1760" y="310" width="180" height="70" as="geometry" />
@@ -629,7 +629,7 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-12" value="T_POLICY_PROBLEM(问题件)&lt;br&gt;pk: item_id&lt;br&gt;policy_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1750" y="460" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-15" target="ruRkNZHVnkqH3dk_G1LB-23">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIjVFcEKrEzkejblWKOD-15" target="ruRkNZHVnkqH3dk_G1LB-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-15" value="T_RULE_PROBLEM_CONIFG&lt;br&gt;问题模块核保违反规则配置表&lt;br&gt;pk: config_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
@@ -698,7 +698,7 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-46" value="T_CUSTOMER_REPRESENT_DIALOG&lt;br&gt;互动核保记录&lt;br&gt;pk: dialog_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="980" y="-590" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-48" target="OfORN7NUINiMixhZLZNA-35">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIjVFcEKrEzkejblWKOD-48" target="OfORN7NUINiMixhZLZNA-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-48" value="T_SPECIAL_CUSTOMER_GRP_CLAIM&lt;br&gt;团险客户表&lt;br&gt;pk: list_id&lt;br&gt;certi_code&lt;br&gt;gender" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -731,13 +731,13 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="FIjVFcEKrEzkejblWKOD-59" target="OfORN7NUINiMixhZLZNA-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-59" target="FIjVFcEKrEzkejblWKOD-4">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIjVFcEKrEzkejblWKOD-59" target="FIjVFcEKrEzkejblWKOD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIjVFcEKrEzkejblWKOD-59" value="T_POLICY_CHECK&lt;br&gt;体检问题单基本信息表&lt;br&gt;pk: item_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-150" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIjVFcEKrEzkejblWKOD-61" target="OfORN7NUINiMixhZLZNA-7">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIjVFcEKrEzkejblWKOD-61" target="OfORN7NUINiMixhZLZNA-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="590" />
@@ -746,7 +746,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-2" value="internal_id=product_code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ruRkNZHVnkqH3dk_G1LB-1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-2" value="internal_id=product_code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ruRkNZHVnkqH3dk_G1LB-1" vertex="1" connectable="0">
           <mxGeometry x="-0.5152" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -754,58 +754,58 @@
         <mxCell id="FIjVFcEKrEzkejblWKOD-61" value="T_PRODUCT_REPORT&lt;br&gt;新契约模块产品上报表&lt;br&gt;product_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="790" y="630" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-4" target="OfORN7NUINiMixhZLZNA-35">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ruRkNZHVnkqH3dk_G1LB-4" target="OfORN7NUINiMixhZLZNA-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-4" value="T_SPECIAL_CUSTOMER&lt;br&gt;pk: list_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-4" value="T_SPECIAL_CUSTOMER&lt;br&gt;pk: list_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-255" y="-320" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-5" target="FIjVFcEKrEzkejblWKOD-25">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ruRkNZHVnkqH3dk_G1LB-5" target="FIjVFcEKrEzkejblWKOD-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-5" value="T_REPRESENTATION&lt;br&gt;pk: representation_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="-250" width="360" height="80" as="geometry" />
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-5" value="T_REPRESENTATION&lt;br&gt;pk: representation_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2160" y="-250" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-6" target="FIjVFcEKrEzkejblWKOD-59">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ruRkNZHVnkqH3dk_G1LB-6" target="FIjVFcEKrEzkejblWKOD-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-6" value="T_POLICY_CHECK_ITEM&lt;br&gt;体检问题单体检项目信息表&lt;br&gt;pk: check_num, item_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-6" value="T_POLICY_CHECK_ITEM&lt;br&gt;体检问题单体检项目信息表&lt;br&gt;pk: check_num, item_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="2115" y="-650" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-7" target="OfORN7NUINiMixhZLZNA-35">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ruRkNZHVnkqH3dk_G1LB-7" target="OfORN7NUINiMixhZLZNA-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-7" value="T_BAD_CUSTOMER&lt;br&gt;pk: list_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-7" value="T_BAD_CUSTOMER&lt;br&gt;pk: list_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-240" y="-640" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-8" value="T_JOB_UNDERWRITE&lt;br&gt;职业类别与险种职业风险等级关系表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-8" value="T_JOB_UNDERWRITE&lt;br&gt;职业类别与险种职业风险等级关系表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="310" y="-520" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-9" target="FIjVFcEKrEzkejblWKOD-1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ruRkNZHVnkqH3dk_G1LB-9" target="FIjVFcEKrEzkejblWKOD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-9" value="T_APP_INSURED_FIRST&lt;br&gt;pk: policy_id, insured_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-9" value="T_APP_INSURED_FIRST&lt;br&gt;pk: policy_id, insured_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1750" y="-350" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-10" target="FIjVFcEKrEzkejblWKOD-1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ruRkNZHVnkqH3dk_G1LB-10" target="FIjVFcEKrEzkejblWKOD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-10" value="T_POLICY_BENE&lt;br&gt;投保单受益人表&lt;br&gt;pk: bene_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-10" value="T_POLICY_BENE&lt;br&gt;投保单受益人表&lt;br&gt;pk: bene_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1760" y="160" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-11" target="FIjVFcEKrEzkejblWKOD-1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="1" source="ruRkNZHVnkqH3dk_G1LB-11" target="FIjVFcEKrEzkejblWKOD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-11" value="T_TAX_POLICY_APPLY&lt;br&gt;*税优险投保单信息表&lt;br&gt;pk: apply_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-11" value="T_TAX_POLICY_APPLY&lt;br&gt;*税优险投保单信息表&lt;br&gt;pk: apply_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1770" y="-500" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-12" value="T_PRODUCT_STOP_CONFIG&lt;br&gt;*险种停售配置表&lt;br&gt;pk: config_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-12" value="T_PRODUCT_STOP_CONFIG&lt;br&gt;*险种停售配置表&lt;br&gt;pk: config_id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1220" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.431;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ruRkNZHVnkqH3dk_G1LB-8" target="FIjVFcEKrEzkejblWKOD-8">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.431;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ruRkNZHVnkqH3dk_G1LB-8" target="FIjVFcEKrEzkejblWKOD-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ruRkNZHVnkqH3dk_G1LB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ruRkNZHVnkqH3dk_G1LB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
