@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T07:46:17.486Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xzKQjTLFDqGHF4eS07qo" version="22.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-15T08:00:03.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="y7qkLIvW7lfHKwdBr49K" version="22.1.1" type="github" pages="5">
   <diagram id="a6eFwLFaf84fWAjscbE_" name="V0">
     <mxGraphModel dx="1306" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3329,7 +3329,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XOrjZKJwQjdQDSvmrvbJ-1" value="Relation&lt;br&gt;code&lt;br&gt;name&lt;br&gt;olas_code&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="670" y="780" width="110" height="110" as="geometry" />
+          <mxGeometry x="670" y="780" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
