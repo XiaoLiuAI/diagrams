@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T05:35:42.517Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AdlbOZxfFT5cwBLgdcIT" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T05:36:31.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cs6TAdcPrvwnXzuxpnWi" version="22.1.3" type="github">
   <diagram name="Page-1" id="iixCE94_k0CVg3pDkVnW">
     <mxGraphModel dx="829" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,6 +17,18 @@
         <mxCell id="JVpvCBe89nyB4BqPzubv-11" value="赔案数据读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JVpvCBe89nyB4BqPzubv-10">
           <mxGeometry x="0.0301" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVpvCBe89nyB4BqPzubv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVpvCBe89nyB4BqPzubv-1" target="JVpvCBe89nyB4BqPzubv-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="94" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVpvCBe89nyB4BqPzubv-23" value="读取用户数据，&lt;br&gt;计算业务指标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JVpvCBe89nyB4BqPzubv-22">
+          <mxGeometry x="0.2404" y="3" relative="1" as="geometry">
+            <mxPoint x="17" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JVpvCBe89nyB4BqPzubv-1" value="核心&lt;br&gt;镜像库&lt;br&gt;（oracle）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
