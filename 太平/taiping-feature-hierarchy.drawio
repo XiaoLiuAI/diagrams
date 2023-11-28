@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T04:21:42.876Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="NZoa2iSd-O87y5OyvWhq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T04:22:57.975Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gcf25jPlyrxcitmAI8Bt" version="22.1.4" type="github">
   <diagram name="Page-1" id="rm4v-YoGuUnyeOTgBEOt">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TaLjiCh3qOxt_VTophUh-1" value="赔案特征" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-2" value="保单特征" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-3" value="就诊特征" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-5" value="被保人&lt;br&gt;特征" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
