@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T05:39:36.447Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4lWWyooszeUYi6j-wVCw" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T05:41:03.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2pGACKh68mZzfbXKLUAk" version="22.1.4" type="github">
   <diagram name="Page-1" id="rm4v-YoGuUnyeOTgBEOt">
     <mxGraphModel dx="2924" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,6 +44,9 @@
         <mxCell id="TaLjiCh3qOxt_VTophUh-51" value="确定被保人ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-55" target="TaLjiCh3qOxt_VTophUh-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-55" value="拉取赔案数据（SQL）&lt;br&gt;1. case_id&lt;br&gt;2. acc_cat&lt;br&gt;3. acc_result" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="-120" width="120" height="90" as="geometry" />
         </mxCell>
@@ -77,8 +80,8 @@
         <mxCell id="TaLjiCh3qOxt_VTophUh-71" value="拉取就诊数据&lt;br&gt;（Cypher）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-73" value="1. acc_result 事故结果&lt;br&gt;2. acc_cat 事故类型" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-170" width="130" height="30" as="geometry" />
+        <mxCell id="TaLjiCh3qOxt_VTophUh-75" value="生成赔案特征&lt;br&gt;#1. acc_cat&lt;br&gt;#2. acc_result" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-250" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
