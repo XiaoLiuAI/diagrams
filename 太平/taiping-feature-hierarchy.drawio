@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T06:37:59.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lZLY26rbdi9yb6Z5l9WJ" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T06:52:30.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kXQqCMuSkFNkOfWqz2av" version="22.1.4" type="github">
   <diagram name="Page-1" id="rm4v-YoGuUnyeOTgBEOt">
     <mxGraphModel dx="2924" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-51" value="确定被保人ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-55" target="TaLjiCh3qOxt_VTophUh-75">
           <mxGeometry relative="1" as="geometry" />
@@ -98,13 +98,36 @@
           <mxGeometry x="460" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-85" target="TaLjiCh3qOxt_VTophUh-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-85" target="TaLjiCh3qOxt_VTophUh-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-85" value="确定被保人&lt;br&gt;既往赔案ID范围&lt;br&gt;（Oracle）&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;是否可以限制时间？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="545" width="120" height="70" as="geometry" />
+        <mxCell id="TaLjiCh3qOxt_VTophUh-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-85" target="TaLjiCh3qOxt_VTophUh-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="805" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-88" value="拉取就诊数据&lt;br&gt;（Cypher）&lt;br&gt;1. case_id&lt;br&gt;2. cat&lt;br&gt;3. in_days&lt;br&gt;4. bill_amt&lt;br&gt;5. overall_amt&lt;br&gt;6. hospital_name&lt;br&gt;7.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="480" width="120" height="200" as="geometry" />
+        <mxCell id="TaLjiCh3qOxt_VTophUh-85" value="确定被保人&lt;br&gt;既往赔案ID范围&lt;br&gt;（Oracle）&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;是否可以限制时间？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="645" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-88" value="拉取就诊数据&lt;br&gt;（Cypher）&lt;br&gt;1. case_id&lt;br&gt;2. cat&lt;br&gt;3. in_days&lt;br&gt;4. bill_amt&lt;br&gt;5. hospital_name&lt;br&gt;6. icds" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-90" value="拉取赔案数据&lt;br&gt;（Cypher）&lt;br&gt;1. case_id&lt;br&gt;2. risky&lt;br&gt;3. pay_amount" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="637.5" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-91" value="拉取被保人数据&lt;br&gt;（Cypher）&lt;br&gt;1. customer_id&lt;br&gt;2. age&lt;br&gt;3. gender" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-97" value="计算被保人既往就诊指标&lt;br&gt;#.&amp;nbsp;past_icds&lt;br&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;JuH0dbXKDorcfQx0ftecNapXn7f&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;past_icds&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+9&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7229941313783775233&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:1380,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:9},&amp;quot;recordId&amp;quot;:&amp;quot;JKndd94Onoa1UVxHOv9cYnPjn0b&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="530" width="200" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
