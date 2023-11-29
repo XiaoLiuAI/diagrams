@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T05:41:03.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2pGACKh68mZzfbXKLUAk" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T05:55:21.778Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="v1083rxBtCDDofwDk9o-" version="22.1.4" type="github">
   <diagram name="Page-1" id="rm4v-YoGuUnyeOTgBEOt">
     <mxGraphModel dx="2924" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,15 +7,15 @@
         <mxCell id="TaLjiCh3qOxt_VTophUh-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-44" target="TaLjiCh3qOxt_VTophUh-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-44" target="TaLjiCh3qOxt_VTophUh-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="170" y="-90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-44" target="TaLjiCh3qOxt_VTophUh-71">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-44" target="TaLjiCh3qOxt_VTophUh-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="-95" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-44" value="确定赔案ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="70" width="120" height="60" as="geometry" />
@@ -30,31 +30,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-49" value="确定保单ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-50" target="TaLjiCh3qOxt_VTophUh-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-50" value="确定代理人ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-51" target="TaLjiCh3qOxt_VTophUh-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-51" value="确定被保人ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-55" target="TaLjiCh3qOxt_VTophUh-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-55" value="拉取赔案数据（SQL）&lt;br&gt;1. case_id&lt;br&gt;2. acc_cat&lt;br&gt;3. acc_result" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-120" width="120" height="90" as="geometry" />
+          <mxGeometry x="290" y="-140" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-57" target="TaLjiCh3qOxt_VTophUh-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-57" value="拉取保单数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-59" target="TaLjiCh3qOxt_VTophUh-67">
           <mxGeometry relative="1" as="geometry" />
@@ -63,25 +63,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-59" value="拉取代理人数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-61" value="拉取被保人数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-63" value="计算保单特征" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-67" value="Oracle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-50" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-68" value="Neo4j" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-71" value="拉取就诊数据&lt;br&gt;（Cypher）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-10" width="120" height="60" as="geometry" />
+        <mxCell id="TaLjiCh3qOxt_VTophUh-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-71" target="TaLjiCh3qOxt_VTophUh-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-71" value="拉取就诊数据&lt;br&gt;（Cypher）&lt;br&gt;1. case_id&lt;br&gt;2. cat&lt;br&gt;3. in_days&lt;br&gt;4. bill_amt&lt;br&gt;5. overall_amt&lt;br&gt;6. hospital_code" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-75" value="生成赔案特征&lt;br&gt;#1. acc_cat&lt;br&gt;#2. acc_result" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-250" width="120" height="90" as="geometry" />
+          <mxGeometry x="290" y="-270" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-78" value="计算就诊指标&lt;br&gt;#24. num_admissions&lt;br&gt;#25.&amp;nbsp;num_inhosp&lt;br&gt;#26.&amp;nbsp;total_in_hosp_days&lt;br&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;JuH0dbXKDorcfQx0ftecNapXn7f&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;total_in_hosp_days&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+i&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7229941313783775233&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:1042,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:18},&amp;quot;recordId&amp;quot;:&amp;quot;NjemdxBx4odlRmxPZQtc3OZ7nkI&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;#27.&amp;nbsp;num_clinic_visit&lt;br&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;JuH0dbXKDorcfQx0ftecNapXn7f&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;num_clinic_visit&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+g&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7229941313783775233&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:1025,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:16},&amp;quot;recordId&amp;quot;:&amp;quot;GyXYdImeZo9HLtxAgxRcDdfhnJR&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;#28.&amp;nbsp;total_bill_amt&lt;br&gt;&lt;/span&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;JuH0dbXKDorcfQx0ftecNapXn7f&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;total_bill_amt&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+e&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7229941313783775233&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:938,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:14},&amp;quot;recordId&amp;quot;:&amp;quot;RtrmdOxbtoQRkZxrf4FcQpGgnzb&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;#29.&amp;nbsp;total_overall_amt&lt;br&gt;&lt;/span&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;JuH0dbXKDorcfQx0ftecNapXn7f&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;total_overall_amt&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+h&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7229941313783775233&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:943,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:17},&amp;quot;recordId&amp;quot;:&amp;quot;R6Gud4OJZoFb93xR7VxcJ8cEnRc&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;#30.&amp;nbsp;avg_cost_per_day&lt;/span&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;JuH0dbXKDorcfQx0ftecNapXn7f&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;avg_cost_per_day&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+g&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7229941313783775233&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:1047,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:16},&amp;quot;recordId&amp;quot;:&amp;quot;FaFtdruKPoXUrsxmNTUcYr6Znod&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-79" target="TaLjiCh3qOxt_VTophUh-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-79" value="拉取医院数据&lt;br&gt;（Oracle）&lt;br&gt;1. hospital_code&lt;br&gt;2. hospital_nature&lt;br&gt;3. hospital_level" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
