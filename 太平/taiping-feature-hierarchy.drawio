@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T05:25:36.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BRBhZLEMgN-TOUSt2Y7h" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T05:26:25.746Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="A363NEzJTZWtEdYbrKPw" version="22.1.4" type="github">
   <diagram name="Page-1" id="rm4v-YoGuUnyeOTgBEOt">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TaLjiCh3qOxt_VTophUh-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-44" target="TaLjiCh3qOxt_VTophUh-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-44" target="TaLjiCh3qOxt_VTophUh-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-44" value="确定赔案ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-51" value="确定被保人ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-55" value="计算赔案/就诊特征" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
