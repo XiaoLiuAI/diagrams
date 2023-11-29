@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T03:21:46.539Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jexFX9fjuAiSRt_u-omJ" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T05:18:16.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AZoRQaccTZ2tOzatQmnO" version="22.1.4" type="github">
   <diagram name="Page-1" id="rm4v-YoGuUnyeOTgBEOt">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TaLjiCh3qOxt_VTophUh-38" value="保单特征" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="70" height="70" as="geometry" />
+        <mxCell id="TaLjiCh3qOxt_VTophUh-44" value="确定赔案ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-39" value="保单" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="160" width="70" height="70" as="geometry" />
+        <mxCell id="TaLjiCh3qOxt_VTophUh-49" value="确定保单ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-50" value="确定代理人ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-51" value="确定被保人ID范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="645" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
