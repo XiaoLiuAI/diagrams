@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T07:04:36.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="G7YN412DmDHc8s5JI62J" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T02:31:20.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="G6DuQKNIvaCE0B0knNM4" version="22.1.4" type="github">
   <diagram name="Page-1" id="rm4v-YoGuUnyeOTgBEOt">
     <mxGraphModel dx="2924" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,16 +17,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-44" target="TaLjiCh3qOxt_VTophUh-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-44" value="确定赔案ID范围" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="110" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-49" target="TaLjiCh3qOxt_VTophUh-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-49" target="TaLjiCh3qOxt_VTophUh-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-49" target="TaLjiCh3qOxt_VTophUh-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-49" value="确定保单ID范围" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -168,6 +165,9 @@
           <mxGeometry x="-445" y="890" width="190" height="240" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-114" target="TaLjiCh3qOxt_VTophUh-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.05;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-44" target="TaLjiCh3qOxt_VTophUh-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
