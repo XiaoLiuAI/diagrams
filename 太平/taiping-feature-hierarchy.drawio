@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T02:39:09.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="61AxbjIrOSD-zjHXZyq1" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T03:33:24.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Q8aGKhR9WbnJQlO-gz1W" version="22.1.4" type="github">
   <diagram name="Page-1" id="rm4v-YoGuUnyeOTgBEOt">
     <mxGraphModel dx="2924" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,12 +18,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-44" target="TaLjiCh3qOxt_VTophUh-50">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="340" />
+              <mxPoint x="-210" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-44" value="确定赔案ID范围" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="110" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-49" target="TaLjiCh3qOxt_VTophUh-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaLjiCh3qOxt_VTophUh-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-49" target="TaLjiCh3qOxt_VTophUh-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-49" value="确定保单ID范围" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -79,7 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-79" value="拉取医院数据&lt;br&gt;（Oracle）&lt;br&gt;1. hospital_code&lt;br&gt;2. hospital_nature&lt;br&gt;3. hospital_level" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="TaLjiCh3qOxt_VTophUh-79" value="拉取医院数据&lt;br&gt;（Oracle）&lt;br&gt;1. hospital_code&lt;br&gt;2. hospital_nature&lt;br&gt;3. hospital_level" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="460" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-85" target="TaLjiCh3qOxt_VTophUh-88">
@@ -99,7 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-85" value="确定被保人&lt;br&gt;既往赔案ID范围&lt;br&gt;（Oracle）&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;是否可以限制时间？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TaLjiCh3qOxt_VTophUh-85" value="确定被保人&lt;br&gt;既往赔案ID范围&lt;br&gt;（Oracle）&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;是否可以限制时间？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="365" y="640" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-88" target="TaLjiCh3qOxt_VTophUh-97">
@@ -165,9 +173,6 @@
           <mxGeometry x="-445" y="890" width="190" height="240" as="geometry" />
         </mxCell>
         <mxCell id="TaLjiCh3qOxt_VTophUh-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-114" target="TaLjiCh3qOxt_VTophUh-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TaLjiCh3qOxt_VTophUh-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.05;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TaLjiCh3qOxt_VTophUh-44" target="TaLjiCh3qOxt_VTophUh-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
