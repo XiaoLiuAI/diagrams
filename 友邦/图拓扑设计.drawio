@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T03:46:35.275Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wIWxxtQHjl24zF5JfQj_" version="22.1.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-03T04:24:20.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ByN_j2mH1fS0kC50jvEr" version="22.1.5" type="github" pages="8">
   <diagram id="a6eFwLFaf84fWAjscbE_" name="V0">
     <mxGraphModel dx="1306" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4210,7 +4210,7 @@
         <mxCell id="8xsv1Hn9n94dy0Px5sZH-38" value="隐私问题：假如A，B事实上已经离婚&lt;br&gt;向A查证A与P，Q的亲属关系，涉嫌向A透漏前妻B在下一段婚姻中的生育情况&lt;br&gt;如果不能查证，提示的意义是什么？从风险管控角度来说，这个信息是有参考意义的，可是该怎么用尚需探讨.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="560" width="320" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="rQmWxP56UGY_KlBNn0ip-1" value="虽然说我们的目的是为了业务风控服务，不是为了做人口管理. 但是从异常的家庭关系出发，所发现的业务上也异常的情况，仍然要回到处理手段上去.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rQmWxP56UGY_KlBNn0ip-1" value="虽然说我们的目的是为了业务风控服务，不是为了做人口管理. 但是从异常的家庭关系出发，所发现的业务上也异常的情况，仍然要回到处理手段上去.&amp;nbsp;&lt;br&gt;&lt;br&gt;推导关系本身没有直接保单，如何验证. 如何绕开隐私问题.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="680" width="320" height="85" as="geometry" />
         </mxCell>
       </root>
