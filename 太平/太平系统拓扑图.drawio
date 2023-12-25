@@ -1,9 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T02:02:51.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="eKa_THHlWYnNZXZNaxbx" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T02:32:21.236Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QvOxmenRMy5U9DPJMS3a" version="22.1.11" type="github">
   <diagram name="Page-1" id="9Yc-tKIoXdwYBSXb0uP9">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJJHLhjgZiSDweOf7WcP-1" target="aJJHLhjgZiSDweOf7WcP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-10" value="白名单控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aJJHLhjgZiSDweOf7WcP-7">
+          <mxGeometry x="-0.0545" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-1" value="业务用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJJHLhjgZiSDweOf7WcP-2" target="aJJHLhjgZiSDweOf7WcP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-2" value="前端服务&lt;br&gt;10.25.3.6.60-61&lt;br&gt;端口：88-92" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="325" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJJHLhjgZiSDweOf7WcP-3" target="aJJHLhjgZiSDweOf7WcP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-3" value="后端服务&lt;br&gt;10.25.3.6.60-61" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="325" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-4" value="Neo4j图数据库&lt;br&gt;10.25.3.6.60-61" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="150" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJJHLhjgZiSDweOf7WcP-5" target="aJJHLhjgZiSDweOf7WcP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-21" value="只读单向访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aJJHLhjgZiSDweOf7WcP-20">
+          <mxGeometry x="-0.0727" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aJJHLhjgZiSDweOf7WcP-5" target="aJJHLhjgZiSDweOf7WcP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-5" value="Airflow ETL服务&lt;br&gt;10.25.3.6.62" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="330" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aJJHLhjgZiSDweOf7WcP-6" value="Oracle数据库集群&lt;br&gt;10.25.47.11&lt;br&gt;10.25.47.15" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="150" width="130" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
