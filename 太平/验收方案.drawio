@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T05:54:02.706Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="D9iW5o3gzwUGXZJa1O4l" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T05:56:19.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fwb6_-a3aeGPNbLvW_yp" version="22.1.17" type="github">
   <diagram name="Page-1" id="KHW0duenWgythrrd411L">
     <mxGraphModel dx="2924" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -408,7 +408,7 @@
             <mxRectangle width="20" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_Brn1MRhOEsXT1aJHYd-120" value="标签结果文件" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="S_Brn1MRhOEsXT1aJHYd-120" value="标签结果对比文件" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-130" y="960" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="S_Brn1MRhOEsXT1aJHYd-121" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="S_Brn1MRhOEsXT1aJHYd-120">
@@ -424,7 +424,7 @@
             <mxRectangle width="76" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_Brn1MRhOEsXT1aJHYd-124" value="投保日期" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="S_Brn1MRhOEsXT1aJHYd-121">
+        <mxCell id="S_Brn1MRhOEsXT1aJHYd-124" value="模型标签" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="S_Brn1MRhOEsXT1aJHYd-121">
           <mxGeometry x="153" width="77" height="40" as="geometry">
             <mxRectangle width="77" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -442,7 +442,7 @@
             <mxRectangle width="76" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_Brn1MRhOEsXT1aJHYd-128" value="xxxx-xx-xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="S_Brn1MRhOEsXT1aJHYd-125">
+        <mxCell id="S_Brn1MRhOEsXT1aJHYd-128" value="True" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="S_Brn1MRhOEsXT1aJHYd-125">
           <mxGeometry x="153" width="77" height="40" as="geometry">
             <mxRectangle width="77" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -460,7 +460,7 @@
             <mxRectangle width="76" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_Brn1MRhOEsXT1aJHYd-132" value="xxxx-xx-xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="S_Brn1MRhOEsXT1aJHYd-129">
+        <mxCell id="S_Brn1MRhOEsXT1aJHYd-132" value="False" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="S_Brn1MRhOEsXT1aJHYd-129">
           <mxGeometry x="153" width="77" height="40" as="geometry">
             <mxRectangle width="77" height="40" as="alternateBounds" />
           </mxGeometry>
