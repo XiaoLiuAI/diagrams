@@ -1,17 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T05:40:53.008Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ELhP4n1-C3oSEueQpwsp" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T05:44:17.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Q2Ah2MbJRFsvqz3gH_tY" version="22.1.17" type="github">
   <diagram name="Page-1" id="fm-RTBIMuhjhwVvVDZ4T">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZeeq1Ep2B6I5uy3VTGd-1" target="JZeeq1Ep2B6I5uy3VTGd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-7" value="执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JZeeq1Ep2B6I5uy3VTGd-6">
+          <mxGeometry x="0.1148" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JZeeq1Ep2B6I5uy3VTGd-1" value="任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="110" height="60" as="geometry" />
+          <mxGeometry x="100" y="230" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JZeeq1Ep2B6I5uy3VTGd-2" value="&lt;h1&gt;任务属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 名称&lt;/p&gt;&lt;p&gt;- 周期&lt;/p&gt;&lt;p&gt;- 描述&lt;/p&gt;&lt;p&gt;- 数据类型（药品、耗材、服务、机构）&lt;/p&gt;&lt;p&gt;- 区域/部门&lt;/p&gt;&lt;p&gt;- 区域代码/部门缩写&lt;/p&gt;&lt;p&gt;- 关联数据集ID&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="140" width="230" height="260" as="geometry" />
         </mxCell>
         <mxCell id="JZeeq1Ep2B6I5uy3VTGd-4" value="任务实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="520" width="110" height="60" as="geometry" />
+          <mxGeometry x="100" y="560" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JZeeq1Ep2B6I5uy3VTGd-5" value="&lt;h1&gt;任务实例属性&lt;/h1&gt;&lt;p&gt;- 任务ID&lt;/p&gt;&lt;p&gt;- 执行时间&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 任务实例状态（执行中、异常、成功）&lt;/p&gt;&lt;p&gt;- 执行人&lt;/p&gt;&lt;p&gt;- 结果数据集实例ID&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="500" width="230" height="180" as="geometry" />
