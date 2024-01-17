@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T06:12:56.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="roY2IKJQdfYVf6asVzO_" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T06:16:44.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YxK55adz6S6jl59zmGqm" version="22.1.17" type="github">
   <diagram name="Page-1" id="fm-RTBIMuhjhwVvVDZ4T">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,6 +71,20 @@
           <mxGeometry x="0.1808" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-25" value="任务监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZeeq1Ep2B6I5uy3VTGd-4" target="JZeeq1Ep2B6I5uy3VTGd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-27" value="汇总聚合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JZeeq1Ep2B6I5uy3VTGd-26">
+          <mxGeometry x="0.0571" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-31" value="&lt;h1&gt;任务监控指标&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 失效数据集&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 异常任务&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="790" width="190" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
