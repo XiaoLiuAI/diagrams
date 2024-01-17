@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T06:29:23.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5w9lJhowWcexZjRG_sVb" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T07:52:06.408Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="a-3p-GSAfggc3GqfcPy4" version="22.1.17" type="github">
   <diagram name="Page-1" id="fm-RTBIMuhjhwVvVDZ4T">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="JZeeq1Ep2B6I5uy3VTGd-16" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="580" y="140" width="380" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-8" value="数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-16">
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-8" value="数据集Meta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-16">
           <mxGeometry y="100" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JZeeq1Ep2B6I5uy3VTGd-9" value="&lt;h1&gt;数据集属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 名称&lt;/p&gt;&lt;p&gt;- 有效期&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 列集合&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 区域/部门&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 区域代码/部门缩写&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 数据类型（药品、耗材、服务、机构）&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 当前状态（失效/有效/异常）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-16">
