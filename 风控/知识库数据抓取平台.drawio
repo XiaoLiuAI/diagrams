@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T06:08:52.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5Phfu7cSqHAlyDfLsBlH" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T06:12:56.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="roY2IKJQdfYVf6asVzO_" version="22.1.17" type="github">
   <diagram name="Page-1" id="fm-RTBIMuhjhwVvVDZ4T">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,26 +12,65 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-1" value="任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="230" width="110" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="JZeeq1Ep2B6I5uy3VTGd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="JZeeq1Ep2B6I5uy3VTGd-2" target="JZeeq1Ep2B6I5uy3VTGd-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-2" value="&lt;h1&gt;任务属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 名称&lt;/p&gt;&lt;p&gt;- 执行周期&lt;/p&gt;&lt;p&gt;- 描述&lt;/p&gt;&lt;p&gt;- 关联数据集ID&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="175" width="230" height="190" as="geometry" />
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-11" value="关联" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JZeeq1Ep2B6I5uy3VTGd-10">
+          <mxGeometry x="-0.3818" y="6" relative="1" as="geometry">
+            <mxPoint x="16" y="6" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-4" value="任务实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="560" width="110" height="60" as="geometry" />
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="175" width="370" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-5" value="&lt;h1&gt;任务实例属性&lt;/h1&gt;&lt;p&gt;- 任务ID&lt;/p&gt;&lt;p&gt;- 执行时间&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 任务实例状态（执行中、异常、成功）&lt;/p&gt;&lt;p&gt;- 执行人&lt;/p&gt;&lt;p&gt;- 结果数据集实例ID&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="500" width="230" height="180" as="geometry" />
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-1" value="任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-15">
+          <mxGeometry y="55" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-8" value="数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="240" width="110" height="60" as="geometry" />
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-2" value="&lt;h1&gt;任务属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 名称&lt;/p&gt;&lt;p&gt;- 执行周期&lt;/p&gt;&lt;p&gt;- 描述&lt;/p&gt;&lt;p&gt;- 关联数据集ID&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-15">
+          <mxGeometry x="140" width="230" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-9" value="&lt;h1&gt;数据集属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 名称&lt;/p&gt;&lt;p&gt;- 有效期&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 列集合&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 区域/部门&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 区域代码/部门缩写&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 数据类型（药品、耗材、服务、机构）&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 当前状态（失效/有效/异常）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="140" width="230" height="260" as="geometry" />
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="140" width="380" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-8" value="数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-16">
+          <mxGeometry y="100" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-9" value="&lt;h1&gt;数据集属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 名称&lt;/p&gt;&lt;p&gt;- 有效期&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 列集合&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 区域/部门&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 区域代码/部门缩写&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 数据类型（药品、耗材、服务、机构）&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 当前状态（失效/有效/异常）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-16">
+          <mxGeometry x="150" width="230" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="500" width="390" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-4" value="任务实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-17">
+          <mxGeometry y="60" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-5" value="&lt;h1&gt;任务实例属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 任务ID&lt;/p&gt;&lt;p&gt;- 执行时间&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 任务实例状态（执行中、异常、成功）&lt;/p&gt;&lt;p&gt;- 执行人&lt;/p&gt;&lt;p&gt;- 结果数据集实例ID&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-17">
+          <mxGeometry x="160" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="460" width="380" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-13" value="数据集实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-18">
+          <mxGeometry y="100" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-14" value="&lt;h1&gt;数据集实例属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 数据集ID&lt;/p&gt;&lt;p&gt;- 名称&lt;/p&gt;&lt;p&gt;- 有效期&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 当前状态（失效/有效/异常）&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 文件地址&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="JZeeq1Ep2B6I5uy3VTGd-18">
+          <mxGeometry x="150" width="230" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZeeq1Ep2B6I5uy3VTGd-5" target="JZeeq1Ep2B6I5uy3VTGd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-21" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JZeeq1Ep2B6I5uy3VTGd-20">
+          <mxGeometry x="-0.1778" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZeeq1Ep2B6I5uy3VTGd-8" target="JZeeq1Ep2B6I5uy3VTGd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZeeq1Ep2B6I5uy3VTGd-23" value="校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JZeeq1Ep2B6I5uy3VTGd-22">
+          <mxGeometry x="0.1808" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
