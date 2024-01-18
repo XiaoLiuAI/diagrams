@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T11:14:36.376Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hf5iowlYcsaRtKZ9Iaim" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T11:32:05.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Z0Ac0PfJDHCH7uc5FHkR" version="22.1.20" type="github">
   <diagram name="Page-1" id="fm-RTBIMuhjhwVvVDZ4T">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -158,8 +158,8 @@
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-17" value="数据集的存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1630" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-18" value="任务实例的存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="70" width="120" height="30" as="geometry" />
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-18" value="airflow自身的数据库用于任务实例的存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1461.92" y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 任务实例查询&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. 数据集管理（不允许删除）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. 手动任务的触发&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="410" width="250" height="80" as="geometry" />
@@ -191,7 +191,7 @@
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-35" value="抓取探针" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-37" value="根据时间戳、版本ID、数据行数判断是否具备抓取的必要" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-37" value="根据失效时间戳、版本ID、数据行数判断是否具备抓取的必要" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1405.46" y="835" width="354.54" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;curved=1;" edge="1" parent="1">
@@ -247,6 +247,12 @@
         </mxCell>
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-57" value="总数，删除数，更新数，新增数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1515" width="184.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-58" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.reverse_proxy;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="140" width="41" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-59" value="拉取时最好套一层高匿代理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1201.28" y="220" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
