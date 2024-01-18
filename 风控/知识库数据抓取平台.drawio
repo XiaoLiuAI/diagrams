@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T08:01:29.382Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3SrBeDY4Bf_Fi2Lhw-D8" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T08:03:21.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ywgb_Gkw25q8ndlwBd7B" version="22.1.20" type="github">
   <diagram name="Page-1" id="fm-RTBIMuhjhwVvVDZ4T">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,8 +123,26 @@
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/b/ba/Database-postgres.svg;" vertex="1" parent="1">
           <mxGeometry x="1370" y="130" width="91.92" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z2KrrNzIPh_LQ8jxCqMD-5" target="Z2KrrNzIPh_LQ8jxCqMD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z2KrrNzIPh_LQ8jxCqMD-5" target="Z2KrrNzIPh_LQ8jxCqMD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cwiki.apache.org/confluence/download/attachments/145723561/wordmark_1.png?api=v2;" vertex="1" parent="1">
           <mxGeometry x="1351.28" y="315" width="129.36" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z2KrrNzIPh_LQ8jxCqMD-7" target="Z2KrrNzIPh_LQ8jxCqMD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png;" vertex="1" parent="1">
+          <mxGeometry x="1318.92" y="420" width="194.07" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-11" value="OSS存储" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/Web_website_favorite_site_star-128.png" vertex="1" parent="1">
+          <mxGeometry x="1366.46" y="550" width="99" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
