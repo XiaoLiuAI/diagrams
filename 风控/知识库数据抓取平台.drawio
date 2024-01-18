@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T08:44:09.042Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hLqxBwfyJzKFTnI-f7H3" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T08:46:56.155Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PhWzAhYVpdMxk1SJrhBx" version="22.1.20" type="github">
   <diagram name="Page-1" id="fm-RTBIMuhjhwVvVDZ4T">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z2KrrNzIPh_LQ8jxCqMD-5" target="Z2KrrNzIPh_LQ8jxCqMD-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z2KrrNzIPh_LQ8jxCqMD-5" target="Z2KrrNzIPh_LQ8jxCqMD-11">
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z2KrrNzIPh_LQ8jxCqMD-5" target="Z2KrrNzIPh_LQ8jxCqMD-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cwiki.apache.org/confluence/download/attachments/145723561/wordmark_1.png?api=v2;" vertex="1" parent="1">
@@ -139,7 +139,7 @@
           <mxGeometry x="1318.92" y="420" width="194.07" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-11" value="OSS存储" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="1630" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/Web_website_favorite_site_star-128.png" vertex="1" parent="1">
           <mxGeometry x="1366.46" y="550" width="99" height="99" as="geometry" />
@@ -148,13 +148,34 @@
           <mxGeometry x="1198.92" y="325" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-17" value="数据集的存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="260" width="120" height="30" as="geometry" />
+          <mxGeometry x="1630" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-18" value="任务实例的存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1246.46" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 任务实例查询&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. 数据集管理（不允许删除）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. 手动任务的触发&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="410" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z2KrrNzIPh_LQ8jxCqMD-21" target="Z2KrrNzIPh_LQ8jxCqMD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-21" value="数据源" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="770" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z2KrrNzIPh_LQ8jxCqMD-22" target="Z2KrrNzIPh_LQ8jxCqMD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-22" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cwiki.apache.org/confluence/download/attachments/145723561/wordmark_1.png?api=v2;" vertex="1" parent="1">
+          <mxGeometry x="1250.64" y="785" width="129.36" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-24" value="OSS存储" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-26" value="数据集&lt;br&gt;统计信息" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="355" width="75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2KrrNzIPh_LQ8jxCqMD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="Z2KrrNzIPh_LQ8jxCqMD-5" target="Z2KrrNzIPh_LQ8jxCqMD-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
