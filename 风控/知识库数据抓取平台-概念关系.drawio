@@ -1,9 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T06:14:54.403Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.21" etag="LEMXiPprWM8sPlKXEAcq" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T06:15:10.700Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Dc8xMV8a8Qwmv7zOHnW4" version="22.1.21" type="github">
   <diagram name="Page-1" id="b5hPrGGYxWc7cZ5PRPd1">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2FMNZ2Ji8rpxw8E8OkNt-6" target="2FMNZ2Ji8rpxw8E8OkNt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-2" value="执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2FMNZ2Ji8rpxw8E8OkNt-1">
+          <mxGeometry x="0.1148" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="2FMNZ2Ji8rpxw8E8OkNt-7" target="2FMNZ2Ji8rpxw8E8OkNt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-4" value="关联" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2FMNZ2Ji8rpxw8E8OkNt-3">
+          <mxGeometry x="-0.3818" y="6" relative="1" as="geometry">
+            <mxPoint x="16" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="175" width="370" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-6" value="任务&lt;br&gt;（Operator）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2FMNZ2Ji8rpxw8E8OkNt-5">
+          <mxGeometry y="55" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-7" value="&lt;h1&gt;任务属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 名称&lt;/p&gt;&lt;p&gt;- 执行周期&lt;/p&gt;&lt;p&gt;- 描述&lt;/p&gt;&lt;p&gt;- 关联数据集模板ID&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="2FMNZ2Ji8rpxw8E8OkNt-5">
+          <mxGeometry x="140" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="140" width="380" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-9" value="数据集模版&lt;br&gt;（DataModel）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2FMNZ2Ji8rpxw8E8OkNt-8">
+          <mxGeometry y="100" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-10" value="&lt;h1&gt;数据集模版属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 名称&lt;/p&gt;&lt;p&gt;- 有效期&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 校验规则&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 区域/部门&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 区域代码/部门缩写&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 数据类型（药品、耗材、服务、机构）&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 当前状态（失效/有效/异常）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="2FMNZ2Ji8rpxw8E8OkNt-8">
+          <mxGeometry x="150" width="230" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="500" width="390" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-12" value="任务实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2FMNZ2Ji8rpxw8E8OkNt-11">
+          <mxGeometry y="70" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-13" value="&lt;h1&gt;任务实例属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 任务ID&lt;/p&gt;&lt;p&gt;- 执行时间&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 任务实例状态（执行中、异常、成功）&lt;/p&gt;&lt;p&gt;&amp;nbsp;- 执行人&lt;/p&gt;&lt;p&gt;- 结果数据集ID&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="2FMNZ2Ji8rpxw8E8OkNt-11">
+          <mxGeometry x="160" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="475" width="380" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-15" value="数据集&lt;br&gt;（Parquet+Excel）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2FMNZ2Ji8rpxw8E8OkNt-14">
+          <mxGeometry y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-16" value="&lt;h1&gt;数据集属性&lt;/h1&gt;&lt;p&gt;- ID&lt;/p&gt;&lt;p&gt;- 数据集模版ID&lt;/p&gt;&lt;p&gt;- 名称&lt;/p&gt;&lt;p&gt;- 创建时间&lt;/p&gt;&lt;p&gt;- 有效期&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 当前状态（失效/有效/异常）&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- 文件地址&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="2FMNZ2Ji8rpxw8E8OkNt-14">
+          <mxGeometry x="150" width="230" height="385.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2FMNZ2Ji8rpxw8E8OkNt-13" target="2FMNZ2Ji8rpxw8E8OkNt-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="631" />
+              <mxPoint x="510" y="631" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-18" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2FMNZ2Ji8rpxw8E8OkNt-17">
+          <mxGeometry x="-0.1778" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2FMNZ2Ji8rpxw8E8OkNt-9" target="2FMNZ2Ji8rpxw8E8OkNt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-20" value="校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2FMNZ2Ji8rpxw8E8OkNt-19">
+          <mxGeometry x="0.1808" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-21" value="数据监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2FMNZ2Ji8rpxw8E8OkNt-12" target="2FMNZ2Ji8rpxw8E8OkNt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-23" value="汇总聚合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2FMNZ2Ji8rpxw8E8OkNt-22">
+          <mxGeometry x="0.0571" y="3" relative="1" as="geometry">
+            <mxPoint x="-38" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2FMNZ2Ji8rpxw8E8OkNt-26" target="2FMNZ2Ji8rpxw8E8OkNt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2FMNZ2Ji8rpxw8E8OkNt-26" target="2FMNZ2Ji8rpxw8E8OkNt-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-26" value="&lt;h1&gt;监控指标&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 失效数据集&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 异常任务&lt;/p&gt;&lt;p&gt;- 更新状态&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="810" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-27" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="490" y="790" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icons.veryicon.com/png/o/internet--web/color-social-media-icon/ding.png;" vertex="1" parent="1">
+          <mxGeometry x="490" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-29" value="邮件日报" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="795" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-30" value="钉钉告警" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="895" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2FMNZ2Ji8rpxw8E8OkNt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2FMNZ2Ji8rpxw8E8OkNt-15" target="2FMNZ2Ji8rpxw8E8OkNt-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="635" y="720" />
+              <mxPoint x="155" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
