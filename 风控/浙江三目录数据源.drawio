@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T09:07:56.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="s_lXw3gIpvVCls49qSah" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T09:24:12.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="kTnrcrG256ffEy5peG6G" version="22.1.21" type="github">
   <diagram name="Page-1" id="BYAd6YRiUkzF32hPVrgd">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,6 +15,12 @@
         </mxCell>
         <mxCell id="m9JA2agfg_9Ffgb6oEko-7" value="政策文件，只有比例，没有目录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="60" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-8" value="医保药品目录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-9" value="药品目录，只有目录，没有比例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="510" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
