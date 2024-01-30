@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T08:58:05.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="akg740wLLLwpD-hEmHyX" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T08:58:57.518Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jhm32sUKZ0jJolzvvKSY" version="22.1.21" type="github">
   <diagram name="Page-1" id="BYAd6YRiUkzF32hPVrgd">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="150" y="100" width="530" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m9JA2agfg_9Ffgb6oEko-5" value="浙江省药品目录2021-10-28版（含比例）&lt;br&gt;&lt;b&gt;SIV001635&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-6" value="浙江省诊疗目录2021版（含比例）&lt;br&gt;&lt;b&gt;SIV001653&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
