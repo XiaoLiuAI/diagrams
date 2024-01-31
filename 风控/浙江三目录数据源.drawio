@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T02:28:11.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8ww673U9ZBcDV5xv3x8i" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T02:28:52.718Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="epr2D9BUIChyesVZb18H" version="23.0.2" type="github">
   <diagram name="Page-1" id="BYAd6YRiUkzF32hPVrgd">
     <mxGraphModel dx="2924" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,6 +122,12 @@
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-20" value="可更新数据源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="-95" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-21" value="比例政策" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-22" value="自制剂目录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="60" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
