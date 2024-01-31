@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T07:22:23.475Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8PU10d5tgQY9SeScTCjM" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T07:23:00.708Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="6TwkL9uqRKW5bk6XUBbd" version="23.0.2" type="github">
   <diagram name="Page-1" id="p5EWYLDp4G2Gur9emjvL">
     <mxGraphModel dx="2924" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,6 +54,9 @@
         <mxCell id="O8SbvKC6dIHrcanPdvxR-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="O8SbvKC6dIHrcanPdvxR-12" target="O8SbvKC6dIHrcanPdvxR-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O8SbvKC6dIHrcanPdvxR-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="O8SbvKC6dIHrcanPdvxR-12" target="O8SbvKC6dIHrcanPdvxR-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O8SbvKC6dIHrcanPdvxR-12" value="代理人" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="190" y="370" width="60" height="60" as="geometry" />
         </mxCell>
@@ -66,8 +69,8 @@
         <mxCell id="O8SbvKC6dIHrcanPdvxR-15" value="家庭" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8SbvKC6dIHrcanPdvxR-21" value="支公司" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="320" width="60" height="60" as="geometry" />
+        <mxCell id="O8SbvKC6dIHrcanPdvxR-21" value="机构" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8SbvKC6dIHrcanPdvxR-22" value="客户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="140" width="60" height="60" as="geometry" />
