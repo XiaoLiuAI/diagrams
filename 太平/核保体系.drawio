@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T08:57:57.110Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cjBpvzcb1TtejRQ4SM3P" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T08:58:51.742Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="D7_bhtebyLltosCYFOXg" version="23.0.2" type="github">
   <diagram name="Page-1" id="p5EWYLDp4G2Gur9emjvL">
     <mxGraphModel dx="2924" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
         <mxCell id="O8SbvKC6dIHrcanPdvxR-54" value="决策结论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="765" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8SbvKC6dIHrcanPdvxR-56" value="&lt;font color=&quot;#ff0000&quot;&gt;- 触发规则：代理人高危预警&lt;br&gt;- 规则链路：投保单 -&amp;gt; 代理人 -&amp;gt; 代理人组&lt;br&gt;- 决策描述：因为该投保单代理人xxx，且该代理人所在的代理人组xxxx，所以该投保单具有代理人高危风险&lt;br&gt;- 执行动作：图谱页面告警+风控引擎通知+添加投保单标签&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="O8SbvKC6dIHrcanPdvxR-56" value="&lt;font color=&quot;#ff0000&quot;&gt;- 触发规则：代理人高危预警&lt;br&gt;- 规则链路：投保单 -&amp;gt; 代理人 -&amp;gt; 代理人组&lt;br&gt;- 决策描述：因为该投保单代理人所在的代理人组xxxx，所以该投保单具有代理人高危风险&lt;br&gt;- 执行动作：图谱页面告警+风控引擎通知&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="760" width="520" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O8SbvKC6dIHrcanPdvxR-57" value="投保单数据：当事人ID/代理人ID/险种ID/etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
@@ -102,7 +102,7 @@
           <mxGeometry x="55" y="50" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O8SbvKC6dIHrcanPdvxR-61" value="IF &lt;span style=&quot;background-color: initial;&quot;&gt;‘代理人组赔案拒赔率 &amp;gt; 0.30’&lt;br&gt;THEN WARN 代理人组高危预警&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="290" y="640" width="210" height="90" as="geometry" />
+          <mxGeometry x="290" y="660" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5NwIzXvBVCv3WSua6JrR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8SbvKC6dIHrcanPdvxR-25" target="O8SbvKC6dIHrcanPdvxR-47">
           <mxGeometry relative="1" as="geometry" />
