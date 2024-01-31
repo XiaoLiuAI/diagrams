@@ -1,64 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T09:32:07.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CMtFgP0pK2AjJ3pRVEUz" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T02:14:34.559Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="1SUZdki6a-BFf7A5fRDO" version="23.0.2" type="github">
   <diagram name="Page-1" id="BYAd6YRiUkzF32hPVrgd">
     <mxGraphModel dx="2924" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9JA2agfg_9Ffgb6oEko-3" target="m9JA2agfg_9Ffgb6oEko-5">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="m9JA2agfg_9Ffgb6oEko-3" target="m9JA2agfg_9Ffgb6oEko-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9JA2agfg_9Ffgb6oEko-3" target="m9JA2agfg_9Ffgb6oEko-6">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="m9JA2agfg_9Ffgb6oEko-3" target="m9JA2agfg_9Ffgb6oEko-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-3" value="&lt;a href=&quot;http://ybj.zj.gov.cn/art/2021/11/29/art_1229262886_58828981.html&quot;&gt;浙江省医疗保障局关于统一全省基本医疗保险目录范围内乙类先行自付比例的通知&lt;br&gt;（2021年）&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-3" value="&lt;a href=&quot;http://ybj.zj.gov.cn/art/2021/11/29/art_1229262886_58828981.html&quot;&gt;浙江省医疗保障局关于统一全省基本医疗保险目录范围内乙类先行自付比例的通知&lt;br&gt;（2021年）&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="50" width="530" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-5" value="浙江省药品目录2021-10-28版（含比例）&lt;br&gt;&lt;b&gt;SIV001635&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-5" value="浙江省药品目录2021-10-28版（含比例）&lt;br&gt;&lt;b&gt;SIV001635&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-6" value="浙江省诊疗目录2021版（含比例）&lt;br&gt;&lt;b&gt;SIV001653&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-6" value="浙江省诊疗目录2021版（含比例）&lt;br&gt;&lt;b&gt;SIV001653&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-7" value="政策文件，只有比例，没有目录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-7" value="政策文件，只有比例，没有目录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="60" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m9JA2agfg_9Ffgb6oEko-8" target="m9JA2agfg_9Ffgb6oEko-11">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m9JA2agfg_9Ffgb6oEko-8" target="m9JA2agfg_9Ffgb6oEko-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-8" value="医保药品目录&lt;br&gt;（舟山医保局官网）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-8" value="医保药品目录&lt;br&gt;（舟山医保局官网）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="410" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-9" value="药品目录，只有目录，没有比例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-9" value="药品目录，只有目录，没有比例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="420" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9JA2agfg_9Ffgb6oEko-11" target="m9JA2agfg_9Ffgb6oEko-5">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="m9JA2agfg_9Ffgb6oEko-11" target="m9JA2agfg_9Ffgb6oEko-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-11" value="浙江省药品目录2021-03-08（无比例）&lt;br&gt;&lt;div&gt;&lt;b&gt;SIV001497&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-11" value="浙江省药品目录2021-03-08（无比例）&lt;br&gt;&lt;div&gt;&lt;b&gt;SIV001497&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="65" y="300" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-16" value="浙江省基本医疗保险医疗服务项目目录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-16" value="浙江省基本医疗保险医疗服务项目目录（2021年）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="405" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m9JA2agfg_9Ffgb6oEko-17" target="m9JA2agfg_9Ffgb6oEko-6">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m9JA2agfg_9Ffgb6oEko-17" target="m9JA2agfg_9Ffgb6oEko-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-17" value="浙江省部分材料目录2021版（无比例）&lt;br&gt;&lt;b&gt;SIV001654&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-17" value="浙江省部分材料目录2021版（无比例）&lt;br&gt;&lt;b&gt;SIV001654&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m9JA2agfg_9Ffgb6oEko-16" target="m9JA2agfg_9Ffgb6oEko-17">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m9JA2agfg_9Ffgb6oEko-16" target="m9JA2agfg_9Ffgb6oEko-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-20" value="医疗服务目录，目录比例都有" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-20" value="医疗服务目录，目录比例都有" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="420" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9JA2agfg_9Ffgb6oEko-22" target="m9JA2agfg_9Ffgb6oEko-8">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="m9JA2agfg_9Ffgb6oEko-22" target="m9JA2agfg_9Ffgb6oEko-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-22" value="医保药品目录&lt;br&gt;（德清医保局官网）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-22" value="医保药品目录&lt;br&gt;（德清医保局官网）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="540" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m9JA2agfg_9Ffgb6oEko-23" value="药品目录，目录+支付标准" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m9JA2agfg_9Ffgb6oEko-23" value="药品目录，目录+支付标准" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-40" y="550" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
