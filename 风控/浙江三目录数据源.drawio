@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T02:20:30.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yDMqflMoAEFmGKDmCadg" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T02:27:19.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XN8PlKXYSiXRXfYhNRyf" version="23.0.2" type="github">
   <diagram name="Page-1" id="BYAd6YRiUkzF32hPVrgd">
-    <mxGraphModel dx="2924" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2924" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,35 @@
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-6" value="浙江医保服务平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-8" target="UEc5cqNhAxj1e3aGzfUv-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-8" value="&amp;lt;浙江省基本医疗保险、工伤保险和生育保险医院制剂支付管理暂行办法&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="45" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-9" target="UEc5cqNhAxj1e3aGzfUv-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-9" value="浙江省纳入基本医疗保险、工伤保险和生育保险基金支付范围医院制剂目录&lt;br&gt;（2021年）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="45" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-10" value="浙江省医院制剂目录2022-01-26版（含比例）&lt;br&gt;&lt;b&gt;SIV001636&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-14" target="UEc5cqNhAxj1e3aGzfUv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-14" value="浙江省医疗保障局浙江省人力资源和社会保障厅关于公布第三批基本医疗保险、工伤保险和生育保险医院制剂的通知&lt;br&gt;（2013年）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-110" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
