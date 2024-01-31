@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T07:27:03.460Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7-7o_b2V6KL8_4lfoIYC" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T07:37:56.271Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0Q5s2PiYRQX6rXGUb2AO" version="23.0.2" type="github">
   <diagram name="Page-1" id="p5EWYLDp4G2Gur9emjvL">
     <mxGraphModel dx="3443" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -140,8 +140,8 @@
         <mxCell id="O8SbvKC6dIHrcanPdvxR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8SbvKC6dIHrcanPdvxR-25" target="O8SbvKC6dIHrcanPdvxR-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8SbvKC6dIHrcanPdvxR-47" value="标签生成规则引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="O8SbvKC6dIHrcanPdvxR-47" value="风控决策规则引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
