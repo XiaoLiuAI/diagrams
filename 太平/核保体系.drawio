@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T08:58:51.742Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="D7_bhtebyLltosCYFOXg" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T08:59:18.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pvl-YwF3W0ehSbQ6XPDz" version="23.0.2" type="github">
   <diagram name="Page-1" id="p5EWYLDp4G2Gur9emjvL">
     <mxGraphModel dx="2924" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,8 +98,8 @@
         <mxCell id="O8SbvKC6dIHrcanPdvxR-57" value="投保单数据：当事人ID/代理人ID/险种ID/etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-350" y="400" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8SbvKC6dIHrcanPdvxR-59" value="代理人画像：每日定时更新「代理人保单短期出险率」指标&lt;br&gt;代理人组画像：每日定时更新「代理人组赔案拒赔率」指标&lt;br&gt;投保单画像：实时计算投保单代理人评分（根据阈值权重实时更新）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="55" y="50" width="370" height="70" as="geometry" />
+        <mxCell id="O8SbvKC6dIHrcanPdvxR-59" value="代理人指标：每日定时更新「代理人保单短期出险率」指标&lt;br&gt;代理人组指标：每日定时更新「代理人组赔案拒赔率」指标&lt;br&gt;投保单指标：实时计算投保单代理人评分（根据阈值权重实时更新）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="50" y="50" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O8SbvKC6dIHrcanPdvxR-61" value="IF &lt;span style=&quot;background-color: initial;&quot;&gt;‘代理人组赔案拒赔率 &amp;gt; 0.30’&lt;br&gt;THEN WARN 代理人组高危预警&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="290" y="660" width="210" height="50" as="geometry" />
