@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T02:56:17.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZWkc-0BsQ6TEYQQroYZy" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T02:56:37.567Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="L5CmOdjyUaY6apHQMIYr" version="23.0.2" type="github">
   <diagram name="Page-1" id="BYAd6YRiUkzF32hPVrgd">
     <mxGraphModel dx="2924" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
           <mxGeometry x="580" y="540" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-25" value="药品目录：目录可以爬，比例政策在文件中&lt;br&gt;诊疗服务（医用材料）目录：比例目录都在文件中&lt;br&gt;服务设施目录：政策只提及「中心监护病房」和「层流病房」" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="690" width="380" height="50" as="geometry" />
+          <mxGeometry x="20" y="670" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-26" value="医保服务平台也能爬到" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1460" y="-90" width="80" height="30" as="geometry" />
