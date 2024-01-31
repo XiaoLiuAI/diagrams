@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T08:04:56.528Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4CWKFNhAYNzbw7qc1qF7" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T08:16:45.425Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mLHe73DvlQ4L-AaLT9RT" version="23.0.2" type="github">
   <diagram name="Page-1" id="p5EWYLDp4G2Gur9emjvL">
     <mxGraphModel dx="2653" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -168,6 +168,18 @@
         </mxCell>
         <mxCell id="O8SbvKC6dIHrcanPdvxR-56" value="- 触发规则&lt;br&gt;- 规则链路&lt;br&gt;- 决策描述&lt;br&gt;- 执行动作" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="920" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O8SbvKC6dIHrcanPdvxR-57" value="投保单数据：当事人ID/代理人ID/险种ID/etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="400" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O8SbvKC6dIHrcanPdvxR-59" value="代理人画像：每日定时更新「代理人保单短期出险率」指标&lt;br&gt;代理人组画像：每日定时更新「代理人组赔案拒赔率」指标&lt;br&gt;投保单画像：实时计算投保单代理人评分（根据阈值权重实时更新）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="55" y="50" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O8SbvKC6dIHrcanPdvxR-60" value="IF 投保单代理人评分 &amp;gt; 0.75&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;THEN ‘中危代理人风险投保单’&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O8SbvKC6dIHrcanPdvxR-61" value="IF &lt;span style=&quot;background-color: initial;&quot;&gt;‘中危代理人风险投保单’ &lt;br&gt;AND ‘代理人组赔案拒赔率 &amp;gt; 0.30’&lt;br&gt;THEN&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="790" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
