@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T02:49:45.549Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SELIG2QQ3DLhsLbqiKjY" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T02:56:17.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZWkc-0BsQ6TEYQQroYZy" version="23.0.2" type="github">
   <diagram name="Page-1" id="BYAd6YRiUkzF32hPVrgd">
     <mxGraphModel dx="2924" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,10 +65,10 @@
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-1" target="m9JA2agfg_9Ffgb6oEko-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UEc5cqNhAxj1e3aGzfUv-1" value="浙江省基本医疗保险医疗服务项目目录（2023年）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-1" value="&lt;a href=&quot;http://ybj.zj.gov.cn/art/2023/1/10/art_1229225636_5052263.html&quot;&gt;浙江省基本医疗保险医疗服务项目目录（2023年）&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="450" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UEc5cqNhAxj1e3aGzfUv-4" value="国家基本医疗保险、工伤保险和生育保险药品目录（2022年）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-4" value="&lt;a href=&quot;http://ybj.zj.gov.cn/art/2023/3/1/art_1229225636_5074403.html&quot;&gt;国家基本医疗保险、工伤保险和生育保险药品目录（2022年）&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-6" target="m9JA2agfg_9Ffgb6oEko-8">
@@ -79,7 +79,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEc5cqNhAxj1e3aGzfUv-6" value="浙江医保服务平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-6" value="&lt;a href=&quot;https://zhyb.ybj.zj.gov.cn/#/search/MedicalTreatment&quot;&gt;浙江医保服务平台&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-40" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-8" target="UEc5cqNhAxj1e3aGzfUv-10">
@@ -131,6 +131,12 @@
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-23" value="医疗服务目录，&lt;br&gt;目录比例都有" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="540" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-25" value="药品目录：目录可以爬，比例政策在文件中&lt;br&gt;诊疗服务（医用材料）目录：比例目录都在文件中&lt;br&gt;服务设施目录：政策只提及「中心监护病房」和「层流病房」" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-26" value="医保服务平台也能爬到" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="-90" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
