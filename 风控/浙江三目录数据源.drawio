@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T02:44:19.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="9u1ktYYmjsfmUI7rlhSM" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T02:47:08.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="S-8IlzVVaBM9cBMluRbW" version="23.0.2" type="github">
   <diagram name="Page-1" id="BYAd6YRiUkzF32hPVrgd">
     <mxGraphModel dx="2924" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEc5cqNhAxj1e3aGzfUv-8" value="&amp;lt;浙江省基本医疗保险、工伤保险和生育保险医院制剂支付管理暂行办法&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-8" value="&lt;a href=&quot;https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3190/site/attach/0/edf8e19eb4f746cc884567a6b8a70e32.pdf&quot;&gt;&amp;lt;浙江省基本医疗保险、工伤保险和生育保险医院制剂支付管理暂行办法&amp;gt;&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="45" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-9" target="UEc5cqNhAxj1e3aGzfUv-10">
@@ -108,7 +108,7 @@
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-14" target="UEc5cqNhAxj1e3aGzfUv-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UEc5cqNhAxj1e3aGzfUv-14" value="浙江省医疗保障局浙江省人力资源和社会保障厅关于公布第三批基本医疗保险、工伤保险和生育保险医院制剂的通知&lt;br&gt;（2013年）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-14" value="&lt;a href=&quot;http://ybj.zj.gov.cn/art/2023/12/29/art_1229113757_2506286.html&quot;&gt;浙江省医疗保障局浙江省人力资源和社会保障厅关于公布第三批基本医疗保险、工伤保险和生育保险医院制剂的通知&lt;br&gt;（2013年）&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1170" y="-110" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
