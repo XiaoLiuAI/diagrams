@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T02:27:19.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XN8PlKXYSiXRXfYhNRyf" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T02:28:11.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8ww673U9ZBcDV5xv3x8i" version="23.0.2" type="github">
   <diagram name="Page-1" id="BYAd6YRiUkzF32hPVrgd">
     <mxGraphModel dx="2924" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,10 +65,10 @@
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-1" target="m9JA2agfg_9Ffgb6oEko-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UEc5cqNhAxj1e3aGzfUv-1" value="浙江省基本医疗保险医疗服务项目目录（2023年）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-1" value="浙江省基本医疗保险医疗服务项目目录（2023年）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="450" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UEc5cqNhAxj1e3aGzfUv-4" value="国家基本医疗保险、工伤保险和生育保险药品目录（2022年）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-4" value="国家基本医疗保险、工伤保险和生育保险药品目录（2022年）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-6" target="m9JA2agfg_9Ffgb6oEko-8">
@@ -79,7 +79,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEc5cqNhAxj1e3aGzfUv-6" value="浙江医保服务平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-6" value="浙江医保服务平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-40" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-8" target="UEc5cqNhAxj1e3aGzfUv-10">
@@ -110,6 +110,18 @@
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-14" value="浙江省医疗保障局浙江省人力资源和社会保障厅关于公布第三批基本医疗保险、工伤保险和生育保险医院制剂的通知&lt;br&gt;（2013年）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1170" y="-110" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-170" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-18" value="当前版本数据集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-165" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-20" value="可更新数据源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-95" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
