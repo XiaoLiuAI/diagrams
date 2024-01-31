@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T02:18:04.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="E40krOU-pHcbRgmkvQZE" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T02:20:30.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yDMqflMoAEFmGKDmCadg" version="23.0.2" type="github">
   <diagram name="Page-1" id="BYAd6YRiUkzF32hPVrgd">
     <mxGraphModel dx="2924" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,6 +70,17 @@
         </mxCell>
         <mxCell id="UEc5cqNhAxj1e3aGzfUv-4" value="国家基本医疗保险、工伤保险和生育保险药品目录（2022年）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEc5cqNhAxj1e3aGzfUv-6" target="m9JA2agfg_9Ffgb6oEko-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="480" />
+              <mxPoint x="200" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEc5cqNhAxj1e3aGzfUv-6" value="浙江医保服务平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
