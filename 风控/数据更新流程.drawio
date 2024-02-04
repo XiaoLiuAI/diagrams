@@ -1,20 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T03:39:20.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="odTYnRgfV0HCPx-ZCj7O" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-04T03:45:10.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="E9eZfpln3PCdEJ7_fB_q" version="23.0.2" type="github">
   <diagram name="Page-1" id="Ri2uYWYrFrsr7uGm-NML">
     <mxGraphModel dx="2074" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tZFEMtretcMnwATeE7CU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tZFEMtretcMnwATeE7CU-1" target="tZFEMtretcMnwATeE7CU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZFEMtretcMnwATeE7CU-13" value="人工整理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tZFEMtretcMnwATeE7CU-9">
+          <mxGeometry y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tZFEMtretcMnwATeE7CU-1" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tZFEMtretcMnwATeE7CU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tZFEMtretcMnwATeE7CU-2" target="tZFEMtretcMnwATeE7CU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZFEMtretcMnwATeE7CU-14" value="Web端新建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tZFEMtretcMnwATeE7CU-11">
+          <mxGeometry x="-0.1333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tZFEMtretcMnwATeE7CU-2" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZFEMtretcMnwATeE7CU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tZFEMtretcMnwATeE7CU-3" target="tZFEMtretcMnwATeE7CU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZFEMtretcMnwATeE7CU-16" value="模板文件上传" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tZFEMtretcMnwATeE7CU-15">
+          <mxGeometry x="-0.0333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tZFEMtretcMnwATeE7CU-3" value="版本创建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tZFEMtretcMnwATeE7CU-4" value="数据发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tZFEMtretcMnwATeE7CU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tZFEMtretcMnwATeE7CU-5" target="tZFEMtretcMnwATeE7CU-1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,6 +50,18 @@
         </mxCell>
         <mxCell id="tZFEMtretcMnwATeE7CU-5" value="外部数据源" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="-70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tZFEMtretcMnwATeE7CU-8" value="输出：原始Excel文件" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="115" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tZFEMtretcMnwATeE7CU-10" value="输出：统一模板Excel文件" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="235" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tZFEMtretcMnwATeE7CU-12" value="输出：新建版本信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="355" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tZFEMtretcMnwATeE7CU-18" value="输出：线上新增数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="475" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
