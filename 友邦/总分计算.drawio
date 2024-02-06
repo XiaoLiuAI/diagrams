@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T10:12:18.029Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ijhpok2Rnm2DStQY0pTC" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T10:16:54.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="m3tXxy79gp7SbSB5HcNr" version="23.1.1" type="github">
   <diagram name="Page-1" id="bNVulBxxZe2AlK8mu-bY">
     <mxGraphModel dx="2074" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,6 +76,21 @@
         </mxCell>
         <mxCell id="Zc-qCcweq486cSwZ62Qk-25" value="总分=加权求和（维度分）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc-qCcweq486cSwZ62Qk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zc-qCcweq486cSwZ62Qk-26" target="Zc-qCcweq486cSwZ62Qk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc-qCcweq486cSwZ62Qk-26" value="等级评定模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc-qCcweq486cSwZ62Qk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zc-qCcweq486cSwZ62Qk-27" target="Zc-qCcweq486cSwZ62Qk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc-qCcweq486cSwZ62Qk-27" value="业务指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="905" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc-qCcweq486cSwZ62Qk-28" value="等级标签（ABCDE）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="905" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
