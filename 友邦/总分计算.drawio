@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T10:16:54.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="m3tXxy79gp7SbSB5HcNr" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T01:28:55.662Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="S8yFWr23ktq7g59OObid" version="23.1.1" type="github">
   <diagram name="Page-1" id="bNVulBxxZe2AlK8mu-bY">
     <mxGraphModel dx="2074" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         <mxCell id="Zc-qCcweq486cSwZ62Qk-21" value="代理人指标加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="420" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zc-qCcweq486cSwZ62Qk-23" value="指标分 = 指标分计算函数（代理人指标，函数参数）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Zc-qCcweq486cSwZ62Qk-23" value="指标分 = 指标分计算函数（代理人指标，**函数参数）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="510" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zc-qCcweq486cSwZ62Qk-24" value="维度分=加权求和（指标分）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
