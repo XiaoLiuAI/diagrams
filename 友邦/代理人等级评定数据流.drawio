@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T02:34:41.397Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RFf-GOyh5kPQiCqyNLw5" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T02:59:33.554Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SBTAsrwhoLw3DjNlI70N" version="23.1.5" type="github">
   <diagram name="Page-1" id="lUy-RcybWnonIY5IhTIt">
     <mxGraphModel dx="1194" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="YhcIo-saEXxVYmsAiwPr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-1" target="YhcIo-saEXxVYmsAiwPr-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;业务指标&lt;br&gt;（metric）&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;业务指标&lt;br&gt;（metric）&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§2&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="90" y="122.5" width="75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YhcIo-saEXxVYmsAiwPr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-2" target="YhcIo-saEXxVYmsAiwPr-3">
@@ -21,7 +21,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;指标分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（metric score）&lt;br&gt;§2&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;指标分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（metric score）&lt;br&gt;§3&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="245" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YhcIo-saEXxVYmsAiwPr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-3" target="YhcIo-saEXxVYmsAiwPr-4">
@@ -32,7 +32,7 @@
             <mxPoint x="-12" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;维度分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（dim score）&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§3&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;维度分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（dim score）&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§4&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="240" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YhcIo-saEXxVYmsAiwPr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-4" target="YhcIo-saEXxVYmsAiwPr-5">
@@ -43,13 +43,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;总分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（final score）&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§5&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;总分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（final score）&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§4&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YhcIo-saEXxVYmsAiwPr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-5" target="YhcIo-saEXxVYmsAiwPr-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;等级&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（rank）&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§6&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;等级&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（rank）&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§5&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YhcIo-saEXxVYmsAiwPr-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;权益&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（benefit）&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§6&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
         <mxCell id="YhcIo-saEXxVYmsAiwPr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-9" target="YhcIo-saEXxVYmsAiwPr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-9" value="&lt;b&gt;打分函数&lt;br&gt;（function）&lt;br&gt;§2&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-9" value="&lt;b&gt;打分函数&lt;br&gt;（function）&lt;br&gt;§3&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="150" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="YhcIo-saEXxVYmsAiwPr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-21" target="YhcIo-saEXxVYmsAiwPr-4">
@@ -69,7 +69,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-21" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;MCC处罚&lt;br&gt;（mcc）&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§4&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-21" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;MCC处罚&lt;br&gt;（mcc）&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§2&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="612.5" y="80" width="75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YhcIo-saEXxVYmsAiwPr-30" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;结果数据&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;§7&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
