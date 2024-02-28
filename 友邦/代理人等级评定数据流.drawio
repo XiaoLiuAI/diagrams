@@ -1,26 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T02:22:45.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9lOTu-AxxC8lKnMjtY4v" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T02:25:56.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XeUsHwDfaUoh_ya6tXSL" version="23.1.5" type="github">
   <diagram name="Page-1" id="lUy-RcybWnonIY5IhTIt">
     <mxGraphModel dx="1194" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;业务指标&lt;br&gt;（metric）&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="40" y="230" width="75" height="100" as="geometry" />
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-1" target="YhcIo-saEXxVYmsAiwPr-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;指标分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（metric score）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;业务指标&lt;br&gt;（metric）&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="75" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;维度分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（dim score）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-2" target="YhcIo-saEXxVYmsAiwPr-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;总分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（final score）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-13" value="加权求和" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YhcIo-saEXxVYmsAiwPr-12">
+          <mxGeometry x="-0.2444" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;等级&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（rank）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;指标分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（metric score）&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YhcIo-saEXxVYmsAiwPr-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;权益&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（benefit）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-3" target="YhcIo-saEXxVYmsAiwPr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-15" value="加权求和" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YhcIo-saEXxVYmsAiwPr-14">
+          <mxGeometry x="0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="-12" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;维度分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（dim score）&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-4" target="YhcIo-saEXxVYmsAiwPr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-19" value="分段定级" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YhcIo-saEXxVYmsAiwPr-18">
+          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;总分&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（final score）&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcIo-saEXxVYmsAiwPr-5" target="YhcIo-saEXxVYmsAiwPr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;等级&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（rank）&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;权益&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（benefit）&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcIo-saEXxVYmsAiwPr-9" value="&lt;b&gt;打分函数&lt;br&gt;（function）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="137.5" width="70" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
