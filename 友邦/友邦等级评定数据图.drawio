@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T06:13:23.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Vi_jaug8KUSmh3I6Ce3F" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T06:13:44.318Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6FcZTT6xC2eI0Wy8cBxt" version="24.1.0" type="github">
   <diagram name="Page-1" id="7adLxPBNDACRK67hd0sj">
     <mxGraphModel dx="1194" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,7 +188,7 @@
         <mxCell id="HvlShVi-bSNx_eHB84_e-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HvlShVi-bSNx_eHB84_e-75" target="HvlShVi-bSNx_eHB84_e-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HvlShVi-bSNx_eHB84_e-75" value="新入职默认等级" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="HvlShVi-bSNx_eHB84_e-75" value="新入职默认等级&lt;div&gt;t_agent_score_default&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1015" y="510" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HvlShVi-bSNx_eHB84_e-77" value="打分函数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
