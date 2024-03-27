@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T06:13:54.034Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="i1IuRhD-dwykaBmBsjPd" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T06:16:31.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="D-kRDKMeVR9DRflJAL88" version="24.1.0" type="github">
   <diagram name="Page-1" id="7adLxPBNDACRK67hd0sj">
     <mxGraphModel dx="1194" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -193,6 +193,68 @@
         </mxCell>
         <mxCell id="HvlShVi-bSNx_eHB84_e-77" value="打分函数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="950" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-92" value="业务系统&lt;div&gt;原始数据源&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1950" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HvlShVi-bSNx_eHB84_e-94" target="HvlShVi-bSNx_eHB84_e-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-94" value="数据中台" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2050" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HvlShVi-bSNx_eHB84_e-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="2216" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="2080" />
+              <mxPoint x="490" y="2216" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HvlShVi-bSNx_eHB84_e-94" target="HvlShVi-bSNx_eHB84_e-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HvlShVi-bSNx_eHB84_e-98" target="HvlShVi-bSNx_eHB84_e-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-98" value="指标原值" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2015" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-99" value="业务系统&lt;div&gt;原始数据源&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1950" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-100" value="渠道指标表&lt;div&gt;ads_agent_channel_indicator&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2100" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-103" value="从当前回溯12个月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-104" value="当前月回溯12个月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1960" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-108" value="月度指标配置表&lt;div&gt;（t_metrics_setting）&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="295" y="2150" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-111" value="渠道指标表&lt;div&gt;ads_agent_channel_indicator&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1910" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-112" value="MCC表&lt;div&gt;日志：t_mcc_case_info&lt;/div&gt;&lt;div&gt;规则：t_deduct_rule&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2300" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HvlShVi-bSNx_eHB84_e-98" target="HvlShVi-bSNx_eHB84_e-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="2080" />
+              <mxPoint x="790" y="1985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HvlShVi-bSNx_eHB84_e-98" target="HvlShVi-bSNx_eHB84_e-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvlShVi-bSNx_eHB84_e-115" value="当前月回溯12个月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="2170" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
