@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T11:29:01.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Z1aQIr872pP3eaaCMEcT" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T11:31:33.158Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="H4zAesuzFtS7w_iS9jw9" version="24.2.1" type="github">
   <diagram name="Page-1" id="7adLxPBNDACRK67hd0sj">
     <mxGraphModel dx="2044" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="HvlShVi-bSNx_eHB84_e-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HvlShVi-bSNx_eHB84_e-11" target="HvlShVi-bSNx_eHB84_e-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HvlShVi-bSNx_eHB84_e-11" value="指标原值&lt;div&gt;渠道指标&amp;amp;运营指标&amp;amp;mcc指标&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" parent="1" vertex="1">
+        <mxCell id="HvlShVi-bSNx_eHB84_e-11" value="指标原值" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="245" width="100" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HvlShVi-bSNx_eHB84_e-14" value="业务系统&lt;div&gt;原始数据源&lt;/div&gt;&lt;div&gt;渠道数据&amp;amp;运营数据&amp;amp;mcc数据&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
@@ -45,7 +45,7 @@
         <mxCell id="HvlShVi-bSNx_eHB84_e-16" value="渠道指标表&lt;div&gt;ads_agent_channel_indicator&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="540" y="330" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HvlShVi-bSNx_eHB84_e-17" value="MCC表&lt;div&gt;日志：t_mcc_case_info&lt;/div&gt;&lt;div&gt;规则：t_deduct_rule&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="HvlShVi-bSNx_eHB84_e-17" value="MCC表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="540" y="500" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="HvlShVi-bSNx_eHB84_e-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HvlShVi-bSNx_eHB84_e-11" target="HvlShVi-bSNx_eHB84_e-15" edge="1">
@@ -170,14 +170,11 @@
         <mxCell id="HvlShVi-bSNx_eHB84_e-64" value="人工调整&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HvlShVi-bSNx_eHB84_e-68" value="正式表&lt;div&gt;（polardb）&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="1235" y="1350" width="105" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="HvlShVi-bSNx_eHB84_e-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HvlShVi-bSNx_eHB84_e-70" target="HvlShVi-bSNx_eHB84_e-68" edge="1">
+        <mxCell id="3zQXY_a1AxxIlGqBTlwH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HvlShVi-bSNx_eHB84_e-68" target="3zQXY_a1AxxIlGqBTlwH-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HvlShVi-bSNx_eHB84_e-70" value="后端" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="1390" width="30" height="60" as="geometry" />
+        <mxCell id="HvlShVi-bSNx_eHB84_e-68" value="正式表&lt;div&gt;（polardb）&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="1235" y="1350" width="105" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HvlShVi-bSNx_eHB84_e-73" value="前一&lt;span style=&quot;background-color: initial;&quot;&gt;年&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="770" y="190" width="60" height="30" as="geometry" />
@@ -299,6 +296,21 @@
         </mxCell>
         <mxCell id="HvlShVi-bSNx_eHB84_e-123" value="新入职默认等级&lt;div&gt;t_agent_score_default&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1340" y="1880" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3zQXY_a1AxxIlGqBTlwH-3" value="正式表&lt;div&gt;（mc）&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="1350" width="105" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3zQXY_a1AxxIlGqBTlwH-6" value="?" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1595" y="1350" width="105" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3zQXY_a1AxxIlGqBTlwH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3zQXY_a1AxxIlGqBTlwH-3" target="3zQXY_a1AxxIlGqBTlwH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zQXY_a1AxxIlGqBTlwH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3zQXY_a1AxxIlGqBTlwH-10" target="3zQXY_a1AxxIlGqBTlwH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zQXY_a1AxxIlGqBTlwH-10" value="后端" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="1390" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
