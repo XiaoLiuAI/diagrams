@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T09:25:13.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.3" etag="ErK-FNYdCGbzunyZsWoC" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T09:25:30.331Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bgey21TOAPKThk1tJL0U" version="24.2.3" type="github">
   <diagram name="Page-1" id="pVyx7AFgYSGBUkXHzs9j">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="62KSsjE5slRflY_eG6V0-1" value="数据中台&lt;div&gt;指标原值&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="90" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
