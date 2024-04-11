@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T09:35:30.178Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uuJ3XPHrfdZWqgcHg912" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T09:48:36.223Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="s1wx0v7-5IbGp_tG4jhH" version="24.2.3" type="github">
   <diagram name="Page-1" id="pVyx7AFgYSGBUkXHzs9j">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,9 +77,6 @@
         <mxCell id="62KSsjE5slRflY_eG6V0-22" value="展翼平台&lt;div&gt;等级结果&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="410" y="540" width="90" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="62KSsjE5slRflY_eG6V0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62KSsjE5slRflY_eG6V0-24" target="62KSsjE5slRflY_eG6V0-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="62KSsjE5slRflY_eG6V0-24" value="展翼平台&lt;div&gt;正式发布结果&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="580" y="540" width="90" height="130" as="geometry" />
         </mxCell>
@@ -92,7 +89,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="62KSsjE5slRflY_eG6V0-27" value="后端缓存数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="740" y="540" width="90" height="130" as="geometry" />
+          <mxGeometry x="410" y="740" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="62KSsjE5slRflY_eG6V0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62KSsjE5slRflY_eG6V0-32" target="62KSsjE5slRflY_eG6V0-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62KSsjE5slRflY_eG6V0-32" value="数据中台&lt;div&gt;正式发布结果&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="580" y="740" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="62KSsjE5slRflY_eG6V0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="62KSsjE5slRflY_eG6V0-24" target="62KSsjE5slRflY_eG6V0-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62KSsjE5slRflY_eG6V0-34" value="数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="62KSsjE5slRflY_eG6V0-33">
+          <mxGeometry x="-0.0286" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
