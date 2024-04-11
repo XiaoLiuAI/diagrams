@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T09:59:49.631Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fxUZLwR5A2Cmpl2umgtp" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T10:00:45.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NCrh-9UNQDCzqlChPtvx" version="24.2.3" type="github">
   <diagram name="Page-1" id="pVyx7AFgYSGBUkXHzs9j">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,8 +141,26 @@
         <mxCell id="62KSsjE5slRflY_eG6V0-45" value="数据集" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="560" y="920" width="90" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="62KSsjE5slRflY_eG6V0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62KSsjE5slRflY_eG6V0-48" target="62KSsjE5slRflY_eG6V0-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="62KSsjE5slRflY_eG6V0-48" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62KSsjE5slRflY_eG6V0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62KSsjE5slRflY_eG6V0-49" target="62KSsjE5slRflY_eG6V0-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62KSsjE5slRflY_eG6V0-49" value="指标分版本配置" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1145" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="62KSsjE5slRflY_eG6V0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62KSsjE5slRflY_eG6V0-51" target="62KSsjE5slRflY_eG6V0-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62KSsjE5slRflY_eG6V0-51" value="选择数据集版本" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1145" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="62KSsjE5slRflY_eG6V0-52" value="指标分&lt;div&gt;测算结果&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1145" width="90" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
