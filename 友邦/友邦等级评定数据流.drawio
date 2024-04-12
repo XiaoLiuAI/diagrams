@@ -1,11 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T04:02:23.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SlQ_JPzWJZ8vbx4uLTDg" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T04:04:17.536Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-l_ADCJVpeRqO5BPXEa-" version="24.2.3" type="github">
   <diagram name="Page-1" id="Ac7PH2RQ3yaFLBozEbNl">
     <mxGraphModel dx="1194" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="arN5VARNRhYpQM9ClI0x-1" value="MaxCompute&lt;div&gt;指标原值&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="90" height="140" as="geometry" />
+        <mxCell id="arN5VARNRhYpQM9ClI0x-1" value="MaxCompute" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="arN5VARNRhYpQM9ClI0x-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arN5VARNRhYpQM9ClI0x-2" target="arN5VARNRhYpQM9ClI0x-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arN5VARNRhYpQM9ClI0x-4" value="加载指标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="arN5VARNRhYpQM9ClI0x-3">
+          <mxGeometry x="0.1385" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arN5VARNRhYpQM9ClI0x-2" value="DLC&lt;div&gt;代理人等级评定任务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="195" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arN5VARNRhYpQM9ClI0x-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="arN5VARNRhYpQM9ClI0x-2" target="arN5VARNRhYpQM9ClI0x-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="340" />
+              <mxPoint x="99" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arN5VARNRhYpQM9ClI0x-6" value="保存计算结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="arN5VARNRhYpQM9ClI0x-5">
+          <mxGeometry x="0.132" y="4" relative="1" as="geometry">
+            <mxPoint x="-5" y="-4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
