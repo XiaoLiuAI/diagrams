@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T04:37:10.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qtbn_3rMcV9_J8MA5CEd" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T04:38:34.493Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5viZqga6THTS1R4IGvrS" version="24.2.3" type="github">
   <diagram name="Page-1" id="Ac7PH2RQ3yaFLBozEbNl">
     <mxGraphModel dx="1194" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,25 +29,22 @@
             <mxPoint x="-5" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="arN5VARNRhYpQM9ClI0x-12" value="MaxCompute" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="460" width="90" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="arN5VARNRhYpQM9ClI0x-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arN5VARNRhYpQM9ClI0x-13" target="arN5VARNRhYpQM9ClI0x-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="arN5VARNRhYpQM9ClI0x-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arN5VARNRhYpQM9ClI0x-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="515" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="arN5VARNRhYpQM9ClI0x-16" value="拉取正式结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="arN5VARNRhYpQM9ClI0x-15">
           <mxGeometry x="0.1" y="-1" relative="1" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="arN5VARNRhYpQM9ClI0x-13" value="DLC&lt;div&gt;正式结果同步任务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arN5VARNRhYpQM9ClI0x-13" value="DLC&lt;div&gt;正式结果同步任务&lt;/div&gt;&lt;div&gt;Python脚本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="485" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arN5VARNRhYpQM9ClI0x-17" value="PolarDb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="620" width="90" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="arN5VARNRhYpQM9ClI0x-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="arN5VARNRhYpQM9ClI0x-13" target="arN5VARNRhYpQM9ClI0x-17">
+        <mxCell id="arN5VARNRhYpQM9ClI0x-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="arN5VARNRhYpQM9ClI0x-13">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="675" as="targetPoint" />
             <Array as="points">
               <mxPoint x="375" y="675" />
             </Array>
@@ -60,6 +57,12 @@
         </mxCell>
         <mxCell id="arN5VARNRhYpQM9ClI0x-23" value="MacCompute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="201" width="120" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="arN5VARNRhYpQM9ClI0x-27" value="MacCompute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="475.5" width="120" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="arN5VARNRhYpQM9ClI0x-28" value="PolarDb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="636" width="120" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
