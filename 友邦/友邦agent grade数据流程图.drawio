@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T14:07:37.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cpEoru9AnFXq9X6tXCX_" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T14:11:41.903Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KYoOSmIwgpxqthNa8zXA" version="24.2.3" type="github">
   <diagram name="Page-1" id="pVyx7AFgYSGBUkXHzs9j">
-    <mxGraphModel dx="1194" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,7 +264,7 @@
         <mxCell id="gHyjkIjv2FYd1GMIZeO9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gHyjkIjv2FYd1GMIZeO9-9" target="gHyjkIjv2FYd1GMIZeO9-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gHyjkIjv2FYd1GMIZeO9-11" value="加载指标原值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gHyjkIjv2FYd1GMIZeO9-10">
+        <mxCell id="gHyjkIjv2FYd1GMIZeO9-11" value="加载数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gHyjkIjv2FYd1GMIZeO9-10">
           <mxGeometry x="-0.103" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -274,6 +274,19 @@
         </mxCell>
         <mxCell id="gHyjkIjv2FYd1GMIZeO9-12" value="PolarDb&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHyjkIjv2FYd1GMIZeO9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gHyjkIjv2FYd1GMIZeO9-6" target="gHyjkIjv2FYd1GMIZeO9-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="1754" />
+              <mxPoint x="115" y="1754" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHyjkIjv2FYd1GMIZeO9-16" value="可视化图表展示" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gHyjkIjv2FYd1GMIZeO9-15">
+          <mxGeometry x="0.1552" y="-3" relative="1" as="geometry">
+            <mxPoint x="24" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
