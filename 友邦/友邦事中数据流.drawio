@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T11:21:54.918Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xal3ay-nrNH9GN-tm4cJ" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-14T11:25:31.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="n0fBpu7XQhMniapqGrUM" version="24.2.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1194" dy="640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NZZ-uqQoXGf74AiLfR8R-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="311" width="766" height="364" as="geometry" />
+          <mxGeometry x="28" y="314" width="766" height="364" as="geometry" />
         </mxCell>
         <mxCell id="NZZ-uqQoXGf74AiLfR8R-2" value="风险场景全量跑批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NZZ-uqQoXGf74AiLfR8R-1" vertex="1">
           <mxGeometry x="1" y="11" width="114" height="26" as="geometry" />
@@ -220,7 +220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uQq2c474MPtSlPAoSRMQ-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="28" y="725" width="766" height="307" as="geometry" />
+          <mxGeometry x="28" y="1517" width="766" height="307" as="geometry" />
         </mxCell>
         <mxCell id="uQq2c474MPtSlPAoSRMQ-2" value="风险场景增量跑批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="uQq2c474MPtSlPAoSRMQ-1" vertex="1">
           <mxGeometry x="1" y="11" width="114" height="26" as="geometry" />
@@ -273,6 +273,32 @@
             <Array as="points">
               <mxPoint x="390" y="254" />
               <mxPoint x="116" y="254" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Zf77pVu3-V-iEpfLXSP-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="28" y="702" width="766" height="364" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zf77pVu3-V-iEpfLXSP-10" value="风险场景全量跑批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-Zf77pVu3-V-iEpfLXSP-9">
+          <mxGeometry x="1" y="11" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zf77pVu3-V-iEpfLXSP-16" value="不实告知" style="whiteSpace=wrap;html=1;" vertex="1" parent="-Zf77pVu3-V-iEpfLXSP-9">
+          <mxGeometry x="287.5" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zf77pVu3-V-iEpfLXSP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-Zf77pVu3-V-iEpfLXSP-9" source="-Zf77pVu3-V-iEpfLXSP-21" target="-Zf77pVu3-V-iEpfLXSP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zf77pVu3-V-iEpfLXSP-21" value="maxcompute" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="-Zf77pVu3-V-iEpfLXSP-9">
+          <mxGeometry x="290" y="37" width="115" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zf77pVu3-V-iEpfLXSP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-Zf77pVu3-V-iEpfLXSP-9" source="-Zf77pVu3-V-iEpfLXSP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492.5" y="288" as="sourcePoint" />
+            <mxPoint x="290" y="104.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="348" y="308" />
+              <mxPoint x="129" y="308" />
+              <mxPoint x="129" y="105" />
             </Array>
           </mxGeometry>
         </mxCell>
