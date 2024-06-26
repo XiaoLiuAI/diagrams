@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T10:45:11.926Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Kx1P57bpL0YMSOX40wEd" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T10:45:26.206Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fO_dAPdqvydUBi9CQ1jW" version="24.2.3" type="github">
   <diagram name="Page-1" id="j1ily-13pOXV_0wP2RHP">
     <mxGraphModel dx="1194" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="ZaP1nnSg_37Krj1BMkHy-12" value="Enterprise Data Warehouse，企业数据仓库层，轻加工" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="745" width="305" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZaP1nnSg_37Krj1BMkHy-13" value="Application Data Service，应用数据服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="635" width="245" height="50" as="geometry" />
+        <mxCell id="ZaP1nnSg_37Krj1BMkHy-13" value="Application Data Service，应用数据服务层，对内服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="635" width="315" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZaP1nnSg_37Krj1BMkHy-14" value="Data Service Layer，数据服务层，对外服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="525" width="255" height="50" as="geometry" />
