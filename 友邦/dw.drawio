@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T07:24:02.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="f2azWkNtIKixAWEVqZv9" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T07:25:20.848Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gv5yZTHUWqSPrq_AVMsb" version="24.2.3" type="github">
   <diagram name="Page-1" id="j1ily-13pOXV_0wP2RHP">
     <mxGraphModel dx="1194" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZaP1nnSg_37Krj1BMkHy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="ZaP1nnSg_37Krj1BMkHy-1" target="ZaP1nnSg_37Krj1BMkHy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZaP1nnSg_37Krj1BMkHy-1" value="&lt;b&gt;业务系统&lt;/b&gt;&lt;div&gt;&lt;b&gt;数据库&lt;/b&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="380" y="400" width="90" height="110" as="geometry" />
+          <mxGeometry x="380" y="960" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaP1nnSg_37Krj1BMkHy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZaP1nnSg_37Krj1BMkHy-3" target="ZaP1nnSg_37Krj1BMkHy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaP1nnSg_37Krj1BMkHy-3" value="ODS层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaP1nnSg_37Krj1BMkHy-5" value="ODS层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
