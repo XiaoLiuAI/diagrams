@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-31T12:37:53.532Z" version="24.2.8" etag="SJJ3wPUBDCsMwJS5wpVQ" type="github" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-31T12:43:58.409Z" version="24.2.8" etag="f2HiuqW1oIvSuMQgDdKn" type="github" pages="3">
   <diagram name="Page-1" id="7adLxPBNDACRK67hd0sj">
     <mxGraphModel dx="2107" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -968,6 +968,33 @@
         </mxCell>
         <mxCell id="Ypp6PjMFJNMByJbpdwZt-41" value="Self assurance&lt;div&gt;Inter assurance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="slyc78Y4dcHfVSo_hW-M-1">
           <mxGeometry x="-465" y="987" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypp6PjMFJNMByJbpdwZt-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="slyc78Y4dcHfVSo_hW-M-1">
+          <mxGeometry x="-610" y="230" width="100" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypp6PjMFJNMByJbpdwZt-47" value="ODS &amp;amp; EDW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="slyc78Y4dcHfVSo_hW-M-1">
+          <mxGeometry x="-600" y="205" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypp6PjMFJNMByJbpdwZt-48" value="保全表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="slyc78Y4dcHfVSo_hW-M-1">
+          <mxGeometry x="-600" y="612.5" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypp6PjMFJNMByJbpdwZt-49" value="新单照会表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="slyc78Y4dcHfVSo_hW-M-1">
+          <mxGeometry x="-600" y="680" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypp6PjMFJNMByJbpdwZt-50" value="保全照会表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="slyc78Y4dcHfVSo_hW-M-1">
+          <mxGeometry x="-600" y="750" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypp6PjMFJNMByJbpdwZt-51" value="字典表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="slyc78Y4dcHfVSo_hW-M-1">
+          <mxGeometry x="-600" y="817" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypp6PjMFJNMByJbpdwZt-52" value="系统客户映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="slyc78Y4dcHfVSo_hW-M-1">
+          <mxGeometry x="-600" y="886" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypp6PjMFJNMByJbpdwZt-53" value="代理人表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="slyc78Y4dcHfVSo_hW-M-1">
+          <mxGeometry x="-600" y="957" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypp6PjMFJNMByJbpdwZt-54" value="保单客户关系表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="slyc78Y4dcHfVSo_hW-M-1">
+          <mxGeometry x="-600" y="540" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
